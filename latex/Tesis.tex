@@ -1,0 +1,53 @@
+\documentclass[11pt,openright,final]{unsa}
+\title{Titulo de la tesis}
+\author{Nombre completo del autor de la Tesis}%
+\examinerfour{Prof. Dr. Nombre Apellido}{Externo}{Universidad del ABC} % of being the case
+\date{19 de Junio del 2018}
+\dedicate{A Dios, por todo lo que me ha dado, a todos los profesores
+por sus enseñanzas y algunos amigos.}
+
+
+\usepackage{ifluatex}
+
+
+\ifluatex
+    \usepackage{fontspec}
+    \setsansfont{CMU Sans Serif}%{Arial}
+    \setmainfont{CMU Serif}%{Times New Roman}
+    \setmonofont{CMU Typewriter Text}%{Consolas}
+    \defaultfontfeatures{Ligatures={TeX}}
+\else
+    \usepackage[utf8]{inputenc}
+    \usepackage[T2A,T1]{fontenc}
+\fi
+
+\usepackage[spanish]{babel}
+\usepackage{algorithmic}
+\usepackage[table,xcdraw]{xcolor}
+
+\begin{document}%%%%%%%%-------------------------------------------------------
+\makeFirstCover \makeSecondCover %
+\begin{frontmatter}
+
+\approved{\cuatro}%  {\tres} or {\cuatro}
+
+\dedicatory
+\begin{singlespace}
+\tableofcontents \listoffigures \listoftables \pagebreak
+\end{singlespace}
+\myAcknowledgements{Agradecimientos}%
+\myResumen{Resumen}%
+\myAbstrac{Abstract}%
+\end{frontmatter}%
+\pagestyle{fancyplain}
+\include{Cap1}
+\include{Cap2}
+\include{Cap3}
+\include{Cap4}
+\include{Cap5}
+\myappendix{Apendice}
+\begin{singlespace}
+\bibliographystyle{apalike}%plain
+\mybibliography{biblio}
+\end{singlespace}
+\end{document}%%%%%%%%--------------------------------------------------------

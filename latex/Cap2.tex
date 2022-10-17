@@ -1,0 +1,53 @@
+\chapter{Marco teórico y Antecedentes }
+\hrule \bigskip \vspace*{1cm}
+%------------------------------------------------------------------------
+La forma como colocar un algoritmo es mediante el
+\verb"\usepackage{algorithmic}" y \verb"{algorithm}" este imprime de
+la siguiente forma:
+
+\bigskip
+\begin{algorithm}
+\caption{Mapeamiento}\label{mapeadoEVA} processo\_ID(Identificación de flags)\\
+Require: Lista de ${1\ldots N}$ que contenga los ID de las clases
+correspondientes(provenientes del $FM$).
+\begin{algorithmic} [1]
+\STATE Generar \emph{lista} a partir de pares correspondientes según
+$FM$ \WHILE {SchemaB contenga alguna clase}
+\IF{valorASIG(\emph{claseB}) $\geq$ parametro \verb"VAL"}\STATE
+\emph{claseB} $\Longleftarrow$ siguiente clase de SchemaB \STATE
+\emph{lista} $\Longleftarrow$ agregar los términos de \emph{claseB}
+y su correspondiente \emph{claseA} \STATE valor
+(\emph{lista$(A_{i},B_{j})$})=\verb"POS"=$1$ \ENDIF \ENDWHILE
+\end{algorithmic}
+\end{algorithm}
+
+NOTA: Este package no viene incluido por default en el \LaTeX ni con
+esta plantilla, pero si es de mucha utilidad, esta disponible en
+internet así como muchas otras. Si desean incluir un nuevo
+\verb"\usepackage{Nombre_Package}", solo deben agregarla en el
+archivo \verb"unsa.cls" en una linea y ya estará disponible.
+
+\begin{table}[h]
+  \centering
+  \begin{tabular}{|c|c|c|c|c|}
+  \hline
+  % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
+  Me & Sem & Lug & Pos & Gen\\
+  & Cas & & &\\
+  \hline
+  \hline
+  a & bf & sd & as & hj \\
+  a & bf & sdff & fg & ert \\
+  a & bf & as & fg & klj \\
+  \hline
+\end{tabular}
+  \caption{Como hacer una tabla}\label{tab:demo}
+\end{table}
+
+
+\begin{figure}
+\begin{center}
+\includegraphics[angle=45, width=5cm]{Graficos/escuela}
+\caption{Logotipo de la EPCC}
+\end{center}
+\end{figure}

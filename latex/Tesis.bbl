@@ -1,0 +1,34 @@
+\begin{thebibliography}{}
+
+\bibitem[Abiteboul and Bonner, 1991]{Abiteboul91}
+Abiteboul, S. and Bonner, A. (1991).
+\newblock Object and views.
+\newblock In {\em Proceedings of International Conference on Management of
+  Data}, pages 238--247. ACM SIGMOD.
+
+\bibitem[Atkinson et~al., 1989]{Atkinson89}
+Atkinson, M., Bancilhon, F., DeWitt, D., Dittich, K., Maier, D., and Zdonik, S.
+  (1989).
+\newblock The object-oriented database system manifesto.
+\newblock In {\em Proceedings of International Conference on Deductive and
+  Object-Oriented Databases}, pages 40--57. DOOD 89.
+
+\bibitem[Batini et~al., 1986]{Batini86}
+Batini, C., Lenzerini, M., and Navathe, S.~B. (1986).
+\newblock A comparative analysis of methodologies for database schema
+  integration.
+\newblock In {\em ACM Computing Surveys}, volume~18, pages 321--364.
+
+\bibitem[Bertino, 1992]{Bertino92}
+Bertino, E. (1992).
+\newblock A view mechanism for object-oriented databases.
+\newblock In {\em 3rd International Conference on Extending Database
+  Technology}, pages 136--151. EDBT 92.
+
+\bibitem[Lerner, 2000]{Lerner00}
+Lerner, B.~S. (2000).
+\newblock A model for compound type changes encountered in schema evolution.
+\newblock In {\em ACM Transactions on Database Systems}, volume~25, pages
+  83--127. ACM Inc.
+
+\end{thebibliography}
