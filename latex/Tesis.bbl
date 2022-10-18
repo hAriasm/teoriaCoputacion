@@ -1,7 +1,7 @@
 \begin{thebibliography}{}
 
-\bibitem[Abiteboul and Bonner, 1991]{Abiteboul91}
-Abiteboul, S. and Bonner, A. (1991).
+\bibitem[Abiteboul and Bonnerssss, 1991]{Abiteboul91}
+Abiteboul, S. and Bonnerssss, A. (1991).
 \newblock Object and views.
 \newblock In {\em Proceedings of International Conference on Management of
   Data}, pages 238--247. ACM SIGMOD.
@@ -24,6 +24,13 @@ Bertino, E. (1992).
 \newblock A view mechanism for object-oriented databases.
 \newblock In {\em 3rd International Conference on Extending Database
   Technology}, pages 136--151. EDBT 92.
+
+\bibitem[Deilis Carrazana~Galán, 2015]{EvaluacionAmbiguedad01}
+Deilis Carrazana~Galán, D. M.~B. (2015).
+\newblock {\em Herramienta informática para la evaluación de la ambigüedad
+  en textos legales}.
+\newblock PhD thesis, Universidad de las Ciencias Informáticas departamento
+  Ciencias Informáticas, La Habana, Cuba.
 
 \bibitem[Lerner, 2000]{Lerner00}
 Lerner, B.~S. (2000).
