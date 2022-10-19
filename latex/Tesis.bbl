@@ -1,30 +1,5 @@
 \begin{thebibliography}{}
 
-\bibitem[Abiteboul and Bonnerssss, 1991]{Abiteboul91}
-Abiteboul, S. and Bonnerssss, A. (1991).
-\newblock Object and views.
-\newblock In {\em Proceedings of International Conference on Management of
-  Data}, pages 238--247. ACM SIGMOD.
-
-\bibitem[Atkinson et~al., 1989]{Atkinson89}
-Atkinson, M., Bancilhon, F., DeWitt, D., Dittich, K., Maier, D., and Zdonik, S.
-  (1989).
-\newblock The object-oriented database system manifesto.
-\newblock In {\em Proceedings of International Conference on Deductive and
-  Object-Oriented Databases}, pages 40--57. DOOD 89.
-
-\bibitem[Batini et~al., 1986]{Batini86}
-Batini, C., Lenzerini, M., and Navathe, S.~B. (1986).
-\newblock A comparative analysis of methodologies for database schema
-  integration.
-\newblock In {\em ACM Computing Surveys}, volume~18, pages 321--364.
-
-\bibitem[Bertino, 1992]{Bertino92}
-Bertino, E. (1992).
-\newblock A view mechanism for object-oriented databases.
-\newblock In {\em 3rd International Conference on Extending Database
-  Technology}, pages 136--151. EDBT 92.
-
 \bibitem[Deilis Carrazana~Galán, 2015]{EvaluacionAmbiguedad01}
 Deilis Carrazana~Galán, D. M.~B. (2015).
 \newblock {\em Herramienta informática para la evaluación de la ambigüedad
@@ -32,10 +7,13 @@ Deilis Carrazana~Galán, D. M.~B. (2015).
 \newblock PhD thesis, Universidad de las Ciencias Informáticas departamento
   Ciencias Informáticas, La Habana, Cuba.
 
-\bibitem[Lerner, 2000]{Lerner00}
-Lerner, B.~S. (2000).
-\newblock A model for compound type changes encountered in schema evolution.
-\newblock In {\em ACM Transactions on Database Systems}, volume~25, pages
-  83--127. ACM Inc.
+\bibitem[Jefferson A. Peña-Torres, 2021]{ChatBoot}
+Jefferson A. Peña-Torres, Santiago Giraldo-Alegría, C. A. A.-P. V. A.~B.
+  (2021).
+\newblock Un chatbot para asistir a las necesidades de información en tiempos
+  de covid-19.
+\newblock {\em INGENIERIA Y COMPETITIVIDAD REVISTA CIENTIFICA Y TECNOLOGICA},
+  Vol 24(Nº 1-2022):pages 1--22.
+\newblock chatbot, COVID-19, natural language processing, virtual assistant.
 
 \end{thebibliography}
