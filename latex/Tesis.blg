@@ -25,45 +25,45 @@ Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: biblio.bib
 Warning--can't use both volume and number fields in Batini86
 Warning--can't use both volume and number fields in Lerner00
-You've used 6 entries,
+You've used 8 entries,
             1935 wiz_defined-function locations,
-            526 strings with 4849 characters,
-and the built_in function-call counts, 2926 in all, are:
-= -- 298
-> -- 85
-< -- 11
-+ -- 36
-- -- 28
-* -- 210
-:= -- 454
-add.period$ -- 22
-call.type$ -- 6
-change.case$ -- 43
-chr.to.int$ -- 6
-cite$ -- 8
-duplicate$ -- 143
-empty$ -- 223
-format.name$ -- 36
-if$ -- 638
+            537 strings with 5146 characters,
+and the built_in function-call counts, 3609 in all, are:
+= -- 364
+> -- 99
+< -- 13
++ -- 40
+- -- 32
+* -- 259
+:= -- 572
+add.period$ -- 28
+call.type$ -- 8
+change.case$ -- 55
+chr.to.int$ -- 8
+cite$ -- 10
+duplicate$ -- 175
+empty$ -- 285
+format.name$ -- 42
+if$ -- 776
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 5
-newline$ -- 33
-num.names$ -- 18
-pop$ -- 50
+missing$ -- 7
+newline$ -- 43
+num.names$ -- 24
+pop$ -- 63
 preamble$ -- 1
-purify$ -- 44
+purify$ -- 56
 quote$ -- 0
-skip$ -- 115
+skip$ -- 135
 stack$ -- 0
-substring$ -- 207
-swap$ -- 51
+substring$ -- 264
+swap$ -- 53
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 36
+type$ -- 48
 warning$ -- 2
-while$ -- 22
+while$ -- 27
 width$ -- 0
-write$ -- 87
+write$ -- 112
 (There were 2 warnings)
