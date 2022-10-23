@@ -16,4 +16,16 @@ Jefferson A. Peña-Torres, Santiago Giraldo-Alegría, C. A. A.-P. V. A.~B.
   Vol 24(Nº 1-2022):pages 1--22.
 \newblock chatbot, COVID-19, natural language processing, virtual assistant.
 
+\bibitem[Lesk, 1986]{002}
+Lesk, M.~E. (1986).
+\newblock Automatic sense disambiguation using machine readable dictionaries:
+  how to tell a pine cone from an ice cream cone.
+\newblock In {\em SIGDOC '86}.
+
+\bibitem[Torres-Ramos, 2012]{001}
+Torres-Ramos, S. (2012).
+\newblock Estudio sobre métodos tipo lesk usados para la desambiguación de
+  sentidos de palabras.
+\newblock {\em Research in Computing Science}, 47:139 – 158.
+
 \end{thebibliography}
