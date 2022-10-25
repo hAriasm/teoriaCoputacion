@@ -1,0 +1,11 @@
+*.aux
+*.log
+*.lof
+*.lot
+*.out
+*.toc
+*.pdf
+/latex/*.gz
+/latex/*.aux
+/latex/*.synctex
+/latex/*.pdf
