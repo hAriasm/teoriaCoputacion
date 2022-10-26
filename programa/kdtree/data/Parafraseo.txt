@@ -1,0 +1,45 @@
+1|Analista programador de software para plataforma online |HOF|NONE|CV_JUAN5
+2|Programador de aplicaciones web para empresas |HOF|NONE|CV_JUAN5
+3|Desarrollador de aplicaciones web y desktop |HOF|NONE|CV_JUAN5
+4|Programador para aplicaciones online y analista de software |HOF|NONE|CV_JUAN5
+5|Programador, qa, analista de software |HOF|NONE|CV_JUAN5
+6|Perfil desarrollador de aplicaciones web |HOF|NONE|CV_JUAN5
+7|Aplicaciones de soluciones web para empresas |HOF|NONE|CV_JUAN5
+8|Desarrollo aplicaciones a medida para entorno web |HOF|NONE|CV_JUAN5
+9|Hice aplicaciones para entorno web y entorno desktop para empresas |HOF|NONE|CV_JUAN5
+10|Hago analisis y aplicaciones web |HOF|NONE|CV_JUAN5
+11|Aplicaciones web para incrementar la productividad |HOF|NONE|CV_JUAN5
+12|Analista programador de software de plataforma en línea|HOF|NONE|CV_JUAN5
+13|Programador de aplicaciones web corporativas|HOF|NONE|CV_JUAN5
+14|Desarrolladores de aplicaciones web y de escritorio|HOF|NONE|CV_JUAN5
+15|Programadores de aplicaciones en línea y analistas de software|HOF|NONE|CV_JUAN5
+16|Programador, QA, Analista de Software|HOF|NONE|CV_JUAN5
+17|Una introducción a los desarrolladores de aplicaciones web.|HOF|NONE|CV_JUAN5
+18|Aplicación de soluciones de red de empresa.|HOF|NONE|CV_JUAN5
+19|Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
+20|Creo aplicaciones web y de escritorio para mi empresa|HOF|NONE|CV_JUAN5
+21|Me ocupo de analítica y aplicaciones web|HOF|NONE|CV_JUAN5
+22|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
+23|Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
+24|Construyo aplicaciones web y de escritorio para mi empresa|HOF|NONE|CV_JUAN5
+25|Me ocupo de analítica y aplicaciones web|HOF|NONE|CV_JUAN5
+26|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
+27|Analista de desarrollo de software de plataforma en línea|HOF|NONE|CV_JUAN5
+28|Desarrollador de aplicaciones web empresariales|HOF|NONE|CV_JUAN5
+29|Desarrolladores de aplicaciones web y de escritorio|HOF|NONE|CV_JUAN5
+30|Programadores de aplicaciones en línea y analistas de software|HOF|NONE|CV_JUAN5
+31|Programador, QA, Analista de Software|HOF|NONE|CV_JUAN5
+32|Aplicación de soluciones de red empresarial. Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
+33|Desarrollo aplicaciones web y de escritorio para mi negocio|HOF|NONE|CV_JUAN5
+34|Trabajo con analítica y aplicaciones web|HOF|NONE|CV_JUAN5
+35|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
+35|Hago analisis y pruebo aplicaciones |NOT|NONE|CV_JUAN4
+36|Implantar software para mejorar la  empresa|NOT|NONE|CV_JUAN4
+37|Diseñar metricas para analisis de software|NOT|NONE|CV_JUAN4
+38|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
+39|Analista de empresas con diplomado en desarrollo|NOT|NONE|CV_JUAN4
+40|Analizo y pruebo la aplicación|NOT|NONE|CV_JUAN4
+41|Implementar software para mejorar el negocio|NOT|NONE|CV_JUAN4
+42|Métricas de diseño para análisis de software|NOT|NONE|CV_JUAN4
+43|Escanear páginas web en busca de vulnerabilidades|NOT|NONE|CV_JUAN4
+44|Analista de negocios con diplomado en desarrollo.|NOT|NONE|CV_JUAN4

@@ -1,0 +1,38 @@
+<html>
+
+<head>
+    <title>Kd tree - Grupo 2 </title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="p5.min.js"> </script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="kdtree.js"> </script>
+    <script src="sketch.js"> </script>
+    <script type="text/javascript" src="data/final_tweets_2d.js"></script>
+    <script type="text/javascript" src="data/test_tweets_2d.js"></script>
+</head>
+
+<body>
+
+    <div class="row justify-content-start  ">
+
+        <div class="row">
+            <main></main>
+        </div>
+
+    </div>
+
+    <script>
+
+        var trained_data = JSON.parse(data);
+
+        var data_test = JSON.parse(data_test);
+
+        classifier(trained_data, data_test);
+
+    </script>
+
+</body>
+
+
+</html>
