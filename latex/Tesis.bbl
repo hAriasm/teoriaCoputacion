@@ -1,11 +1,32 @@
 \begin{thebibliography}{}
 
+\bibitem[Banerjee and Pedersen, 2002]{006}
+Banerjee, S. and Pedersen, T. (2002).
+\newblock An adapted lesk algorithm for word sense disambiguation using
+  wordnet.
+\newblock In Gelbukh, A., editor, {\em Computational Linguistics and
+  Intelligent Text Processing}, pages 136--145, Berlin, Heidelberg. Springer
+  Berlin Heidelberg.
+
+\bibitem[Cortez~Vásquez, 2009]{Arquitectura}
+Cortez~Vásquez, A., V. h. H.-P. Q. J. . H. A.~M. (2009).
+\newblock Procesamiento de lenguaje natural.
+\newblock {\em Revista De investigación De Sistemas E Informática}, Vol 6(Nº
+  2-2009):pages 45--22.
+\newblock lenguaje natural, procesamiento de lenguaje natural, análisis de
+  lenguaje natural, lexicones.
+
 \bibitem[Deilis Carrazana~Galán, 2015]{EvaluacionAmbiguedad01}
 Deilis Carrazana~Galán, D. M.~B. (2015).
 \newblock {\em Herramienta informática para la evaluación de la ambigüedad
   en textos legales}.
 \newblock PhD thesis, Universidad de las Ciencias Informáticas departamento
   Ciencias Informáticas, La Habana, Cuba.
+
+\bibitem[Deloitte, 2020]{EvolucionPLN}
+Deloitte (2020).
+\newblock La evolución del procesamiento de lenguaje natural a sus algoritmos.
+\newblock In {\em Infografia Evolucion Procesamiento Lenguaje}.
 
 \bibitem[Jefferson A. Peña-Torres, 2021]{ChatBoot}
 Jefferson A. Peña-Torres, Santiago Giraldo-Alegría, C. A. A.-P. V. A.~B.

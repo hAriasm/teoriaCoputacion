@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.16)  27 OCT 2022 19:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.16)  28 OCT 2022 19:18
 entering extended mode
 **./Tesis.tex
 (Tesis.tex
@@ -676,7 +676,7 @@ Package epstopdf Info: Source file: <Graficos/logo.eps>
 -to.pdf Graficos/logo.eps>
 (epstopdf)             \includegraphics on input line 29.
 Package epstopdf Info: Output file is already uptodate.
-<Graficos/logo-eps-converted-to.pdf, id=114, 159.59625pt x 189.70876pt>
+<Graficos/logo-eps-converted-to.pdf, id=122, 159.59625pt x 189.70876pt>
 File: Graficos/logo-eps-converted-to.pdf Graphic file (type pdf)
 <use Graficos/logo-eps-converted-to.pdf>
 Package pdftex.def Info: Graficos/logo-eps-converted-to.pdf  used on input line
@@ -781,12 +781,6 @@ l.43 \include{Cap1}
 
  (Cap2.tex
 Cap\'{\i }tulo 2.
-<Graficos/desambiguacion_WSD.png, id=224, 628.749pt x 458.9145pt>
-File: Graficos/desambiguacion_WSD.png Graphic file (type png)
-<use Graficos/desambiguacion_WSD.png>
-Package pdftex.def Info: Graficos/desambiguacion_WSD.png  used on input line 11
-.
-(pdftex.def)             Requested size: 628.74745pt x 458.91338pt.
 
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
@@ -795,128 +789,148 @@ Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
 
- <./Graficos/desambiguacion_WSD.png>]
-<Graficos/algoritmo_lesk.png, id=235, 589.60275pt x 388.45125pt>
-File: Graficos/algoritmo_lesk.png Graphic file (type png)
-<use Graficos/algoritmo_lesk.png>
-Package pdftex.def Info: Graficos/algoritmo_lesk.png  used on input line 35.
-(pdftex.def)             Requested size: 589.60132pt x 388.45029pt.
+]
+<Graficos/desambiguacion_WSD.png, id=246, 628.749pt x 458.9145pt>
+File: Graficos/desambiguacion_WSD.png Graphic file (type png)
+<use Graficos/desambiguacion_WSD.png>
+Package pdftex.def Info: Graficos/desambiguacion_WSD.png  used on input line 29
+.
+(pdftex.def)             Requested size: 628.74745pt x 458.91338pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Overfull \hbox (11.59978pt too wide) in paragraph at lines 43--68
- [][] 
- []
-
-LaTeX Info: Redefining \. on input line 72.
-LaTeX Info: Redefining \% on input line 72.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
 
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
 [4]
-LaTeX Info: Redefining \. on input line 72.
-LaTeX Info: Redefining \% on input line 72.
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
 
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
-[5 <./Graficos/algoritmo_lesk.png>]
+[5 <./Graficos/desambiguacion_WSD.png>]
+<Graficos/algoritmo_lesk.png, id=262, 589.60275pt x 388.45125pt>
+File: Graficos/algoritmo_lesk.png Graphic file (type png)
+<use Graficos/algoritmo_lesk.png>
+Package pdftex.def Info: Graficos/algoritmo_lesk.png  used on input line 53.
+(pdftex.def)             Requested size: 589.60132pt x 388.45029pt.
+
+Overfull \hbox (11.59978pt too wide) in paragraph at lines 61--86
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+
+Overfull \vbox (1.59999pt too high) has occurred while \output is active []
+
+
+[6 <./Graficos/algoritmo_lesk.png>]
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+
+Overfull \vbox (1.59999pt too high) has occurred while \output is active []
+
+
+[7]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 76.
+               Default added (so using `tbp') on input line 94.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--80
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
 []|\T1/cmr/m/n/10.95 Sentido ele-gi-do pa-ra
  []
 
-LaTeX Info: Redefining \. on input line 112.
-LaTeX Info: Redefining \% on input line 112.
+LaTeX Info: Redefining \. on input line 130.
+LaTeX Info: Redefining \% on input line 130.
 
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
-[6
+[8
 
 ]
-<Graficos/lesk_simple.png, id=253, 492.6405pt x 325.215pt>
+<Graficos/lesk_simple.png, id=277, 492.6405pt x 325.215pt>
 File: Graficos/lesk_simple.png Graphic file (type png)
 <use Graficos/lesk_simple.png>
-Package pdftex.def Info: Graficos/lesk_simple.png  used on input line 115.
+Package pdftex.def Info: Graficos/lesk_simple.png  used on input line 133.
 (pdftex.def)             Requested size: 492.6393pt x 325.2142pt.
-LaTeX Info: Redefining \. on input line 125.
-LaTeX Info: Redefining \% on input line 125.
+LaTeX Info: Redefining \. on input line 143.
+LaTeX Info: Redefining \% on input line 143.
 
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
-[7 <./Graficos/lesk_simple.png>]
-LaTeX Info: Redefining \. on input line 135.
-LaTeX Info: Redefining \% on input line 135.
-
-Overfull \vbox (1.59999pt too high) has occurred while \output is active []
-
-
-[8]
-LaTeX Info: Redefining \. on input line 146.
-LaTeX Info: Redefining \% on input line 146.
-
-Overfull \vbox (1.59999pt too high) has occurred while \output is active []
-
-
-[9]
-LaTeX Info: Redefining \. on input line 149.
-LaTeX Info: Redefining \% on input line 149.
+[9 <./Graficos/lesk_simple.png>]
+LaTeX Info: Redefining \. on input line 153.
+LaTeX Info: Redefining \% on input line 153.
 
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
 [10]
-LaTeX Info: Redefining \. on input line 149.
-LaTeX Info: Redefining \% on input line 149.
+LaTeX Info: Redefining \. on input line 164.
+LaTeX Info: Redefining \% on input line 164.
 
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
 [11]
-LaTeX Info: Redefining \. on input line 152.
-LaTeX Info: Redefining \% on input line 152.
+LaTeX Info: Redefining \. on input line 165.
+LaTeX Info: Redefining \% on input line 165.
 
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
 [12]
-LaTeX Info: Redefining \. on input line 196.
-LaTeX Info: Redefining \% on input line 196.
+LaTeX Info: Redefining \. on input line 167.
+LaTeX Info: Redefining \% on input line 167.
 
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
 [13]
-LaTeX Info: Redefining \. on input line 209.
-LaTeX Info: Redefining \% on input line 209.
+LaTeX Info: Redefining \. on input line 170.
+LaTeX Info: Redefining \% on input line 170.
 
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
 [14]
-LaTeX Info: Redefining \. on input line 215.
-LaTeX Info: Redefining \% on input line 215.
+LaTeX Info: Redefining \. on input line 211.
+LaTeX Info: Redefining \% on input line 211.
 
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
-[15])
+[15]
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+
+Overfull \vbox (1.59999pt too high) has occurred while \output is active []
+
+
+[16]
+LaTeX Info: Redefining \. on input line 233.
+LaTeX Info: Redefining \% on input line 233.
+
+Overfull \vbox (1.59999pt too high) has occurred while \output is active []
+
+
+[17])
 LaTeX Info: Redefining \. on input line 44.
 LaTeX Info: Redefining \% on input line 44.
 
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
-[16]
+[18]
 \openout2 = `Cap3.aux'.
 
  (Cap3.tex
@@ -928,7 +942,7 @@ File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
-[17
+[19
 
 
 
@@ -939,7 +953,7 @@ LaTeX Info: Redefining \% on input line 45.
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
-[18]
+[20]
 \openout2 = `Cap4.aux'.
 
  (Cap4.tex
@@ -948,7 +962,7 @@ Cap\'{\i }tulo 4.
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
-[19
+[21
 
 
 
@@ -959,7 +973,7 @@ LaTeX Info: Redefining \% on input line 46.
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
-[20]
+[22]
 \openout2 = `Cap5.aux'.
 
  (Cap5.tex
@@ -968,7 +982,7 @@ Cap\'{\i }tulo 5.
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
-[21
+[23
 
 
 
@@ -978,7 +992,7 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
 
-[22
+[24
 
 
 ]
@@ -991,14 +1005,14 @@ LaTeX Info: Redefining \% on input line 23.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
 Package rerunfilecheck Info: File `Tesis.out' has not changed.
-(rerunfilecheck)             Checksum: C176C0EAA606C67E4C017A318650F12F;1816.
+(rerunfilecheck)             Checksum: D6E1AFB098DC7B6BD4BAD10A18403B83;2039.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 53.
  ) 
 Here is how much of TeX's memory you used:
- 8897 strings out of 492895
- 123972 string characters out of 3133462
- 241996 words of memory out of 3000000
- 12480 multiletter control sequences out of 15000+200000
+ 8911 strings out of 492895
+ 124149 string characters out of 3133462
+ 241155 words of memory out of 3000000
+ 12487 multiletter control sequences out of 15000+200000
  28753 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,14n,35p,3081b,680s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1032,9 +1046,9 @@ pfb><C:/Users/Ivan Arias/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/cm-super
 /sfti1095.pfb><C:/Users/Ivan Arias/AppData/Roaming/MiKTeX/2.9/fonts/type1/publi
 c/cm-super/sftt1095.pfb><C:/Users/Ivan Arias/AppData/Roaming/MiKTeX/2.9/fonts/t
 ype1/public/cm-super/sfxc1095.pfb>
-Output written on Tesis.pdf (32 pages, 927693 bytes).
+Output written on Tesis.pdf (34 pages, 936976 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
- 87 named destinations out of 1000 (max. 500000)
- 229 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 488 PDF objects out of 1000 (max. 8388607)
+ 94 named destinations out of 1000 (max. 500000)
+ 245 words of extra memory for PDF output out of 10000 (max. 10000000)
 
