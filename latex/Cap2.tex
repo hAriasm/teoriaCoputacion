@@ -3,7 +3,7 @@
 %------------------------------------------------------------------------
 
 \section{Desambiguación del sentido de las palabras (WSD)}
-En general, la desambiguación del sentido de las palabras es el problema de seleccionar un sentido de un conjunto de posibilidades predefinidas para una palabra dada en un texto o discurso. 
+En general, la desambiguación del sentido de las palabras es el problema de seleccionar un sentido de un conjunto de posibilidades predefinidas para una palabra dada en un texto o discurso.
 En los últimos años se han incrementado las investigaciones para crear métodos de WSD. A continuación, se describe la clasificación para métodos de WSD de acuerdo a los recursos que utilizan (figura \ref{fig:desambiguacion_WSD}).
 
   \begin{figure}[h!]
@@ -27,7 +27,7 @@ En esta categoría encontramos diferentes algoritmos para la etiquetación autom
 
 \subsubsection{Algoritmo de Lesk}
 El algoritmo de Lesk \cite{002} es uno de los primeros algoritmos exitosos usados en la desambiguación de sentidos de palabras. Este algoritmo se basa en dos puntos principales: un algoritmo de optimización para WSD y una medida de similitud para las definiciones de los sentidos.
-El primer punto es acerca de desambiguar palabras considerando la coherencia global del texto, esto es, encontrar la combinación de los sentidos que maximice la relación total entre los sentidos de todas las palabras. 
+El primer punto es acerca de desambiguar palabras considerando la coherencia global del texto, esto es, encontrar la combinación de los sentidos que maximice la relación total entre los sentidos de todas las palabras.
 Por ejemplo, para la oración \textit{My father deposits his money in a bank account} y considerando a lo más tres sentidos (véase la tabla \ref{tab:lesk01}), para cada palabra, la figura \ref{fig:algoritmo_lesk} muestra la representación gráfica del algoritmo original de Lesk.
 
   \begin{figure}[h!]
@@ -46,22 +46,22 @@ Por ejemplo, para la oración \textit{My father deposits his money in a bank acc
       Palabra & Sentidos\\
       \hline
       \hline
-      Father & 1: a male parent (also used as a term of address to your father); "his father was born in Atlanta". 
-      2: `Father' is a term of address for priests in some churches (especially the Roman Catholic Church or the Orthodox Catholic Church); “`Padre' is frequently used in the military”. 
+      Father & 1: a male parent (also used as a term of address to your father); "his father was born in Atlanta".
+      2: `Father' is a term of address for priests in some churches (especially the Roman Catholic Church or the Orthodox Catholic Church); “`Padre' is frequently used in the military”.
       3: a person who holds an important or distinguished position in some organization; "the tennis fathers ruled in her favor"; "the city fathers endorsed the proposal".\\
       \hline
-      Deposit & 1: fix, force, or implant; "lodge a bullet in the table". 
-      2: put into a bank account; "She deposits her paycheck every month". 
+      Deposit & 1: fix, force, or implant; "lodge a bullet in the table".
+      2: put into a bank account; "She deposits her paycheck every month".
       3: put (something somewhere) firmly; "She posited her hand on his shoulder"; "deposit the suitcase on the bench"; "fix your eyes on this spot".\\
       \hline
       Money & 1: the official currency issued by a government or national bank; "he changed his money into francs".  \\
       \hline
-      Bank & 1: a financial institution that accepts deposits and channels the money into lending activities; "he cashed a check at the bank"; "that bank holds the mortgage on my home". 
-      2: sloping land (especially the slope beside a body of water); "they pulled the canoe up on the bank"; "he sat on the bank of the river and watched the currents". 
+      Bank & 1: a financial institution that accepts deposits and channels the money into lending activities; "he cashed a check at the bank"; "that bank holds the mortgage on my home".
+      2: sloping land (especially the slope beside a body of water); "they pulled the canoe up on the bank"; "he sat on the bank of the river and watched the currents".
       3: a supply or stock held in reserve for future use (especially in emergencies) \\
       \hline
-      Account& 1: a formal contractual relationship established to provide for regular banking or brokerage or business services; "he asked to see the executive who handled his account". 
-      2: the act of informing by verbal report; "he heard reports that they were causing trouble"; "by all accounts they were a happy couple". 
+      Account& 1: a formal contractual relationship established to provide for regular banking or brokerage or business services; "he asked to see the executive who handled his account".
+      2: the act of informing by verbal report; "he heard reports that they were causing trouble"; "by all accounts they were a happy couple".
       3: a record or narrative description of past events; "a history of France"; "he gave an inaccurate account of the plot to kill the president"; "the story of exposure to lead".\\
       \hline
     \end{tabular}
@@ -70,7 +70,7 @@ Por ejemplo, para la oración \textit{My father deposits his money in a bank acc
   \end{table}
 
 \clearpage
-En el segundo punto, relacionado con la medida de similitud, Lesk sugiere usar el traslape entre las definiciones de los sentidos, es decir, contar el número de palabras que tienen en común. 
+En el segundo punto, relacionado con la medida de similitud, Lesk sugiere usar el traslape entre las definiciones de los sentidos, es decir, contar el número de palabras que tienen en común.
 Como ejemplo, para la oración, \textit{“My father deposits his money in the bank ac-count”} para medir la relación de las definiciones de los sentidos para la palabra \textit{“de-posit”} y \textit{“bank”} como Lesk lo propuso, es necesario contar las palabras en común en todas las definiciones. En este caso, comparando principalmente las tres definiciones de \textit{“deposit”} contra las tres definiciones de \textit{“bank”}. La relación entre los valores se muestra en la tabla \ref{tab:sentidos_palabras}.
 
   \begin{table}[]
@@ -102,13 +102,13 @@ Como ejemplo, para la oración, \textit{“My father deposits his money in the b
    \label{tab:sentidos_palabras}
   \end{table}
 
-Este algoritmo tiene dos limitaciones, por un lado, la limitación principal de la medida de similitud propuesta por Lesk, es que las glosas del diccionario, regularmente, son muy cortas y no incluyen el vocabulario suficiente para identificar los sentidos relacionados \cite{003}. Por otro lado, mientras más palabras tenga el texto, y más sentidos por cada palabra, mayor será el número de combinaciones de sentidos, haciéndolo prácticamente prohibitivo para una búsqueda exhaustiva que garantice encontrar el óptimo global exacto. Por ejemplo, para una oración de 16 palabras de contenido, donde cada palabra contiene siete sentidos (números cercanos a los observados en el corpus de SemCor), existen 716 posibles combinaciones a escoger, de las cuales una será seleccionada. 
+Este algoritmo tiene dos limitaciones, por un lado, la limitación principal de la medida de similitud propuesta por Lesk, es que las glosas del diccionario, regularmente, son muy cortas y no incluyen el vocabulario suficiente para identificar los sentidos relacionados \cite{003}. Por otro lado, mientras más palabras tenga el texto, y más sentidos por cada palabra, mayor será el número de combinaciones de sentidos, haciéndolo prácticamente prohibitivo para una búsqueda exhaustiva que garantice encontrar el óptimo global exacto. Por ejemplo, para una oración de 16 palabras de contenido, donde cada palabra contiene siete sentidos (números cercanos a los observados en el corpus de SemCor), existen 716 posibles combinaciones a escoger, de las cuales una será seleccionada.
 Debido a estas dos limitaciones, diferentes modificaciones al algoritmo original han sido propuestas para mejorar los resultados en la desambiguación de sentidos de palabras, las cuales se describen en la siguiente sección.
 
 \begin{itemize}
   \item \textbf{Lesk simple o Lesk simplificado} \\
     Para reducir el espacio de búsqueda del algoritmo original de Lesk, Kilgarriff y Rosenzweig \cite{004} propusieron una variación del algoritmo original de Lesk, conocido como algoritmo de \textbf{Lesk simplificado o Lesk simple}, donde los sentidos de las pala-bras en el texto son determinados uno a uno encontrando el mayor traslape entre los sentidos de las definiciones de cada palabra con el contexto actual, véase la figura \ref{fig:lesk_simple}. En lugar de buscar asignar, simultáneamente, el significado de todas las palabras en un texto dado, este enfoque determina el sentido de las palabras uno a uno, por lo que se evita la explosión combinatoria de sentidos.
-  
+
     \begin{figure}[h!]
       \begin{center}
       \includegraphics[angle=0, width=10cm]{Graficos/lesk_simple}
@@ -116,20 +116,20 @@ Debido a estas dos limitaciones, diferentes modificaciones al algoritmo original
       \label{fig:lesk_simple}
       \end{center}
     \end{figure}
-    
+
     \item \textbf{Templado simulado (Simulated Annealing)} \\
-    El método de templado simulado es una técnica para la resolución de problemas de optimización combinatoria a gran escala. El nombre de este algoritmo es una analogía del proceso metalúrgico en el cuál, el metal se enfría y se templa. La característica de este fenómeno es que en el enfriamiento lento alcanza una composición uniforme y un estado de energía mínimo, sin embargo, cuando el proceso de enfriamiento es rápido, el metal alcanza un estado amorfo y con un estado alto de energía. En templado simulado la variable \textbf{T} corresponde a la temperatura que decrece lentamente hasta encontrar el estado mínimo. 
-    El proceso requiere una función \textbf{E}, la cual representa el estado de energía de cada configuración del sistema. Es esta función la que se intenta minimizar. A grandes rasgos el algoritmo funciona de la siguiente manera: se selecciona un punto inicial y además se escoge otra configuración de manera aleatoria, se calcula para ambas con-figuraciones su valor \textbf{E}, si el nuevo valor es menor que el seleccionado como punto inicial, entonces el inicial es remplazado por la nueva configuración. Una característica esencial del templado simulado es que, existe el caso en el que la nueva configuración es mayor a la configuración obtenida anteriormente, y la nueva es seleccionada. Esta decisión es tomada de manera probabilística y permite salir de algún mínimo local. Una vez que el método mantenga la misma configuración por un determinado tiempo, dicha configuración es escogida como la solución. 
-    Cowie et al. \cite{005}, basándose en el algoritmo de Lesk, utilizó este método para desambiguación de sentidos de palabras de la siguiente forma: 
+    El método de templado simulado es una técnica para la resolución de problemas de optimización combinatoria a gran escala. El nombre de este algoritmo es una analogía del proceso metalúrgico en el cuál, el metal se enfría y se templa. La característica de este fenómeno es que en el enfriamiento lento alcanza una composición uniforme y un estado de energía mínimo, sin embargo, cuando el proceso de enfriamiento es rápido, el metal alcanza un estado amorfo y con un estado alto de energía. En templado simulado la variable \textbf{T} corresponde a la temperatura que decrece lentamente hasta encontrar el estado mínimo.
+    El proceso requiere una función \textbf{E}, la cual representa el estado de energía de cada configuración del sistema. Es esta función la que se intenta minimizar. A grandes rasgos el algoritmo funciona de la siguiente manera: se selecciona un punto inicial y además se escoge otra configuración de manera aleatoria, se calcula para ambas con-figuraciones su valor \textbf{E}, si el nuevo valor es menor que el seleccionado como punto inicial, entonces el inicial es remplazado por la nueva configuración. Una característica esencial del templado simulado es que, existe el caso en el que la nueva configuración es mayor a la configuración obtenida anteriormente, y la nueva es seleccionada. Esta decisión es tomada de manera probabilística y permite salir de algún mínimo local. Una vez que el método mantenga la misma configuración por un determinado tiempo, dicha configuración es escogida como la solución.
+    Cowie et al. \cite{005}, basándose en el algoritmo de Lesk, utilizó este método para desambiguación de sentidos de palabras de la siguiente forma:
     \begin{enumerate}
-      \item El algoritmo define una función \textbf{E} para la combinación de sentidos de palabras en un texto dado. 
+      \item El algoritmo define una función \textbf{E} para la combinación de sentidos de palabras en un texto dado.
       \item Se calcula \textbf{E} para la configuración inicial \textbf{C}, donde \textbf{C} es el sentido más frecuente para cada palabra.
       \item Para cada iteración, se escoge aleatoriamente otra configuración conocida como \textbf{C’}, y se calcula su valor de \textbf{E}. Si el valor de \textbf{E} para \textbf{C’} es menor que el de \textbf{C} entonces se elige \textbf{C’} como configuración inicial.
       \item  La rutina termina cuando la configuración de sentidos no ha cambiado en un tiempo determinado.
     \end{enumerate}
-  
+
   \item \textbf{Medida de Lesk Adaptada}\\
-    Lesk propuso medir la similitud entre sentidos contando el traslape de palabras. La limitación principal de esta técnica es que las glosas del diccionario, por lo general, son muy breves, de tal manera que no incluyen suficiente vocabulario para identificar los sentidos relacionados. En \cite{006} se sugiere una adaptación del algoritmo basado en WordNet. Esta adaptación consiste en tomar en cuenta las glosas de los vecinos de la palabra a desambiguar, explotando los conceptos jerárquicos de WordNet, de tal ma-nera que las glosas de los vecinos son expandidas incluyendo a su vez las glosas de las palabras con las cuales se encuentran relacionadas mediante las diversas jerarquías que presenta WordNet. Así mismo, sugieren una variación en la manera de asignar el puntaje a una glosa, de tal manera que si “n” palabras consecutivas son iguales en ambas glosas, estas deberán de tener mayor puntaje que aquel caso en el que sólo coincide una sola palabra en ambas glosas. 
+    Lesk propuso medir la similitud entre sentidos contando el traslape de palabras. La limitación principal de esta técnica es que las glosas del diccionario, por lo general, son muy breves, de tal manera que no incluyen suficiente vocabulario para identificar los sentidos relacionados. En \cite{006} se sugiere una adaptación del algoritmo basado en WordNet. Esta adaptación consiste en tomar en cuenta las glosas de los vecinos de la palabra a desambiguar, explotando los conceptos jerárquicos de WordNet, de tal ma-nera que las glosas de los vecinos son expandidas incluyendo a su vez las glosas de las palabras con las cuales se encuentran relacionadas mediante las diversas jerarquías que presenta WordNet. Así mismo, sugieren una variación en la manera de asignar el puntaje a una glosa, de tal manera que si “n” palabras consecutivas son iguales en ambas glosas, estas deberán de tener mayor puntaje que aquel caso en el que sólo coincide una sola palabra en ambas glosas.
     Supongamos que \textit{bark} (ladrido o corteza) es la palabra que se desea desambiguar y sus vecinos son \textit{dog} (perro) y \textit{tail} (cola). El algoritmo original de Lesk verifica las coincidencias en las glosas de los sentidos de \textit{dog} con las glosas de \textit{bark}. Luego verifica las coincidencias en las glosas de \textit{bark} y \textit{tail}. El sentido de \textit{bark} con el máximo número de coincidencias es seleccionado. La adaptación del algoritmo de Lesk considera estas mismas coincidencias y añade además las glosas de los sentidos de los conceptos que se encuentran relacionados semántica o léxicamente a \textit{dog}, \textit{bark} y \textit{tail}, de acuerdo a las jerarquías de WordNet.
 \end{itemize}
 
@@ -216,7 +216,7 @@ Los métodos supervisados realizan la desambiguación de forma automática a par
     \item Seleccionar un conjunto de ejemplos que muestren las distintas clasificaciones de cada elemento.
     \item Identificar patrones asociados a cada elemento.
     \item Generalizar los patrones en reglas.
-    \item Aplicar las reglas para clasificar nuevos elementos. 
+    \item Aplicar las reglas para clasificar nuevos elementos.
   \end{enumerate}
 
 Dentro de este tipo de métodos cabe destacar las técnicas basadas en Aprendizaje Automático (Machine learning systems) (Mitchell (1997b), Mitchell (1997a)). Estas técnicas han sido ampliamente utilizadas en tareas de PLN obteniendo un éxito considerable. Los problemas iniciales de PLN sobre los que fueron aplicados este tipo de métodos estadísticos y de aprendizaje automático, fueron aquellos vinculados a la resolución de la ambigüedad léxica. En este tipo de tareas, se debe seleccionar de entre un conjunto de alternativas, la interpretación correcta para una palabra en un contexto determinado. Podemos destacar tareas tales como: selección de palabras en reconocimiento de voz, traducción automática, desambiguación automática, resolución de co-referencias, etc. Este tipo de tareas se consideran adecuadas para un sistema de aprendizaje automático porque pueden ser vistas como problemas de clasificación, donde el sistema de aprendizaje trata de etiquetar (clasificar) una serie de elementos, utilizando una de entre varias categorías (clases). En este caso, la base de conocimiento del sistema está formada por ejemplos previamente etiquetados. Actualmente, las técnicas de aprendizaje automático han sido aplicadas a otros problemas de PLN, los cuales, no se reducen a un simple problema de clasificación. Dentro de estas nuevas aplicaciones encontramos: etiquetación de secuencias (con entidades, categorías sintácticas, etc) y asignación de estructuras jerárquicas (árboles sintácticos, conceptos complejos en extracción de información, etc). En estos casos, se parte de un problema complejo que puede ser descompuesto en esquemas de decisión simples o se pueden generalizar los conjuntos de clasificación para trabajar directamente con representaciones y salidas complejas. En relación a WSD, en los últimos diez años, la técnica de aprendizaje supervisado, a partir de ejemplos, ha sido una de las que mejores resultados ha obtenido. En este caso, los modelos estadísticos o de clasificación se obtienen a partir de corpus anotados semánticamente. Normalmente, los métodos supervisados han obtenido mejores resultados que los no supervisados. Esta afirmación queda demostrada a la vista de los resultados conseguidos en las últimas competiciones realizadas para la evaluación de métodos de análisis semántico (ACL (2001), ACL (2004)). Sin embargo, estos métodos tienen un grave problema, la necesidad de disponer de corpus lo bastante extensos para poder entrenar los sistemas. A menudo, escasean los corpus anotados debido a su costoso proceso de anotación manual, es el conocido problema del cuello de botella de la adquisición de conocimiento. Esta restricción afecta en gran medida a los sistemas, ya que no tienen la materia prima necesaria para poder trabajar.
@@ -246,7 +246,7 @@ A continuación, se van a describir algunos de los distintos métodos de aprendi
     \end{center}
   \end{figure}
   Se parte de la hipótesis de que los valores de los atributos se generan independientemente a partir de la clase $C$ de acuerdo con las distribuciones individuales $P(x_i|C)$. Para predecir la clase de un ejemplo, se elige la que maximiza la probabilidad de haber generado el ejemplo observado. Para ello, se utiliza una fórmula derivada a partir del teorema de Bayes. Este algoritmo ha sido usado en distintas tareas de PLN para resolver diversos problemas (categorización de documentos (Lewis y Ringuette (1994)), corrección ortográfica (Golding (1995)), resolución de la ambiguedad semántica (Leacock et al. (1998), Escudero et al. (2000)) ...) y a pesar de su extrema simplicidad, ha obtenido resultados notables. Además, utilizando el NBC se puede combinar información estadística de distintas fuentes, siempre que sean independientes. La fórmula general para obtener la clasificación según el clasificador bayesiano es la siguiente:
-  
+
   \begin{equation}
     P(C|X_1,X_2,X_3,...,X_n)=\frac{P(X_1,X_2,X_3,...,X_n|C)\times P(C)}{P(X_1,X_2,X_3,...,X_n)}
     \label{eq:dbt6}
@@ -267,9 +267,9 @@ A continuación, se van a describir algunos de los distintos métodos de aprendi
   \end{equation}
 
   Para el caso de WSD el sentido correcto para una palabra cualquiera C sería aquel que hiciera máximo el resultado de la Ecuación \ref{eq:dbt8}
-  
+
   Por ejemplo, supongamos que tenemos 2000 instancias de la palabra \textit{“bank”}: 1500 para $bank1$ (financial) y 500 para $bank2$ (river). En este caso, las probabilidades para cada sentido serían:
-  
+
   \begin{center}
   $P(S=1)=1500/2000=0,75$\\
   $P(S=2)=500/2000=0,25$
@@ -301,7 +301,7 @@ A continuación, se van a describir algunos de los distintos métodos de aprendi
   \item \textbf{Bootstrapping} \\
   Como se ha comentado anteriormente, el problema de los métodos basados en aprendizaje automático es la escasez de corpus anotados semánticamente. Para evitar este problema existe un método que requiere de un mínimo conjunto de elementos anotados (sistemas mínimamente supervisados), es el denominado método “de semilla” o bootstrapping (Abney (2002), Abney (2004)). La idea de este método es que a partir de un mínimo conjunto de ejemplos anotados se pueden realizar sucesivos aprendizajes que se alimentan incrementalmente con el conocimiento adquirido en el anterior. El término “semilla” proviene del inicio de tal proceso iterativo, que no necesita más que una mínima cantidad de conocimiento previo para comenzar el aprendizaje. Existen diferentes aproximaciones del método de bootstrapping: co-training y self-training. La idea básica para ambas aproximaciones es la siguiente:\\
   Se parte de un conjunto \textit{EE} de Ejemplos de Entrenamiento etiquetados y de un conjunto \textit{EN} de Ejemplos No Etiquetados. Se dispone de $C_i$ Clasificadores.
-  
+
   \textbf{Paso 1.} Crear un conjunto de ejemplos $NE_0$, eligiendo $P$ ejemplos aleatorios de $NE$.\\
   \textbf{Paso 2.} Bucle de $I$ iteraciones:
   \begin{itemize}
@@ -311,7 +311,7 @@ A continuación, se van a describir algunos de los distintos métodos de aprendi
   \end{itemize}
 
   Un ejemplo del método co-training lo encontramos en (Blum y Mitchell (1998)) donde se utilizan dos clasificadores. Y un ejemplo del método self-training lo encontramos en (Nigam y Ghani (2000)) donde se utiliza un único clasificador.
-  
+
   \item \textbf{Métodos basados en redes neuronales.} \\
   Otro tipo de métodos utilizados para WSD son aquellos basados en redes neuronales, algoritmos genéticos, etc (Veronis y Ide (1990), Towell y Voorhees (1998)). Una Red Neuronal Artificial (RNA) es un modelo de procesamiento de información que está inspirado en un sistema nervioso biológico (Group (1986)).\\
   Este se compone de un gran número de elementos de procesamiento interconectados (neuronas) trabajando conjuntamente para resolver problemas específicos. Las RNA aprenden con ejemplos, es por tanto necesaria la utilización de un proceso de aprendizaje para su configuración. La principal ventaja de las RNA radica en la resolución de problemas demasiado complejos para tecnologías convencionales, problemas que no tienen un algoritmo de solución específico o que es muy difícil de encontrar. Entre estos problemas se encuentran el reconocimiento de patrones y pronósticos, clasificación de datos, optimización... Sin embargo, en el ámbito del procesamiento del lenguaje natural aún no han sido suficientemente explotadas (Valdivia et al. (2002)). En (García (2006)) se propone un sistema de WSD basado en el modelo de red neural de Kohonen (Kohonen (1989)), en su variante de aprendizaje por Cuantificación Vectorial (Learning Vector Quantification o LVQ). Como recursos lingüísticos para el aprendizaje de la red se utiliza el corpus de Semcor, que está etiquetado con los sentidos de WordNet y el conjunto de párrafos artificiales generado a partir de todas las relaciones de WordNet. Además, integra el modelo de espacio vectorial (con vectores obtenidos a partir de Semcor) con LVQ para definir las categorías de la red. Este sistema participó en la tarea English Lexical Sample de Senseval-2 obteniendo una precisión del 59\%.
@@ -320,7 +320,7 @@ A continuación, se van a describir algunos de los distintos métodos de aprendi
 
 \subsection{Métodos híbridos}
 Los métodos que se encuentran dentro de este grupo son aquellos que no pueden englobarse exactamente dentro de los grupos anteriores. Es decir, son aquellos que utilizan en el proceso de desambiguación tanto fuentes de conocimiento externas como corpus anotados o no anotados.\\
-Un método que combina la utilización de diccionarios con corpus no anotados es el ideado por (Luk (1995)). Este método utiliza las definiciones de LDOCE para extraer las palabras que identifican cada sentido, construyendo así para cada sentido una lista de palabras representativas. Utilizando esta información y las oraciones del Brown Corpus (Francis y Kucera (1979)) no anotado, se expande el conjunto de palabras representativas obtenido a partir de LDOCE, de la siguiente forma: se extraen pares de palabras de cada oraci´on del Brown Corpus y se determinan los conceptos co-ocurrentes mediante un algoritmo que obtiene una tabla de datos conceptuales co-ocurrentes. Esto permite producir un sistema que utiliza la información de recursos léxicos como un medio para reducir la gran cantidad de texto necesaria de los corpus de entrenamiento.\\
+Un método que combina la utilización de diccionarios con corpus no anotados es el ideado por (Luk (1995)). Este método utiliza las definiciones de LDOCE para extraer las palabras que identifican cada sentido, construyendo así para cada sentido una lista de palabras representativas. Utilizando esta información y las oraciones del Brown Corpus (Francis y Kucera (1979)) no anotado, se expande el conjunto de palabras representativas obtenido a partir de LDOCE, de la siguiente forma: se extraen pares de palabras de cada oración del Brown Corpus y se determinan los conceptos co-ocurrentes mediante un algoritmo que obtiene una tabla de datos conceptuales co-ocurrentes. Esto permite producir un sistema que utiliza la información de recursos léxicos como un medio para reducir la gran cantidad de texto necesaria de los corpus de entrenamiento.\\
 El proceso de desambiguación,  de una palabra polisémica $W$ sobre un contexto $C$ (la oración que contiene a la palabra), comienza dando valores a cada sentido $S$ de $W$, según la fórmula \ref{eq:dbt9}
 
 \begin{equation}
@@ -329,4 +329,4 @@ El proceso de desambiguación,  de una palabra polisémica $W$ sobre un contexto
 \end{equation}
 
 Donde $CS$ es el conjunto de palabras representativas de LDOCE pertenecientes al sentido $S,$ $C_0$ es el conjunto ampliado de palabras representativas y GlobalCS contiene las definiciones de cada concepto. A partir de estos valores y utilizando la Información Mutua entre los diferentes conjuntos de palabras representativas, se selecciona el sentido con mayor valor de Información Mutua. Este sistema obtuvo un 77\% de precisión sobre las 12 palabras utilizadas en el trabajo de (Yarowsky (1992)).\\
-Otros métodos destacables de este tipo son los publicados en: McRoy (1992), Dagan et al. (1991) y Dagan et al. (1994). Existen también otros métodos que utilizan la combinación de tesauros y corpus no anotados, como es el caso del método ideado en (Yarowsky (1992)). Este método emplea la técnica de bootstrapping utilizando las palabras de las categorías del Roget’s Thesaurus, considerándolas etiquetadas semánticamente y esta información se va aumentando utilizando un corpus no anotado. Además, podemos encontrar también métodos que combinan diferentes fuentes léxicas estructuradas con corpus: Lin (1997), Agirre y Mart´ınez (2000). Métodos que combinan WordNet y corpus: Resnik (1995b), Stetina et al. (1998), etc. En definitiva, el número de sistemas de WSD surgidos a partir de la combinación de diferentes fuentes de conocimiento es muy amplio y seríaa imposible citarlos exhaustivamente.
+Otros métodos destacables de este tipo son los publicados en: McRoy (1992), Dagan et al. (1991) y Dagan et al. (1994). Existen también otros métodos que utilizan la combinación de tesauros y corpus no anotados, como es el caso del método ideado en (Yarowsky (1992)). Este método emplea la técnica de bootstrapping utilizando las palabras de las categorías del Roget’s Thesaurus, considerándolas etiquetadas semánticamente y esta información se va aumentando utilizando un corpus no anotado. Además, podemos encontrar también métodos que combinan diferentes fuentes léxicas estructuradas con corpus: Lin (1997), Agirre y Martínez (2000). Métodos que combinan WordNet y corpus: Resnik (1995b), Stetina et al. (1998), etc. En definitiva, el número de sistemas de WSD surgidos a partir de la combinación de diferentes fuentes de conocimiento es muy amplio y seríaa imposible citarlos exhaustivamente.

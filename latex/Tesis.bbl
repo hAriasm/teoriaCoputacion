@@ -13,6 +13,14 @@ Church, K. and Hanks, P. (1990).
 \newblock Word association norms, mutual information, and lexicography.
 \newblock {\em Computational linguistics}, 16(1):22--29.
 
+\bibitem[Cortez~Vásquez, 2009]{Arquitectura}
+Cortez~Vásquez, A., V. h. H.-P. Q. J. . H. A.~M. (2009).
+\newblock Procesamiento de lenguaje natural.
+\newblock {\em Revista De investigación De Sistemas E Informática}, Vol 6(Nº
+  2-2009):pages 45--54.
+\newblock lenguaje natural, procesamiento de lenguaje natural, análisis de
+  lenguaje natural, lexicones.
+
 \bibitem[Cowie et~al., 1992]{005}
 Cowie, J., Guthrie, J., and Guthrie, L. (1992).
 \newblock Lexical disambiguation using simulated annealing.
@@ -26,10 +34,32 @@ Deerwester, S., Dumais, S.~T., Furnas, G.~W., Landauer, T.~K., and Harshman, R.
 \newblock {\em Journal of the American society for information science},
   41(6):391--407.
 
+\bibitem[Deilis Carrazana~Galán, 2015]{EvaluacionAmbiguedad01}
+Deilis Carrazana~Galán, D. M.~B. (2015).
+\newblock {\em Herramienta informática para la evaluación de la ambigüedad
+  en textos legales}.
+\newblock PhD thesis, Universidad de las Ciencias Informáticas departamento
+  Ciencias Informáticas, La Habana, Cuba.
+
+\bibitem[Glean, 1993]{BROOKSHEAR}
+Glean, B.~J. (1993).
+\newblock Teoría de la computación addisson wesley iberoamericana wilmington
+  delaware.
+\newblock In {\em Infografia Evolucion Procesamiento Lenguaje}.
+
 \bibitem[Harris, 1968]{007}
 Harris, Z.~S. (1968).
 \newblock Mathematical structures of language.
 \newblock In {\em Interscience tracts in pure and applied mathematics}.
+
+\bibitem[Jefferson A. Peña-Torres, 2021]{ChatBoot}
+Jefferson A. Peña-Torres, Santiago Giraldo-Alegría, C. A. A.-P. V. A.~B.
+  (2021).
+\newblock Un chatbot para asistir a las necesidades de información en tiempos
+  de covid-19.
+\newblock {\em INGENIERIA Y COMPETITIVIDAD REVISTA CIENTIFICA Y TECNOLOGICA},
+  Vol 24(Nº 1-2022):pages 1--22.
+\newblock chatbot, COVID-19, natural language processing, virtual assistant.
 
 \bibitem[Kilgarriff and Rosenzweig, 2000]{004}
 Kilgarriff, A. and Rosenzweig, J. (2000).

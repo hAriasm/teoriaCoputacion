@@ -1,32 +1,46 @@
 \chapter{Formalismos y/o teoría propuesta}
 \hrule \bigskip \vspace*{1cm}
 %------------------------------------------------------------------------
+Cuando queremos definir qué es lenguaje natural, nos hacemos la pregunta ¿Qué surgió primero las reglas gramaticales o el lenguaje? Un lenguaje natural es aquel que ha evolucionado con el tiempo para fines de comunicación humana, como el español o alemán \cite{BROOKSHEAR}. 
+Estos lenguajes continúan su evolución sin considerar la gramática, cualquier regla se desarrolla después de sucedido el hecho. En contraste, los lenguajes formales están definidos por reglas preestablecidas, y por tanto se rigen con todo rigor a ellas. El lenguaje natural(LN) es el medio que utilizamos de manera cotidiana para establecer nuestra comunicación con las demás personas. El LN ha venido perfeccionándose a partir de la experiencia a tal punto que  puede ser utilizado para analizar situaciones altamente
+complejas y razonar muy sutilmente. Los lenguajes naturales tienen un gran poder expresivo y su función y valor como una herramienta para razonamiento. Por otro lado, la sintaxis de un LN puede ser modelada fácilmente por un lenguaje formal, similar a los utilizados en las matemáticas y la lógica.
 
-Seria recomendable que cada uno de las etapas o puntos principales
-vayan acompañados de una discusión (mini conclusión) detallando y
-justificando la razón de su existencia.
+\section{Arquitectura un sistema de PLN}
 
-\section{Arquitectura de procesamiento de lenguaje natural}
-
-Debemos iniciar la instalación mediante los siguientes paquetes
-básicos, es recomendado seguir el siguiente orden en la
-instalación:
+La arquitectura de un sistema de PLN se sustenta en
+una definición del LN por niveles: estos son : fonológico, morfológico, sintáctico, semántico, y pragmático.
 
 \begin{description}
-    \item[AFPLGhostscript] Nos permite trabajar con los formatos
-    EPS que caracterizan a \LaTeX (Free).
-    \item[GSview] Para visualizar los PS y EPS
-    \item[Acrobat Reader] Para visualizar los PDF (Free).
-    \item[small-miktex] el compilador y los \verb"packages" del
-    \LaTeX (Free).
-    \item[WinEdt] Un potente editor para \LaTeX.
+\item[Nivel Fonológico:] trata de cómo las palabras se relacionan con los sonidos que representan.
+\item[Nivel Morfológico:]  trata de cómo las palabras se construyen a partir de unas unidades de significado más pequeñas llamadas morfemas.
+\item[Nivel Sintáctico: ] trata de cómo las palabras pueden unirse para formar  oraciones, fijando el papel estructural que cada palabra juega en la oración y que sintagmas son parte de otros sintagmas.
+\item[ Nivel Semántico:] trata del significado de las palabras y de cómo los  significados se unen para dar significado a una oración, también se refiere al  significado independiente del contexto, es decir de la oración aislada. 
+\item[Nivel Pragmático:]  trata de cómo las oraciones se usan en distintas situaciones y de cómo el uso afecta al significado de las oraciones. Se reconoce un subnivel recursivo: discursivo, que trata de cómo el significado de una oración se ve afectado por las oraciones inmediatamente anteriores. 
 \end{description}
 
-Estos paquetes son opcionales, pero muy útiles:
+\section{Problema del procesamiento de lenguaje natural}
 
-\begin{description}
-        \item[Diccionario] Diccionario para poder corregir en
-    español, aún incompleto solo en WinEdt (Free).
-     \item[GNUplot]Poderoso Graficador y procesador matemático, muy usado
-     en los trabajos de investigación y tesis(Free).
-\end{description}
+En \cite{Arquitectura} nos comenta  la principal dificultad en los procesos de recuperación
+de información mediante lenguajes formales no es de índole técnica sino psicológica: entender cuál es la necesidad real del usuario, cual es la correcta formulación de su pregunta o necesidad. La dirección más prometedora de resolver este problema es el uso de lenguaje natural. Sin embargo, uno de los grandes problemas del PLN se produce cuando una expresión en LN posee más de una interpretación, es decir, cuando en el lenguaje de destino se le pueden asignar dos o más expresiones distintas. Este problema de la ambigüedad se presenta en todos los niveles del lenguaje, sin excepción. Ejemplo:
+“Hay alguien en la puerta, que te quiere hablar”
+“ Hay alguien, en la puerta que te quiere hablar”
+No está claro, si el predicado “te quiere hablar” se adjudica a “alguien” o a “la puerta”, sabemos que la puertas no hablan, por tanto deducimos que es a alguien. Pero 
+esto no lo puede deducir la máquina, a no ser que esté enterada de lo que hacen o no hacen las puertas. En apariencia este problema es demasiado sencillo, pero en realidad, es uno de los más complicados y que más complicaciones ha dado para que el PLN pueda desarrollarse por completo, ya que al presentarse en todos los niveles del lenguaje, se tienen que desarrollar programas (lenguaje formal) para solucionarlos en cada caso.
+
+El error es ta claro por eso tratamos de demostrar La informática ha evolucionado desde sus inicios, considerando siempre aspectos del comportamiento del usuario en relación con el tratamiento de la información. Es por eso que ha incorporado textos, imágenes y
+sonido a las estaciones de trabajos actuales, al tiempo que éstos aumentan su capacidad.
+
+La informática ha evolucionado desde sus inicios, considerando siempre aspectos del comportamiento del usuario en relación con el tratamiento de la información. Es por eso que ha incorporado textos, imágenes y sonido a las estaciones de trabajos actuales, al tiempo que éstos aumentan su capacidad.
+
+Los sistemas multimedia incluyen:
+\begin{itemize}
+  \item Entornos visuales
+  \item Autopistas de información
+  \item Ratón
+  \item Programación interactiva
+  \item Realidad Virtual
+  \item Hipertexto
+  \item Sonido
+\end{itemize}
+ 
+La multimedia combina el hipertexto con el sonido. Estas uniones de imágenes, texto y sonidos necesitan una filosofía del conocimiento que fundamente su función interna dentro de la comunicación de conocimientos. Existe una comunicación sistema-usuario que se da a través de un lenguaje natural que se ve afectado grandemente por el conocimiento que un interlocutor tiene del otro y por el contexto o entorno donde el diálogo tiene lugar. 
