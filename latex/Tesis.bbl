@@ -8,40 +8,78 @@ Banerjee, S. and Pedersen, T. (2002).
   Intelligent Text Processing}, pages 136--145, Berlin, Heidelberg. Springer
   Berlin Heidelberg.
 
-\bibitem[Cortez~Vásquez, 2009]{Arquitectura}
-Cortez~Vásquez, A., V. h. H.-P. Q. J. . H. A.~M. (2009).
-\newblock Procesamiento de lenguaje natural.
-\newblock {\em Revista De investigación De Sistemas E Informática}, Vol 6(Nº
-  2-2009):pages 45--22.
-\newblock lenguaje natural, procesamiento de lenguaje natural, análisis de
-  lenguaje natural, lexicones.
+\bibitem[Church and Hanks, 1990]{011}
+Church, K. and Hanks, P. (1990).
+\newblock Word association norms, mutual information, and lexicography.
+\newblock {\em Computational linguistics}, 16(1):22--29.
 
-\bibitem[Deilis Carrazana~Galán, 2015]{EvaluacionAmbiguedad01}
-Deilis Carrazana~Galán, D. M.~B. (2015).
-\newblock {\em Herramienta informática para la evaluación de la ambigüedad
-  en textos legales}.
-\newblock PhD thesis, Universidad de las Ciencias Informáticas departamento
-  Ciencias Informáticas, La Habana, Cuba.
+\bibitem[Cowie et~al., 1992]{005}
+Cowie, J., Guthrie, J., and Guthrie, L. (1992).
+\newblock Lexical disambiguation using simulated annealing.
+\newblock In {\em COLING 1992 Volume 1: The 14th International Conference on
+  Computational Linguistics}.
 
-\bibitem[Deloitte, 2020]{EvolucionPLN}
-Deloitte (2020).
-\newblock La evolución del procesamiento de lenguaje natural a sus algoritmos.
-\newblock In {\em Infografia Evolucion Procesamiento Lenguaje}.
+\bibitem[Deerwester et~al., 1990]{013}
+Deerwester, S., Dumais, S.~T., Furnas, G.~W., Landauer, T.~K., and Harshman, R.
+  (1990).
+\newblock Indexing by latent semantic analysis.
+\newblock {\em Journal of the American society for information science},
+  41(6):391--407.
 
-\bibitem[Jefferson A. Peña-Torres, 2021]{ChatBoot}
-Jefferson A. Peña-Torres, Santiago Giraldo-Alegría, C. A. A.-P. V. A.~B.
-  (2021).
-\newblock Un chatbot para asistir a las necesidades de información en tiempos
-  de covid-19.
-\newblock {\em INGENIERIA Y COMPETITIVIDAD REVISTA CIENTIFICA Y TECNOLOGICA},
-  Vol 24(Nº 1-2022):pages 1--22.
-\newblock chatbot, COVID-19, natural language processing, virtual assistant.
+\bibitem[Harris, 1968]{007}
+Harris, Z.~S. (1968).
+\newblock Mathematical structures of language.
+\newblock In {\em Interscience tracts in pure and applied mathematics}.
+
+\bibitem[Kilgarriff and Rosenzweig, 2000]{004}
+Kilgarriff, A. and Rosenzweig, J. (2000).
+\newblock Framework and results for english senseval.
+\newblock {\em Computers and the Humanities}, 34(1/2):15--48.
 
 \bibitem[Lesk, 1986]{002}
 Lesk, M.~E. (1986).
 \newblock Automatic sense disambiguation using machine readable dictionaries:
   how to tell a pine cone from an ice cream cone.
 \newblock In {\em SIGDOC '86}.
+
+\bibitem[Miller and Charles, 1991]{008}
+Miller, G.~A. and Charles, W.~G. (1991).
+\newblock Contextual correlates of semantic similarity.
+\newblock {\em Language and Cognitive Processes}, 6(1):1--28.
+
+\bibitem[Pantel and Lin, 2002]{014}
+Pantel, P. and Lin, D. (2002).
+\newblock Document clustering with committees.
+\newblock In {\em Proceedings of the 25th annual international ACM SIGIR
+  conference on Research and development in information retrieval}, pages
+  199--206.
+
+\bibitem[Patwardhan et~al., 2003]{003}
+Patwardhan, S., Banerjee, S., and Pedersen, T. (2003).
+\newblock Using measures of semantic relatedness for word sense disambiguation.
+\newblock In {\em Computational Linguistics and Intelligent Text Processing},
+  pages 241--257, Berlin, Heidelberg. Springer Berlin Heidelberg.
+
+\bibitem[Pedersen and Bruce, 1997]{015}
+Pedersen, T. and Bruce, R. (1997).
+\newblock Distinguishing word senses in untagged text.
+\newblock {\em arXiv preprint cmp-lg/9706008}.
+
+\bibitem[P{\'e}rez, 2009]{012}
+P{\'e}rez, S.~V. (2009).
+\newblock {\em Resoluci{\'o}n de la ambig{\"u}edad sem{\'a}ntica mediante
+  m{\'e}todos basados en conocimiento y su aportaci{\'o}n a tareas de PLN}.
+\newblock PhD thesis, Universitat d'Alacant-Universidad de Alicante.
+
+\bibitem[Rayson and Garside, 2000]{010}
+Rayson, P. and Garside, R. (2000).
+\newblock Comparing corpora using frequency profiling.
+\newblock In {\em The workshop on comparing corpora}, pages 1--6.
+
+\bibitem[Sch{\"u}tze, 1998]{009}
+Sch{\"u}tze, H. (1998).
+\newblock Automatic word sense discrimination.
+\newblock {\em Computational Linguistics}, 24(1):97--123.
 
 \bibitem[Torres-Ramos, 2012]{001}
 Torres-Ramos, S. (2012).
