@@ -21,10 +21,10 @@
 \contentsline {chapter}{\numberline {3}Formalismos y/o teor\IeC {\'\i }a propuesta}{26}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}Arquitectura un sistema de PLN}{26}{section.3.1}% 
 \contentsline {section}{\numberline {3.2}Problema del procesamiento de lenguaje natural}{27}{section.3.2}% 
-\contentsline {chapter}{\numberline {4}Experimentaci\IeC {\'o}n o evaluaci\IeC {\'o}n emp\IeC {\'\i }rica}{29}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Notaci\IeC {\'o}n Matem\IeC {\'a}tica}{29}{section.4.1}% 
-\contentsline {chapter}{\numberline {5}Resultados y/o Evaluaciones}{31}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Conclusiones}{31}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}Contribuciones}{31}{section.5.2}% 
-\contentsline {section}{\numberline {5.3}Trabajo futuro}{31}{section.5.3}% 
-\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{32}{section.5.3}% 
+\contentsline {chapter}{\numberline {4}Experimentaci\IeC {\'o}n o evaluaci\IeC {\'o}n emp\IeC {\'\i }rica}{30}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Notaci\IeC {\'o}n Matem\IeC {\'a}tica}{30}{section.4.1}% 
+\contentsline {chapter}{\numberline {5}Resultados y/o Evaluaciones}{32}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Conclusiones}{32}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Contribuciones}{33}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Trabajo futuro}{33}{section.5.3}% 
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{34}{section.5.3}% 
