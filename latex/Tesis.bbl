@@ -77,6 +77,11 @@ Miller, G.~A. and Charles, W.~G. (1991).
 \newblock Contextual correlates of semantic similarity.
 \newblock {\em Language and Cognitive Processes}, 6(1):1--28.
 
+\bibitem[Mitchell and Mitchell, 1997]{016}
+Mitchell, T.~M. and Mitchell, T.~M. (1997).
+\newblock {\em Machine learning}, volume~1.
+\newblock McGraw-hill New York.
+
 \bibitem[Pantel and Lin, 2002]{014}
 Pantel, P. and Lin, D. (2002).
 \newblock Document clustering with committees.

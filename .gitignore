@@ -9,3 +9,4 @@
 /latex/*.aux
 /latex/*.synctex
 /latex/*.pdf
+/latex/*.toc
