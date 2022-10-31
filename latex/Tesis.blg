@@ -25,46 +25,48 @@ Warning--I didn't find a database entry for "EvaluacionAmbiguedad01"
 Warning--I didn't find a database entry for "Arquitectura"
 Warning--I didn't find a database entry for "ChatBoot"
 Warning--I didn't find a database entry for "BROOKSHEAR"
+Warning--empty booktitle in 037
 Warning--can't use both volume and number fields in 016
-You've used 31 entries,
+Warning--there's a number but no volume in 043
+You've used 44 entries,
             1935 wiz_defined-function locations,
-            658 strings with 8120 characters,
-and the built_in function-call counts, 11560 in all, are:
-= -- 1148
-> -- 357
-< -- 35
-+ -- 117
-- -- 111
-* -- 866
-:= -- 1966
-add.period$ -- 96
-call.type$ -- 31
-change.case$ -- 205
-chr.to.int$ -- 31
-cite$ -- 32
-duplicate$ -- 530
-empty$ -- 896
-format.name$ -- 162
-if$ -- 2343
+            721 strings with 10023 characters,
+and the built_in function-call counts, 16326 in all, are:
+= -- 1626
+> -- 494
+< -- 49
++ -- 159
+- -- 153
+* -- 1229
+:= -- 2775
+add.period$ -- 135
+call.type$ -- 44
+change.case$ -- 290
+chr.to.int$ -- 44
+cite$ -- 47
+duplicate$ -- 745
+empty$ -- 1274
+format.name$ -- 225
+if$ -- 3302
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 34
-newline$ -- 158
-num.names$ -- 95
-pop$ -- 222
+missing$ -- 48
+newline$ -- 223
+num.names$ -- 134
+pop$ -- 309
 preamble$ -- 1
-purify$ -- 210
+purify$ -- 296
 quote$ -- 0
-skip$ -- 388
+skip$ -- 543
 stack$ -- 0
-substring$ -- 750
-swap$ -- 90
-text.length$ -- 10
+substring$ -- 1087
+swap$ -- 119
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 178
-warning$ -- 1
-while$ -- 97
+type$ -- 254
+warning$ -- 3
+while$ -- 139
 width$ -- 0
-write$ -- 399
-(There were 5 warnings)
+write$ -- 565
+(There were 7 warnings)

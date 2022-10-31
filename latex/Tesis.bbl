@@ -1,5 +1,16 @@
 \begin{thebibliography}{}
 
+\bibitem[Abney, 2002]{035}
+Abney, S. (2002).
+\newblock Bootstrapping.
+\newblock In {\em Proceedings of the 40th annual meeting of the Association for
+  Computational Linguistics}, pages 360--367.
+
+\bibitem[Abney, 2004]{036}
+Abney, S. (2004).
+\newblock Understanding the yarowsky algorithm.
+\newblock {\em Computational Linguistics}, 30(3):365--395.
+
 \bibitem[Banerjee and Pedersen, 2002]{006}
 Banerjee, S. and Pedersen, T. (2002).
 \newblock An adapted lesk algorithm for word sense disambiguation using
@@ -7,6 +18,11 @@ Banerjee, S. and Pedersen, T. (2002).
 \newblock In Gelbukh, A., editor, {\em Computational Linguistics and
   Intelligent Text Processing}, pages 136--145, Berlin, Heidelberg. Springer
   Berlin Heidelberg.
+
+\bibitem[Blum and Mitchell, 1998]{037}
+Blum, A. and Mitchell, T.~M. (1998).
+\newblock Combining labeled and unlabeled sata with co-training.
+\newblock Citeseer.
 
 \bibitem[Church and Hanks, 1990]{011}
 Church, K. and Hanks, P. (1990).
@@ -47,10 +63,21 @@ Hart, P.~E., Stork, D.~G., and Duda, R.~O. (2000).
 \newblock {\em Pattern classification}.
 \newblock Wiley Hoboken.
 
+\bibitem[Holyoak, 1987]{041}
+Holyoak, K.~J. (1987).
+\newblock Parallel distributed processing: explorations in the microstructure
+  of cognition.
+\newblock {\em Science}, 236:992--997.
+
 \bibitem[Kilgarriff and Rosenzweig, 2000]{004}
 Kilgarriff, A. and Rosenzweig, J. (2000).
 \newblock Framework and results for english senseval.
 \newblock {\em Computers and the Humanities}, 34(1/2):15--48.
+
+\bibitem[Kohonen, 2012]{044}
+Kohonen, T. (2012).
+\newblock {\em Self-organization and associative memory}, volume~8.
+\newblock Springer Science \& Business Media.
 
 \bibitem[Leacock et~al., 1998]{023}
 Leacock, C., Chodorow, M., and Miller, G.~A. (1998).
@@ -69,6 +96,17 @@ Lewis, D.~D. and Ringuette, M. (1994).
 \newblock A comparison of two learning algorithms for text categorization.
 \newblock In {\em Third annual symposium on document analysis and information
   retrieval}, volume~33, pages 81--93.
+
+\bibitem[Martinez, 2005]{033}
+Martinez, D. (2005).
+\newblock Supervised word sense disambiguation: Facing current challenges.
+\newblock {\em Procesamiento del Lenguaje Natural}, 34.
+
+\bibitem[Mart{\'\i}nez et~al., 2002]{032}
+Mart{\'\i}nez, D., Agirre, E., and M{\`a}rquez, L. (2002).
+\newblock Syntactic features for high precision word sense disambiguation.
+\newblock In {\em COLING 2002: The 19th International Conference on
+  Computational Linguistics}.
 
 \bibitem[Mihalcea and Edmonds, 2004]{018}
 Mihalcea, R. and Edmonds, P. (2004).
@@ -91,6 +129,12 @@ Mooney, R.~J. (1996).
 \newblock Comparative experiments on disambiguating word senses: An
   illustration of the role of bias in machine learning.
 \newblock {\em arXiv preprint cmp-lg/9612001}.
+
+\bibitem[Nigam and Ghani, 2000]{038}
+Nigam, K. and Ghani, R. (2000).
+\newblock Analyzing the effectiveness and applicability of co-training.
+\newblock In {\em Proceedings of the ninth international conference on
+  Information and knowledge management}, pages 86--93.
 
 \bibitem[Pantel and Lin, 2002]{014}
 Pantel, P. and Lin, D. (2002).
@@ -159,11 +203,34 @@ Torres-Ramos, S. (2012).
   sentidos de palabras.
 \newblock {\em Research in Computing Science}, 47:139 – 158.
 
+\bibitem[Towell and Voorhees, 1998]{040}
+Towell, G. and Voorhees, E.~M. (1998).
+\newblock Disambiguating highly ambiguous words.
+\newblock {\em Computational Linguistics}, 24(1):125--145.
+
+\bibitem[Valdivia et~al., 2002]{042}
+Valdivia, M. T.~M., Vega, M.~G., and L{\'o}pez, L. A.~U. (2002).
+\newblock Resoluci{\'o}n de la ambig{\"u}edad mediante redes neuronales.
+\newblock {\em Procesamiento del lenguaje natural}, 29.
+
 \bibitem[Vapnik, 1998]{019}
 Vapnik, V. (1998).
 \newblock {\em Statistical Learning Theory}.
 \newblock Adaptive and learning systems for signal processing, communications,
   and control. Wiley.
+
+\bibitem[Vega, 2007]{043}
+Vega, M.~G. (2007).
+\newblock Resoluci{\'o}n de la ambigedad l{\'e}xica mediante aprendizaje por
+  cuantificaci{\'o}n vectorial.
+\newblock {\em Procesamiento del Lenguaje Natural}, (38):143--144.
+
+\bibitem[Veronis and Ide, 1990]{039}
+Veronis, J. and Ide, N. (1990).
+\newblock Word sense disambiguation with very large neural networks extracted
+  from machine readable dictionaries.
+\newblock In {\em COLING 1990 Volume 2: Papers presented to the 13th
+  International Conference on Computational Linguistics}.
 
 \bibitem[Yarowsky, 1994]{030}
 Yarowsky, D. (1994).
@@ -176,5 +243,10 @@ Yarowsky, D. (1995).
 \newblock Unsupervised word sense disambiguation rivaling supervised methods.
 \newblock In {\em 33rd annual meeting of the association for computational
   linguistics}, pages 189--196.
+
+\bibitem[Yarowsky, 2000]{034}
+Yarowsky, D. (2000).
+\newblock Hierarchical decision lists for word sense disambiguation.
+\newblock {\em Computers and the Humanities}, 34(1):179--186.
 
 \end{thebibliography}
