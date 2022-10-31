@@ -30,6 +30,13 @@ Blum, A. and Mitchell, T.~M. (1998).
 \newblock Combining labeled and unlabeled sata with co-training.
 \newblock Citeseer.
 
+\bibitem[Bucheli et~al., 2022]{ChatBoot}
+Bucheli, V.~A., Pe{\~n}a-Torres, J.~A., Giraldo-Alegr{\'\i}a, S., and
+  Arango-Pastrana, C.~A. (2022).
+\newblock Un chatbot para asistir a las necesidades de informaci{\'o}n en
+  tiempos de covid-19.
+\newblock {\em Ingenier{\'\i}a y Competitividad}, 24(1):e211e11004.
+
 \bibitem[Church and Hanks, 1990]{011}
 Church, K. and Hanks, P. (1990).
 \newblock Word association norms, mutual information, and lexicography.
@@ -59,6 +66,13 @@ Deerwester, S., Dumais, S.~T., Furnas, G.~W., Landauer, T.~K., and Harshman, R.
 \newblock {\em Journal of the American society for information science},
   41(6):391--407.
 
+\bibitem[Deilis Carrazana~Galán, 2015]{EvaluacionAmbiguedad01}
+Deilis Carrazana~Galán, D. M.~B. (2015).
+\newblock {\em Herramienta informática para la evaluación de la ambigüedad
+  en textos legales}.
+\newblock PhD thesis, Universidad de las Ciencias Informáticas departamento
+  Ciencias Informáticas, La Habana, Cuba.
+
 \bibitem[Escudero et~al., 2000]{024}
 Escudero, G., M{\`a}rquez, L., and Rigau, G. (2000).
 \newblock Naive bayes and exemplar-based approaches to word sense
@@ -69,6 +83,12 @@ Escudero, G., M{\`a}rquez, L., and Rigau, G. (2000).
 Francis, W.~N. and Kucera, H. (1979).
 \newblock Brown corpus manual.
 \newblock {\em Letters to the Editor}, 5(2):7.
+
+\bibitem[Glean, 1993]{BROOKSHEAR}
+Glean, B.~J. (1993).
+\newblock Teoría de la computación addisson wesley iberoamericana wilmington
+  delaware.
+\newblock In {\em Infografia Evolucion Procesamiento Lenguaje}.
 
 \bibitem[Golding, 1996]{022}
 Golding, A.~R. (1996).
@@ -272,6 +292,12 @@ Vapnik, V. (1998).
 \newblock {\em Statistical Learning Theory}.
 \newblock Adaptive and learning systems for signal processing, communications,
   and control. Wiley.
+
+\bibitem[V{\'a}squez et~al., 2009]{Arquitectura}
+V{\'a}squez, A.~C., Quispe, J.~P., Huayna, A.~M., et~al. (2009).
+\newblock Procesamiento de lenguaje natural.
+\newblock {\em Revista de investigaci{\'o}n de Sistemas e Inform{\'a}tica},
+  6(2):45--54.
 
 \bibitem[Vega, 2007]{043}
 Vega, M.~G. (2007).
