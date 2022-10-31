@@ -28,45 +28,45 @@ Warning--I didn't find a database entry for "BROOKSHEAR"
 Warning--empty booktitle in 037
 Warning--can't use both volume and number fields in 016
 Warning--there's a number but no volume in 043
-You've used 44 entries,
+You've used 54 entries,
             1935 wiz_defined-function locations,
-            721 strings with 10023 characters,
-and the built_in function-call counts, 16326 in all, are:
-= -- 1626
-> -- 494
-< -- 49
-+ -- 159
-- -- 153
-* -- 1229
-:= -- 2775
-add.period$ -- 135
-call.type$ -- 44
-change.case$ -- 290
-chr.to.int$ -- 44
-cite$ -- 47
-duplicate$ -- 745
-empty$ -- 1274
-format.name$ -- 225
-if$ -- 3302
+            769 strings with 11596 characters,
+and the built_in function-call counts, 20075 in all, are:
+= -- 2004
+> -- 604
+< -- 60
++ -- 193
+- -- 187
+* -- 1502
+:= -- 3404
+add.period$ -- 165
+call.type$ -- 54
+change.case$ -- 357
+chr.to.int$ -- 54
+cite$ -- 57
+duplicate$ -- 923
+empty$ -- 1565
+format.name$ -- 275
+if$ -- 4069
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 48
-newline$ -- 223
-num.names$ -- 134
-pop$ -- 309
+missing$ -- 58
+newline$ -- 273
+num.names$ -- 164
+pop$ -- 379
 preamble$ -- 1
-purify$ -- 296
+purify$ -- 363
 quote$ -- 0
-skip$ -- 543
+skip$ -- 679
 stack$ -- 0
-substring$ -- 1087
-swap$ -- 119
-text.length$ -- 13
+substring$ -- 1333
+swap$ -- 154
+text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 254
+type$ -- 314
 warning$ -- 3
-while$ -- 139
+while$ -- 173
 width$ -- 0
-write$ -- 565
+write$ -- 691
 (There were 7 warnings)

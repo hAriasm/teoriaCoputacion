@@ -11,6 +11,12 @@ Abney, S. (2004).
 \newblock Understanding the yarowsky algorithm.
 \newblock {\em Computational Linguistics}, 30(3):365--395.
 
+\bibitem[Agirre and Martinez, 2000]{052}
+Agirre, E. and Martinez, D. (2000).
+\newblock Exploring automatic word sense disambiguation with decision lists and
+  the web.
+\newblock {\em arXiv preprint cs/0010024}.
+
 \bibitem[Banerjee and Pedersen, 2002]{006}
 Banerjee, S. and Pedersen, T. (2002).
 \newblock An adapted lesk algorithm for word sense disambiguation using
@@ -35,6 +41,17 @@ Cowie, J., Guthrie, J., and Guthrie, L. (1992).
 \newblock In {\em COLING 1992 Volume 1: The 14th International Conference on
   Computational Linguistics}.
 
+\bibitem[Dagan et~al., 1991]{049}
+Dagan, I., Itai, A., and Schwall, U. (1991).
+\newblock Two languages are more informative than one.
+\newblock In {\em 29th Annual Meeting of the Association for Computational
+  Linguistics}, pages 130--137.
+
+\bibitem[Dagan et~al., 1994]{050}
+Dagan, I., Pereira, F., and Lee, L. (1994).
+\newblock Similarity-based estimation of word cooccurrence probabilities.
+\newblock {\em arXiv preprint cmp-lg/9405001}.
+
 \bibitem[Deerwester et~al., 1990]{013}
 Deerwester, S., Dumais, S.~T., Furnas, G.~W., Landauer, T.~K., and Harshman, R.
   (1990).
@@ -47,6 +64,11 @@ Escudero, G., M{\`a}rquez, L., and Rigau, G. (2000).
 \newblock Naive bayes and exemplar-based approaches to word sense
   disambiguation revisited.
 \newblock {\em arXiv preprint cs/0007011}.
+
+\bibitem[Francis and Kucera, 1979]{046}
+Francis, W.~N. and Kucera, H. (1979).
+\newblock Brown corpus manual.
+\newblock {\em Letters to the Editor}, 5(2):7.
 
 \bibitem[Golding, 1996]{022}
 Golding, A.~R. (1996).
@@ -97,6 +119,21 @@ Lewis, D.~D. and Ringuette, M. (1994).
 \newblock In {\em Third annual symposium on document analysis and information
   retrieval}, volume~33, pages 81--93.
 
+\bibitem[Lin, 1997]{051}
+Lin, D. (1997).
+\newblock Using syntactic dependency as local context to resolve word sense
+  ambiguity.
+\newblock In {\em 35th Annual Meeting of the Association for Computational
+  Linguistics and 8th Conference of the European Chapter of the Association for
+  Computational Linguistics}, pages 64--71.
+
+\bibitem[Luk, 1995]{045}
+Luk, A.~K. (1995).
+\newblock Statistical sense disambiguation with relatively small corpora using
+  dictionary definitions.
+\newblock In {\em Proceedings of the 33rd annual meeting on Association for
+  Computational Linguistics}, pages 181--188.
+
 \bibitem[Martinez, 2005]{033}
 Martinez, D. (2005).
 \newblock Supervised word sense disambiguation: Facing current challenges.
@@ -107,6 +144,11 @@ Mart{\'\i}nez, D., Agirre, E., and M{\`a}rquez, L. (2002).
 \newblock Syntactic features for high precision word sense disambiguation.
 \newblock In {\em COLING 2002: The 19th International Conference on
   Computational Linguistics}.
+
+\bibitem[McRoy, 1992]{048}
+McRoy, S.~W. (1992).
+\newblock Using multiple knowledge sources for word sense discrimination.
+\newblock {\em Computational Linguistics}, 18(1):1--30.
 
 \bibitem[Mihalcea and Edmonds, 2004]{018}
 Mihalcea, R. and Edmonds, P. (2004).
@@ -187,6 +229,12 @@ Rayson, P. and Garside, R. (2000).
 \newblock Comparing corpora using frequency profiling.
 \newblock In {\em The workshop on comparing corpora}, pages 1--6.
 
+\bibitem[Resnik, 1995]{053}
+Resnik, P. (1995).
+\newblock Using information content to evaluate semantic similarity in a
+  taxonomy.
+\newblock {\em arXiv preprint cmp-lg/9511007}.
+
 \bibitem[Rivest, 1987]{027}
 Rivest, R.~L. (1987).
 \newblock Learning decision lists.
@@ -196,6 +244,12 @@ Rivest, R.~L. (1987).
 Sch{\"u}tze, H. (1998).
 \newblock Automatic word sense discrimination.
 \newblock {\em Computational Linguistics}, 24(1):97--123.
+
+\bibitem[Stetina and Nagao, 1998]{054}
+Stetina, J. and Nagao, M. (1998).
+\newblock General word sense disambiguation method based on a full sentential
+  context.
+\newblock {\em Journal of Natural Language Processing}, 5(2):47--74.
 
 \bibitem[Torres-Ramos, 2012]{001}
 Torres-Ramos, S. (2012).
@@ -231,6 +285,13 @@ Veronis, J. and Ide, N. (1990).
   from machine readable dictionaries.
 \newblock In {\em COLING 1990 Volume 2: Papers presented to the 13th
   International Conference on Computational Linguistics}.
+
+\bibitem[Yarowsky, 1992]{047}
+Yarowsky, D. (1992).
+\newblock Word-sense disambiguation using statistical models of roget’s
+  categories trained on large corpora.
+\newblock In {\em COLING 1992 Volume 2: The 14th International Conference on
+  Computational Linguistics}.
 
 \bibitem[Yarowsky, 1994]{030}
 Yarowsky, D. (1994).
