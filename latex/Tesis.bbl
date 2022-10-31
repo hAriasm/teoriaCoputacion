@@ -13,14 +13,6 @@ Church, K. and Hanks, P. (1990).
 \newblock Word association norms, mutual information, and lexicography.
 \newblock {\em Computational linguistics}, 16(1):22--29.
 
-\bibitem[Cortez~Vásquez, 2009]{Arquitectura}
-Cortez~Vásquez, A., V. h. H.-P. Q. J. . H. A.~M. (2009).
-\newblock Procesamiento de lenguaje natural.
-\newblock {\em Revista De investigación De Sistemas E Informática}, Vol 6(Nº
-  2-2009):pages 45--54.
-\newblock lenguaje natural, procesamiento de lenguaje natural, análisis de
-  lenguaje natural, lexicones.
-
 \bibitem[Cowie et~al., 1992]{005}
 Cowie, J., Guthrie, J., and Guthrie, L. (1992).
 \newblock Lexical disambiguation using simulated annealing.
@@ -34,37 +26,37 @@ Deerwester, S., Dumais, S.~T., Furnas, G.~W., Landauer, T.~K., and Harshman, R.
 \newblock {\em Journal of the American society for information science},
   41(6):391--407.
 
-\bibitem[Deilis Carrazana~Galán, 2015]{EvaluacionAmbiguedad01}
-Deilis Carrazana~Galán, D. M.~B. (2015).
-\newblock {\em Herramienta informática para la evaluación de la ambigüedad
-  en textos legales}.
-\newblock PhD thesis, Universidad de las Ciencias Informáticas departamento
-  Ciencias Informáticas, La Habana, Cuba.
+\bibitem[Escudero et~al., 2000]{024}
+Escudero, G., M{\`a}rquez, L., and Rigau, G. (2000).
+\newblock Naive bayes and exemplar-based approaches to word sense
+  disambiguation revisited.
+\newblock {\em arXiv preprint cs/0007011}.
 
-\bibitem[Glean, 1993]{BROOKSHEAR}
-Glean, B.~J. (1993).
-\newblock Teoría de la computación addisson wesley iberoamericana wilmington
-  delaware.
-\newblock In {\em Infografia Evolucion Procesamiento Lenguaje}.
+\bibitem[Golding, 1996]{022}
+Golding, A.~R. (1996).
+\newblock A bayesian hybrid method for context-sensitive spelling correction.
+\newblock {\em arXiv preprint cmp-lg/9606001}.
 
 \bibitem[Harris, 1968]{007}
 Harris, Z.~S. (1968).
 \newblock Mathematical structures of language.
 \newblock In {\em Interscience tracts in pure and applied mathematics}.
 
-\bibitem[Jefferson A. Peña-Torres, 2021]{ChatBoot}
-Jefferson A. Peña-Torres, Santiago Giraldo-Alegría, C. A. A.-P. V. A.~B.
-  (2021).
-\newblock Un chatbot para asistir a las necesidades de información en tiempos
-  de covid-19.
-\newblock {\em INGENIERIA Y COMPETITIVIDAD REVISTA CIENTIFICA Y TECNOLOGICA},
-  Vol 24(Nº 1-2022):pages 1--22.
-\newblock chatbot, COVID-19, natural language processing, virtual assistant.
+\bibitem[Hart et~al., 2000]{020}
+Hart, P.~E., Stork, D.~G., and Duda, R.~O. (2000).
+\newblock {\em Pattern classification}.
+\newblock Wiley Hoboken.
 
 \bibitem[Kilgarriff and Rosenzweig, 2000]{004}
 Kilgarriff, A. and Rosenzweig, J. (2000).
 \newblock Framework and results for english senseval.
 \newblock {\em Computers and the Humanities}, 34(1/2):15--48.
+
+\bibitem[Leacock et~al., 1998]{023}
+Leacock, C., Chodorow, M., and Miller, G.~A. (1998).
+\newblock Using corpus statistics and wordnet relations for sense
+  identification.
+\newblock {\em Computational Linguistics}, 24(1):147--165.
 
 \bibitem[Lesk, 1986]{002}
 Lesk, M.~E. (1986).
@@ -72,15 +64,33 @@ Lesk, M.~E. (1986).
   how to tell a pine cone from an ice cream cone.
 \newblock In {\em SIGDOC '86}.
 
+\bibitem[Lewis and Ringuette, 1994]{021}
+Lewis, D.~D. and Ringuette, M. (1994).
+\newblock A comparison of two learning algorithms for text categorization.
+\newblock In {\em Third annual symposium on document analysis and information
+  retrieval}, volume~33, pages 81--93.
+
+\bibitem[Mihalcea and Edmonds, 2004]{018}
+Mihalcea, R. and Edmonds, P. (2004).
+\newblock Senseval-3: Third international workshop on the evaluation of systems
+  for the semantic analysis of text.
+\newblock In {\em Association for Computational Linguistics. ACL}, volume~4.
+
 \bibitem[Miller and Charles, 1991]{008}
 Miller, G.~A. and Charles, W.~G. (1991).
 \newblock Contextual correlates of semantic similarity.
 \newblock {\em Language and Cognitive Processes}, 6(1):1--28.
 
-\bibitem[Mitchell and Mitchell, 1997]{016}
-Mitchell, T.~M. and Mitchell, T.~M. (1997).
+\bibitem[Mitchell, 1997]{016}
+Mitchell, T.~M. (1997).
 \newblock {\em Machine learning}, volume~1.
 \newblock McGraw-hill New York.
+
+\bibitem[Mooney, 1996]{025}
+Mooney, R.~J. (1996).
+\newblock Comparative experiments on disambiguating word senses: An
+  illustration of the role of bias in machine learning.
+\newblock {\em arXiv preprint cmp-lg/9612001}.
 
 \bibitem[Pantel and Lin, 2002]{014}
 Pantel, P. and Lin, D. (2002).
@@ -95,6 +105,11 @@ Patwardhan, S., Banerjee, S., and Pedersen, T. (2003).
 \newblock In {\em Computational Linguistics and Intelligent Text Processing},
   pages 241--257, Berlin, Heidelberg. Springer Berlin Heidelberg.
 
+\bibitem[Pedersen, 1997]{026}
+Pedersen, T. (1997).
+\newblock Naive mixes for word sense disambiguation.
+\newblock In {\em AAAI/IAAI}, page 841.
+
 \bibitem[Pedersen and Bruce, 1997]{015}
 Pedersen, T. and Bruce, R. (1997).
 \newblock Distinguishing word senses in untagged text.
@@ -106,10 +121,32 @@ P{\'e}rez, S.~V. (2009).
   m{\'e}todos basados en conocimiento y su aportaci{\'o}n a tareas de PLN}.
 \newblock PhD thesis, Universitat d'Alacant-Universidad de Alicante.
 
+\bibitem[Preiss and Yarowsky, 2001]{017}
+Preiss, J. and Yarowsky, D. (2001).
+\newblock Proceedings of senseval-2 second international workshop on evaluating
+  word sense disambiguation systems.
+\newblock In {\em Proceedings of SENSEVAL-2 Second International Workshop on
+  Evaluating Word Sense Disambiguation Systems}.
+
+\bibitem[Quinlan, 1986]{028}
+Quinlan, J.~R. (1986).
+\newblock Induction of decision trees.
+\newblock {\em Machine learning}, 1(1):81--106.
+
+\bibitem[Quinlan, 2014]{029}
+Quinlan, J.~R. (2014).
+\newblock {\em C4. 5: programs for machine learning}.
+\newblock Elsevier.
+
 \bibitem[Rayson and Garside, 2000]{010}
 Rayson, P. and Garside, R. (2000).
 \newblock Comparing corpora using frequency profiling.
 \newblock In {\em The workshop on comparing corpora}, pages 1--6.
+
+\bibitem[Rivest, 1987]{027}
+Rivest, R.~L. (1987).
+\newblock Learning decision lists.
+\newblock {\em Machine learning}, 2(3):229--246.
 
 \bibitem[Sch{\"u}tze, 1998]{009}
 Sch{\"u}tze, H. (1998).
@@ -121,5 +158,23 @@ Torres-Ramos, S. (2012).
 \newblock Estudio sobre métodos tipo lesk usados para la desambiguación de
   sentidos de palabras.
 \newblock {\em Research in Computing Science}, 47:139 – 158.
+
+\bibitem[Vapnik, 1998]{019}
+Vapnik, V. (1998).
+\newblock {\em Statistical Learning Theory}.
+\newblock Adaptive and learning systems for signal processing, communications,
+  and control. Wiley.
+
+\bibitem[Yarowsky, 1994]{030}
+Yarowsky, D. (1994).
+\newblock Decision lists for lexical ambiguity resolution: Application to
+  accent restoration in spanish and french.
+\newblock {\em arXiv preprint cmp-lg/9406034}.
+
+\bibitem[Yarowsky, 1995]{031}
+Yarowsky, D. (1995).
+\newblock Unsupervised word sense disambiguation rivaling supervised methods.
+\newblock In {\em 33rd annual meeting of the association for computational
+  linguistics}, pages 189--196.
 
 \end{thebibliography}
