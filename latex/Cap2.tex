@@ -241,7 +241,7 @@ A continuación, se van a describir algunos de los distintos métodos de aprendi
   \begin{figure}[h!]
     \begin{center}
     \includegraphics[angle=0, width=10cm]{Graficos/bayesiano}
-    \caption{Modelo clasificador bayesiano (naive)}
+    \caption{Modelo clasificador bayesiano (naive) \cite{001}}
     \label{fig:bayesiano}
     \end{center}
   \end{figure} 
@@ -330,3 +330,79 @@ El proceso de desambiguación,  de una palabra polisémica $W$ sobre un contexto
 
 Donde $CS$ es el conjunto de palabras representativas de LDOCE pertenecientes al sentido $S,$ $C_0$ es el conjunto ampliado de palabras representativas y GlobalCS contiene las definiciones de cada concepto. A partir de estos valores y utilizando la Información Mutua entre los diferentes conjuntos de palabras representativas, se selecciona el sentido con mayor valor de Información Mutua. Este sistema obtuvo un 77\% de precisión sobre las 12 palabras utilizadas en el trabajo de \cite{047}.\\
 Otros métodos destacables de este tipo son los publicados en: \cite{048}, \cite{049} y \cite{050}. Existen también otros métodos que utilizan la combinación de tesauros y corpus no anotados, como es el caso del método ideado en \cite{047}. Este método emplea la técnica de bootstrapping utilizando las palabras de las categorías del Roget’s Thesaurus, considerándolas etiquetadas semánticamente y esta información se va aumentando utilizando un corpus no anotado. Además, podemos encontrar también métodos que combinan diferentes fuentes léxicas estructuradas con corpus: \cite{051}, \cite{052}. Métodos que combinan WordNet y corpus: \cite{053}, \cite{054}, etc. En definitiva, el número de sistemas de WSD surgidos a partir de la combinación de diferentes fuentes de conocimiento es muy amplio y seríaa imposible citarlos exhaustivamente.
+
+\section{Bolsa de Palabras}
+\paragraph{}
+BoVW es actualmente un método popular para el reconocimiento de objetos y escenas en visión por computadoras. A una imagen se le extraen los rasgos locales y pasa a ser considerada como una bolsa de rasgos (bag of features), es decir, ignorando las relaciones espaciales entre ellos. Como desventaja podemos mencionar que este no cuenta con un mecanismo eficiente y efectivo de codificación de la información espacial que existe para los rasgos. Un método basado en el BoVW clásico consiste en las siguientes etapas:
+
+\begin{figure}[h!]
+	\begin{center}
+	\includegraphics[angle=0,width=9.5cm]{Graficos/diagrama_bloques}
+	\caption{Diagramas de bloques de la \textit{Bolsa de Palabras}}
+	\label{fig:diagrama_bloques}
+  \end{center}
+\end{figure}
+
+\begin{enumerate}
+	\item \textbf{Extracción de rasgos:} Los rasgos locales y sus descriptores correspondientes se extraen de parches locales de la imagen. Los dos descriptores visuales más usados son SIFT (LOWE, 2004) y SURF (VEDALDI and FULKERSON, 2010). Algunos métodos los extraen en ciertos puntos de interés detectados y otros obtienen los rasgos locales densamente, en posiciones regulares de la imagen por ejemplo PHOW (VEDALDI  and  FULKERSON,  2010).
+	\item \textbf{Generar un diccionario y mapear los rasgos a palabras visuales:} Un diccionario visual es un método que divide el espacio de descriptores visuales en varias regiones. Los rasgos de una región corresponden a la misma palabra visual. Entonces, una imagen se codifica como un histograma de la frecuencia de ocurrencia de cada palabra visual. Esto se hace asignando a cada vector de rasgos de la imagen su región más cercana, de manera que al terminar el proceso se tenga la cantidad de vectores asignados a cada región y se asigna esa cantidad a la componente correspondiente a esa palabra visual en el histograma.
+	\item \textbf{Entrenar y probar:} Varios métodos de aprendizaje por computadora pueden aplicarse para la representación de imágenes usada. SVM es frecuentemente usado como clasificador en modelos BoVW para el reconocimiento de objetos y escenas. Este fue el clasificador escogido para resolver el problema planteado, en conjunto con el kernel aditivo de intersección de histogramas debido a su utilidad y buen desempeño para representaciones basadas en histogramas.
+\end{enumerate}
+
+\section{Reductor de Dimensiones MDS}
+\paragraph{}
+
+\textit{Multidimensional scaling} es un método para representar una matriz de disimilaridades en un cierto número de dimensiones. Se puede usar como una técnica de reducción de la dimensionalidad si se calculan las disimilaridades con respecto a la dimensión original y luego se representan en un espacio de dimensión menor.
+
+La idea de MDS es que las distancias euclídeas en el espacio de llegada sean lo más cercanas posibles a las disimilaridades en el espacio original. Si tenemos observaciones $x_1, x_2..., x_N$ y una función de disimilaridad \textit{d}, la función de coste a optimizar en MDS podría ser:
+
+\[C=\sum_{i \neq j}^{}(d(x_i,x_j)-||z_i-z_j||)^2\]
+
+donde $z_i$ y $z_j$ son los representantes en el espacio de llegada de $x_i$ y $x_j$ respectivamente.
+Esta función puede optimizarse mediante descenso del gradiente
+
+Sin embargo, si nuestras disimilaridades son distancias euclídeas existe una solución analítica. Si nuestras observaciones originales se representan por la matriz X sabemos que la matriz de Gram se define como $B = XX^T$. Podemos obtener la matriz de Gram mediante nuestra matriz de distancias al cuadrado D.
+
+\[B=\frac{-1}{2} * C_n * D * C_n\]
+
+Donde $C_n = I_n - \frac{1}{n} 11^T$ sirve para centrar la matriz de distancias. Por tanto si descomponemos la matriz de Gram podremos recuperar la matriz X y con ella las coordenadas en el espacio de llegada. En este caso (usando distancias euclídeas) el resultado será equivalente al obtenido mediante PCA.
+
+\section{KNN}
+K-Nearest Neighbors es uno de los algoritmos de clasificación más básicos pero esenciales en Machine Learning. Pertenece al dominio de aprendizaje supervisado y encuentra una intensa aplicación en el reconocimiento de patrones, minería de datos y detección de intrusos.
+Es ampliamente disponible en escenarios de la vida real ya que no es paramétrico, lo que significa que no hace suposiciones subyacentes sobre la distribución de datos (a diferencia de otros algoritmos como GMM, que asume una distribución gaussiana de los datos dados) .
+Nos dan unos datos previos (también llamados datos de entrenamiento), que clasifican las coordenadas en grupos identificados por un atributo.
+Como ejemplo, considere la figura \ref{fig:knn_01} que muestra una tabla de puntos de datos que contienen dos características:
+
+\clearpage
+\begin{figure}[h!]
+	\begin{center}
+	\includegraphics[angle=0,width=9cm]{Graficos/knn_01}
+	\caption{Datos de entrenamiento en KNN}
+	\label{fig:knn_01}
+  \end{center}
+\end{figure}
+
+Ahora, dado otro conjunto de puntos de datos (también llamados datos de prueba), asigne estos puntos a un grupo analizando el conjunto de entrenamiento. Tenga en cuenta que los puntos no clasificados están marcados como 'Blanco', de acuerdo la la figura \ref{fig:knn_02}
+
+\begin{figure}[h!]
+	\begin{center}
+	\includegraphics[angle=0,width=9cm]{Graficos/knn_02.png}
+	\caption{Datos de prueba en KNN}
+	\label{fig:knn_02}
+  \end{center}  
+\end{figure}
+
+\paragraph{Intuición}
+Si trazamos estos puntos en un gráfico, podemos ubicar algunos grupos o grupos. Ahora, dado un punto sin clasificar, podemos asignarlo a un grupo observando a qué grupo pertenecen sus vecinos más cercanos. Esto significa que un punto cercano a un grupo de puntos clasificados como 'Rojo' tiene una mayor probabilidad de ser clasificado como "Rojo".
+Intuitivamente, podemos ver que el primer punto (2.5, 7) debe clasificarse como 'Verde' y el segundo punto (5.5, 4.5) debe clasificarse como 'Rojo'.
+
+\paragraph{Algoritmo}
+Sea m el número de muestras de datos de entrenamiento. Sea p un punto desconocido.
+\begin{enumerate}
+	\item Almacene las muestras de entrenamiento en una matriz de puntos de datos arr[ ]. Esto significa que cada elemento de esta matriz representa una tupla (x, y).
+	\item Haz el conjunto S de las K distancias más pequeñas obtenidas. Cada una de estas distancias corresponde a un punto de datos ya clasificado.
+	\item Devuelve la etiqueta mayoritaria entre S.
+\end{enumerate}
+
+\paragraph{}
+K se puede mantener como un número impar para que podamos calcular una clara mayoría en el caso de que solo sean posibles dos grupos (por ejemplo, rojo/azul). Con el aumento de K, obtenemos límites más suaves y definidos a través de diferentes clasificaciones. Además, la precisión del clasificador anterior aumenta a medida que aumentamos la cantidad de puntos de datos en el conjunto de entrenamiento.
