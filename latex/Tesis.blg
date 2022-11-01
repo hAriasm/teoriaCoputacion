@@ -24,45 +24,45 @@ Database file #1: biblio.bib
 Warning--empty booktitle in 037
 Warning--can't use both volume and number fields in 016
 Warning--there's a number but no volume in 043
-You've used 59 entries,
+You've used 60 entries,
             1935 wiz_defined-function locations,
-            793 strings with 12635 characters,
-and the built_in function-call counts, 22028 in all, are:
-= -- 2194
-> -- 682
+            798 strings with 12834 characters,
+and the built_in function-call counts, 22457 in all, are:
+= -- 2237
+> -- 700
 < -- 63
-+ -- 219
-- -- 213
-* -- 1663
-:= -- 3746
-add.period$ -- 180
-call.type$ -- 59
-change.case$ -- 393
-chr.to.int$ -- 59
-cite$ -- 62
-duplicate$ -- 1004
-empty$ -- 1708
-format.name$ -- 306
-if$ -- 4454
++ -- 225
+- -- 219
+* -- 1704
+:= -- 3820
+add.period$ -- 183
+call.type$ -- 60
+change.case$ -- 401
+chr.to.int$ -- 60
+cite$ -- 63
+duplicate$ -- 1018
+empty$ -- 1738
+format.name$ -- 313
+if$ -- 4536
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 62
-newline$ -- 298
-num.names$ -- 179
-pop$ -- 417
+missing$ -- 63
+newline$ -- 303
+num.names$ -- 182
+pop$ -- 423
 preamble$ -- 1
-purify$ -- 400
+purify$ -- 408
 quote$ -- 0
-skip$ -- 734
+skip$ -- 744
 stack$ -- 0
-substring$ -- 1458
-swap$ -- 164
+substring$ -- 1495
+swap$ -- 165
 text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 344
+type$ -- 350
 warning$ -- 3
-while$ -- 189
+while$ -- 193
 width$ -- 0
-write$ -- 756
+write$ -- 769
 (There were 3 warnings)
