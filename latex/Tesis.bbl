@@ -282,6 +282,12 @@ Towell, G. and Voorhees, E.~M. (1998).
 \newblock Disambiguating highly ambiguous words.
 \newblock {\em Computational Linguistics}, 24(1):125--145.
 
+\bibitem[Toxtli et~al., 2018]{055}
+Toxtli, C., Monroy-Hern{\'a}ndez, A., and Cranshaw, J. (2018).
+\newblock Understanding chatbot-mediated task management.
+\newblock In {\em Proceedings of the 2018 CHI conference on human factors in
+  computing systems}, pages 1--6.
+
 \bibitem[Valdivia et~al., 2002]{042}
 Valdivia, M. T.~M., Vega, M.~G., and L{\'o}pez, L. A.~U. (2002).
 \newblock Resoluci{\'o}n de la ambig{\"u}edad mediante redes neuronales.
