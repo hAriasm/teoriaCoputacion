@@ -1,0 +1,11 @@
+3|Analista programador de software para plataforma online |HOF|NONE|CV_JUAN5
+3|Programador de aplicaciones web para empresas |HOF|NONE|CV_JUAN5
+3|Desarrollador de aplicaciones web y desktop |HOF|NONE|CV_JUAN5
+3|Programador para aplicaciones online y analista de software |HOF|NONE|CV_JUAN5
+3|Programador, qa, analista de software |HOF|NONE|CV_JUAN5
+3|Perfil desarrollador de aplicaciones web |HOF|NONE|CV_JUAN5
+4|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
+4|soy analista funcional para pruebas de alto nivel|NOT|NONE|CV_JUAN4
+4|administrador de base de datos oracle 12c|NOT|NONE|CV_JUAN4
+4|genero documentacion para proyectos informaticos|NOT|NONE|CV_JUAN4
+4|motivador y coatch para proyectos informaticos|NOT|NONE|CV_JUAN4

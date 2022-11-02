@@ -1,45 +1,187 @@
-1|Analista programador de software para plataforma online |HOF|NONE|CV_JUAN5
-2|Programador de aplicaciones web para empresas |HOF|NONE|CV_JUAN5
+3|Analista programador de software para plataforma online |HOF|NONE|CV_JUAN5
+3|Programador de aplicaciones web para empresas |HOF|NONE|CV_JUAN5
 3|Desarrollador de aplicaciones web y desktop |HOF|NONE|CV_JUAN5
-4|Programador para aplicaciones online y analista de software |HOF|NONE|CV_JUAN5
-5|Programador, qa, analista de software |HOF|NONE|CV_JUAN5
-6|Perfil desarrollador de aplicaciones web |HOF|NONE|CV_JUAN5
-7|Aplicaciones de soluciones web para empresas |HOF|NONE|CV_JUAN5
-8|Desarrollo aplicaciones a medida para entorno web |HOF|NONE|CV_JUAN5
-9|Hice aplicaciones para entorno web y entorno desktop para empresas |HOF|NONE|CV_JUAN5
-10|Hago analisis y aplicaciones web |HOF|NONE|CV_JUAN5
-11|Aplicaciones web para incrementar la productividad |HOF|NONE|CV_JUAN5
-12|Analista programador de software de plataforma en línea|HOF|NONE|CV_JUAN5
-13|Programador de aplicaciones web corporativas|HOF|NONE|CV_JUAN5
-14|Desarrolladores de aplicaciones web y de escritorio|HOF|NONE|CV_JUAN5
-15|Programadores de aplicaciones en línea y analistas de software|HOF|NONE|CV_JUAN5
-16|Programador, QA, Analista de Software|HOF|NONE|CV_JUAN5
-17|Una introducción a los desarrolladores de aplicaciones web.|HOF|NONE|CV_JUAN5
-18|Aplicación de soluciones de red de empresa.|HOF|NONE|CV_JUAN5
-19|Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
-20|Creo aplicaciones web y de escritorio para mi empresa|HOF|NONE|CV_JUAN5
-21|Me ocupo de analítica y aplicaciones web|HOF|NONE|CV_JUAN5
-22|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
-23|Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
-24|Construyo aplicaciones web y de escritorio para mi empresa|HOF|NONE|CV_JUAN5
-25|Me ocupo de analítica y aplicaciones web|HOF|NONE|CV_JUAN5
-26|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
-27|Analista de desarrollo de software de plataforma en línea|HOF|NONE|CV_JUAN5
-28|Desarrollador de aplicaciones web empresariales|HOF|NONE|CV_JUAN5
-29|Desarrolladores de aplicaciones web y de escritorio|HOF|NONE|CV_JUAN5
-30|Programadores de aplicaciones en línea y analistas de software|HOF|NONE|CV_JUAN5
-31|Programador, QA, Analista de Software|HOF|NONE|CV_JUAN5
-32|Aplicación de soluciones de red empresarial. Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
-33|Desarrollo aplicaciones web y de escritorio para mi negocio|HOF|NONE|CV_JUAN5
-34|Trabajo con analítica y aplicaciones web|HOF|NONE|CV_JUAN5
-35|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
-35|Hago analisis y pruebo aplicaciones |NOT|NONE|CV_JUAN4
-36|Implantar software para mejorar la  empresa|NOT|NONE|CV_JUAN4
-37|Diseñar metricas para analisis de software|NOT|NONE|CV_JUAN4
-38|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
-39|Analista de empresas con diplomado en desarrollo|NOT|NONE|CV_JUAN4
-40|Analizo y pruebo la aplicación|NOT|NONE|CV_JUAN4
-41|Implementar software para mejorar el negocio|NOT|NONE|CV_JUAN4
-42|Métricas de diseño para análisis de software|NOT|NONE|CV_JUAN4
-43|Escanear páginas web en busca de vulnerabilidades|NOT|NONE|CV_JUAN4
-44|Analista de negocios con diplomado en desarrollo.|NOT|NONE|CV_JUAN4
+3|Programador para aplicaciones online y analista de software |HOF|NONE|CV_JUAN5
+3|Programador, qa, analista de software |HOF|NONE|CV_JUAN5
+3|Perfil desarrollador de aplicaciones web |HOF|NONE|CV_JUAN5
+3|Aplicaciones de soluciones web para empresas |HOF|NONE|CV_JUAN5
+3|Desarrollo aplicaciones a medida para entorno web |HOF|NONE|CV_JUAN5
+3|Hice aplicaciones para entorno web y entorno desktop para empresas |HOF|NONE|CV_JUAN5
+3|Hago analisis y aplicaciones web |HOF|NONE|CV_JUAN5
+3|Aplicaciones web para incrementar la productividad |HOF|NONE|CV_JUAN5
+3|Analista programador de software de plataforma en línea|HOF|NONE|CV_JUAN5
+3|Programador de aplicaciones web corporativas|HOF|NONE|CV_JUAN5
+3|Desarrolladores de aplicaciones web y de escritorio|HOF|NONE|CV_JUAN5
+3|Programadores de aplicaciones en línea y analistas de software|HOF|NONE|CV_JUAN5
+3|Programador, QA, Analista de Software|HOF|NONE|CV_JUAN5
+3|Una introducción a los desarrolladores de aplicaciones web.|HOF|NONE|CV_JUAN5
+3|Aplicación de soluciones de red de empresa.|HOF|NONE|CV_JUAN5
+3|Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
+3|Creo aplicaciones web y de escritorio para mi empresa|HOF|NONE|CV_JUAN5
+3|Me ocupo de analítica y aplicaciones web|HOF|NONE|CV_JUAN5
+3|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
+3|Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
+3|Construyo aplicaciones web y de escritorio para mi empresa|HOF|NONE|CV_JUAN5
+3|Me ocupo de analítica y aplicaciones web|HOF|NONE|CV_JUAN5
+3|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
+3|Analista de desarrollo de software de plataforma en línea|HOF|NONE|CV_JUAN5
+3|Desarrollador de aplicaciones web empresariales|HOF|NONE|CV_JUAN5
+3|Desarrolladores de aplicaciones web y de escritorio|HOF|NONE|CV_JUAN5
+3|Analista  de software para plataforma web |HOF|NONE|CV_JUAN5
+3|Desarrollador de aplicaciones web para empresas |HOF|NONE|CV_JUAN5
+3|Desarrollador de aplicaciones web y de escritorio|HOF|NONE|CV_JUAN5
+3|Programadores de aplicaciones en línea y analistas de software|HOF|NONE|CV_JUAN5
+3|Programador, QA, Analista de Software|HOF|NONE|CV_JUAN5
+3|Aplicación de soluciones de red empresarial. Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
+3|Desarrollo aplicaciones web y de escritorio para mi negocio|HOF|NONE|CV_JUAN5
+3|Trabajo con analítica y aplicaciones web|HOF|NONE|CV_JUAN5
+3|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
+3|Analista  de desarrollo de plataforma web |HOF|NONE|CV_JUAN5
+3| Desarrollador de aplicaciones web para empresas |HOF|NONE|CV_JUAN5
+3| Desarrollador de aplicaciones web  |HOF|NONE|CV_JUAN5
+3|Desarrollador de aplicaciones web y analista de software |HOF|NONE|CV_JUAN5
+3| Desarrollador, qa, analista de software |HOF|NONE|CV_JUAN5
+3| Perfil de desarrollador de aplicaciones web |HOF|NONE|CV_JUAN5
+3| Aplicaciones de soluciones web para empresas |HOF|NONE|CV_JUAN5
+3| Desarrollo entorno de aplicaciones  web personalizado |HOF|NONE|CV_JUAN5
+3| Realicé aplicaciones para entorno web y  entorno de escritorio para análisis empresarial y  aplicaciones web  Aplicaciones web para  productividad |HOF|NONE|CV_JUAN5
+3| Analista  de software de plataforma web |HOF|NONE|CV_JUAN5
+3| Desarrollador de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
+3| Desarrolladores de aplicaciones web y de escritorio |HOF|NONE|CV_JUAN5
+3| Desarrolladores de aplicaciones web y analistas de software |HOF|NONE|CV_JUAN5
+3| Desarrolladores Desarrolladores, control de calidad, software Analista |HOF|NONE|CV_JUAN5
+3| Introducción a los Desarrolladores de Aplicaciones Web. |HOF|NONE|CV_JUAN5
+3| Aplicación de soluciones de red empresarial. |HOF|NONE|CV_JUAN5
+3| Desarrollo aplicaciones web personalizadas |HOF|NONE|CV_JUAN5
+3| Creo aplicaciones web y de escritorio para mi empresa |HOF|NONE|CV_JUAN5
+3| Hago análisis y aplicaciones  web |HOF|NONE|CV_JUAN5
+3| Aplicaciones web que mejoran la productividad |HOF|NONE|CV_JUAN5
+3| Desarrollo aplicaciones web personalizadas |HOF|NONE|CV_JUAN5
+3| Creo aplicaciones web y de escritorio para mi empresa |HOF|NONE|CV_JUAN5
+3| Me ocupo de análisis y aplicaciones web |HOF|NONE|CV_JUAN5
+3| Aplicaciones web que mejoran la productividad |HOF|NONE|CV_JUAN5
+3| Entornos web, analista de software  |HOF|NONE|CV_JUAN5
+3| Desarrollador de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
+3| Desarrolladores de aplicaciones web y de escritorio |HOF|NONE|CV_JUAN5
+3| Analista de software de plataforma web |HOF|NONE|CV_JUAN5
+3| Desarrollador de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
+3| Desarrollador de aplicaciones web  |HOF|NONE|CV_JUAN5
+3| Desarrolladores de aplicaciones web|HOF|NONE|CV_JUAN5
+3| desarrolladores y desarrolladores de aplicaciones web|HOF|NONE|CV_JUAN5
+3|desarrolladores de aplicaciones y analistas de software |HOF|NONE|CV_JUAN5
+3| Desarrollador, control de calidad, analista de software |HOF|NONE|CV_JUAN5
+3| Soluciones de redes empresariales de aplicaciones. Desarrollo de aplicaciones  web personalizadas |HOF|NONE|CV_JUAN5
+3| Desarrollo aplicaciones web y de escritorio para mi negocio |HOF|NONE|CV_JUAN5
+3| Trabajo con análisis y aplicaciones web |HOF|NONE|CV_JUAN5
+3| Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
+3| Desarrollo aplicaciones web y de escritorio para mi empresa |HOF|NONE|CV_JUAN5
+3| Hago análisis y aplicaciones web |HOF|NONE|CV_JUAN5
+3| Aplicaciones web de productividad |HOF|NONE|CV_JUAN5
+3| Desarrollo aplicaciones web personalizadas |HOF|NONE|CV_JUAN5
+3| Desarrollo aplicaciones web y de escritorio para mi empresa |HOF|NONE|CV_JUAN5
+3| Hago análisis y aplicaciones web |HOF|NONE|CV_JUAN5
+3| Aplicaciones web que aumentan la productividad |HOF|NONE|CV_JUAN5
+3| Entornos web, analista de software |HOF|NONE|CV_JUAN5
+3| Desarrolladores de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
+3| Desarrolladores de aplicaciones web y de escritorio |HOF|NONE|CV_JUAN5
+3| Analista de software  web |HOF|NONE|CV_JUAN5
+3| Desarrolladores de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
+3| Desarrolladores de aplicaciones web  y Desarrolladores |HOF|NONE|CV_JUAN5
+3| Desarrolladores de aplicaciones y Analistas de software Analistas de software |HOF|NONE|CV_JUAN5
+3| Soluciones, QA |HOF|NONE|CV_JUAN5
+3| Enterprise Network |HOF|NONE|CV_JUAN5
+3| Desarrollo mis propias aplicaciones web personalizadas para aplicaciones web y de escritorio  |HOF|NONE|CV_JUAN5
+3| Trabajo con aplicaciones analíticas y  web|HOF|NONE|CV_JUAN5
+3| Aplicaciones web, es para mejorar la productividad|HOF|NONE|CV_JUAN5
+4|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
+4|soy analista funcional para pruebas de alto nivel|NOT|NONE|CV_JUAN4
+4|administrador de base de datos oracle 12c|NOT|NONE|CV_JUAN4
+4|genero documentacion para proyectos informaticos|NOT|NONE|CV_JUAN4
+4|motivador y coatch para proyectos informaticos|NOT|NONE|CV_JUAN4
+4|contador publico para proyectos informaticos|NOT|NONE|CV_JUAN4
+4|desarrollo de muebles de melanine |NOT|NONE|CV_JUAN4
+4|terapeuta para desrrollo motivacional en proyectos de alto nivel|NOT|NONE|CV_JUAN4
+4|administrador de empresa y proyectos informaticos|NOT|NONE|CV_JUAN4
+4|creo y gestion base de datos desnormalizando|NOT|NONE|CV_JUAN4
+4|analista para aplicaciones de desarrollo de software |NOT|NONE|CV_JUAN4
+4|operador de maquinaria pesada para construccion civil|NOT|NONE|CV_JUAN4
+4|realizo pruebas de calidad para software legacy |NOT|NONE|CV_JUAN4
+4|Hago analisis y pruebo aplicaciones|NOT|NONE|CV_JUAN4
+4|Implantar software para mejorar la  empresa|NOT|NONE|CV_JUAN4
+4|Diseñar metricas para analisis de software|NOT|NONE|CV_JUAN4
+4|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
+4|Analista de empresas con diplomado en desarrollo|NOT|NONE|CV_JUAN4
+4|Analizo y pruebo la aplicación|NOT|NONE|CV_JUAN4
+4|Implementar software para mejorar el negocio|NOT|NONE|CV_JUAN4
+4|Métricas de diseño para análisis de software|NOT|NONE|CV_JUAN4
+4|Escanear páginas web en busca de vulnerabilidades|NOT|NONE|CV_JUAN4
+4|Analista de negocios con diplomado en desarrollo.|NOT|NONE|CV_JUAN4
+4|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
+4|soy analista utilitario para pruebas de vasto altitud|NOT|NONE|CV_JUAN4
+4|delegado de cojín de datos oracle 12c|NOT|NONE|CV_JUAN4
+4|genero documentacion para proyectos informaticos|NOT|NONE|CV_JUAN4
+4|motivador y coatch para proyectos informaticos|NOT|NONE|CV_JUAN4
+4|comprobador publico para proyectos informaticos|NOT|NONE|CV_JUAN4
+4|grana de muebles de melanine|NOT|NONE|CV_JUAN4
+4|cirujano para desrrollo motivacional en proyectos de vasto altitud|NOT|NONE|CV_JUAN4
+4|delegado de engendro y proyectos informaticos|NOT|NONE|CV_JUAN4
+4|creo y gestion cojín de datos desnormalizando|NOT|NONE|CV_JUAN4
+4|analista para aplicaciones de grana de programa|NOT|NONE|CV_JUAN4
+4|cámara de máquina pesada para construccion mundano|NOT|NONE|CV_JUAN4
+4|realizo pruebas de especie para programa legacy|NOT|NONE|CV_JUAN4
+4|Hago analisis y pruebo aplicaciones|NOT|NONE|CV_JUAN4
+4|Implantar programa para recuperarse la engendro|NOT|NONE|CV_JUAN4
+4|Diseñar metricas para analisis de programa|NOT|NONE|CV_JUAN4
+4|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
+4|Analista de empresas con graduado en grana|NOT|NONE|CV_JUAN4
+4|Analizo y pruebo la tesón|NOT|NONE|CV_JUAN4
+4|Implementar programa para recuperarse el operación|NOT|NONE|CV_JUAN4
+4|Métricas de borrador para explicación de programa|NOT|NONE|CV_JUAN4
+4|Escanear páginas web en pesquisa de vulnerabilidades|NOT|NONE|CV_JUAN4
+4|Analista de negocios con graduado en grana. |NOT|NONE|CV_JUAN4
+4|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
+4|soy analista sencillo para pruebas de conspicuo altura|NOT|NONE|CV_JUAN4
+4|mandatario de saco de datos oracle 12c|NOT|NONE|CV_JUAN4
+4|genero documentacion para proyectos informaticos|NOT|NONE|CV_JUAN4
+4|motivador y coatch para proyectos informticos|NOT|NONE|CV_JUAN4
+4|registrador publico para proyectos informaticos|NOT|NONE|CV_JUAN4
+4|granazón de muebles de melanine|NOT|NONE|CV_JUAN4
+4|prudencial para desrrollo motivacional en proyectos de conspicuo altura|NOT|NONE|CV_JUAN4
+4|mandatario de ente y proyectos informaticos|NOT|NONE|CV_JUAN4
+4|creo y gestion saco de datos desnormalizando|NOT|NONE|CV_JUAN4
+4|analista para aplicaciones de granazón de programa|NOT|NONE|CV_JUAN4
+4|cámara de dispositivo pesada para construccion ignorante|NOT|NONE|CV_JUAN4
+4|realizo pruebas de raza para programa legacy|NOT|NONE|CV_JUAN4
+4|Hago analisis y pruebo aplicaciones|NOT|NONE|CV_JUAN4
+4|Implantar programa para recobrarse la ente|NOT|NONE|CV_JUAN4
+4|Diseñar metricas para analisis de programa|NOT|NONE|CV_JUAN4
+4|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
+4|Analista de empresas con graduado en granazón|NOT|NONE|CV_JUAN4
+4|Analizo y pruebo la tenacidad|NOT|NONE|CV_JUAN4
+4|Implementar programa para recobrarse el operación|NOT|NONE|CV_JUAN4
+4|Métricas de proyecto para interpretación de programa|NOT|NONE|CV_JUAN4
+4|Escanear páginas web en rastreo de vulnerabilidades|NOT|NONE|CV_JUAN4
+4|Analista de negocios con graduado en granazón.|NOT|NONE|CV_JUAN4
+4|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
+4|soy analista coche para pruebas de noble cota|NOT|NONE|CV_JUAN4
+4|representante de base de datos oracle 12c|NOT|NONE|CV_JUAN4
+4|genero documentacion para proyectos informaticos|NOT|NONE|CV_JUAN4
+4|motivador y coatch para proyectos informticos|NOT|NONE|CV_JUAN4
+4|medidor publico para proyectos informaticos|NOT|NONE|CV_JUAN4
+4|desarrollo de muebles de melanine|NOT|NONE|CV_JUAN4
+4|protestativo para desrrollo motivacional en proyectos de noble cota|NOT|NONE|CV_JUAN4
+4|representante de espantajo y proyectos informaticos|NOT|NONE|CV_JUAN4
+4|creo y gestion base de datos desnormalizando|NOT|NONE|CV_JUAN4
+4|analista para aplicaciones de desarrollo de software|NOT|NONE|CV_JUAN4
+4|alcoba de dispositivo pesada para construccion iletrado|NOT|NONE|CV_JUAN4
+4|realizo pruebas de variedad para software legacy|NOT|NONE|CV_JUAN4
+4|Hago analisis y pruebo aplicaciones|NOT|NONE|CV_JUAN4
+4|Implantar software para curar la espantajo|NOT|NONE|CV_JUAN4
+4|Diseñar metricas para analisis de software|NOT|NONE|CV_JUAN4
+4|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
+4|Analista de empresas con titulado en desarrollo|NOT|NONE|CV_JUAN4
+4|Analizo y pruebo la ahínco|NOT|NONE|CV_JUAN4
+4|Implementar software para curar el importaci|NOT|NONE|CV_JUAN4ón
+4|Métricas de bosquejo para definición de software|NOT|NONE|CV_JUAN4
+4|Escanear páginas web en indagación de vulnerabilidades|NOT|NONE|CV_JUAN4
+4|Analista de negocios con titulado en desarrollo.|NOT|NONE|CV_JUAN4
