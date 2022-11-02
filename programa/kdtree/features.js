@@ -11,7 +11,7 @@ var tweet_class = [];
 var tweet_id = [];
 
 /***lectura y clasificacion de tweets */
-var data = fs.readFileSync("data/training-tweets_1000.txt", "utf-8");
+var data = fs.readFileSync("data/parafraseo.txt", "utf-8");
 data = data.split("\r\n");
 for (let i = 0; i < data.length; i++) {
   
@@ -61,7 +61,7 @@ fs.writeFile("./data/final_tweets_2d.js", "data = '" + data2 + "'; ", (err) => {
   }
 });
 function functionNoOfensivo(j) {
-  return bow_all_dr[i][j] * 2000 + 100;
+  return bow_all_dr[i][j] * 700 + 100;
 }
 
 function functionOfensivo(j) {
