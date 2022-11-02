@@ -251,3 +251,14 @@
 4|Uso de aplicaciones moviles para entrevistas a clientes |NOT|NONE|CV_JUAN4
 4|Cuento con conocimientos en el uso de aplicaciones de escritorio para ventas |NOT|NONE|CV_JUAN4
 4|Tengo certificaciones en el uso de software y aplicaciones avanzadas en metrologia |NOT|NONE|CV_JUAN4
+4|Uso de aplicaciones web para el dictado de clases |NOT|NONE|CV_JUAN4
+4|Desarrollo de cálculos estadísticos utilizando software dedicado. |NOT|NONE|CV_JUAN4
+4|Cotizaciones con empresas desarrolladoras de software e informatica |NOT|NONE|CV_JUAN4
+4|Analista de ventas de equipos para aplicaciones médicas |NOT|NONE|CV_JUAN4
+4|Actualmente trabajo como secretaria y tengo conocimientos de informática. |NOT|NONE|CV_JUAN4
+4|Desarrollo de calculos estadisticos usando software especializado |NOT|NONE|CV_JUAN4
+4|Simulaciones de estructuras mecanicas usando software avanzado|NOT|NONE|CV_JUAN4
+4|Soy ingeniero de sistemas encargado del curso de Ciencias Informaticas I.|NOT|NONE|CV_JUAN4
+4|Actualmente trabajo como secretaria, cuento con conocimientos en computacion.|NOT|NONE|CV_JUAN4
+4|Programacion de sistemas de alarmas en domicilios.|NOT|NONE|CV_JUAN4
+4|Venta de pintura para aplicaciones marinas.|NOT|NONE|CV_JUAN4
