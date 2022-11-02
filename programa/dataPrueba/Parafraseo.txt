@@ -297,7 +297,64 @@
 3|SAP Business One, .NET, C -Programmer Analyst|HOF|NONE|CV_JUAN5
 3|Desarrolladores web completamente acumulados|HOF|NONE|CV_JUAN5
 3|Desarrolladores web completamente acumulados|HOF|NONE|CV_JUAN5
-
+3|Desarrollador de aplicaciones moviles en Grupo PLM. |HOF|NONE|CV_JUAN5
+3|Desarrollador de aplicaciones web en Municipalidad Provincial de San Martin. |HOF|NONE|CV_JUAN5
+3|Director Desarrollo de Aplicaciones e Infraestructura de TI en SOFTLABS. |HOF|NONE|CV_JUAN5
+3|Desarrollador Web Front End con énfasis en ReactJs. |HOF|NONE|CV_JUAN5
+3|Ingeniero de aplicaciones en INDUSTRIAL COM. |HOF|NONE|CV_JUAN5
+3| Soy ingeniero de Sistemas y programador de aplicaciones. |HOF|NONE|CV_JUAN5
+3| Tecnico programador y disenador de aplicaciones moviles para empresas. |HOF|NONE|CV_JUAN5
+3| Programador independiente de aplicaciones de gestion empresarial. |HOF|NONE|CV_JUAN5
+3| Una de mis principales funciones es la supervision del equipo de analistas de software. |HOF|NONE|CV_JUAN5
+3| Realizo funciones de analisis de sotware. |HOF|NONE|CV_JUAN5
+3| Desarrollador freelance de aplicaciones empresariales. |HOF|NONE|CV_JUAN5
+3| Estoy disenando y construyendo un sitio web en mi actual compañia. |HOF|NONE|CV_JUAN5
+3| Una de mis responsabilidades es supervisar un equipo de analistas de software. |HOF|NONE|CV_JUAN5
+3| Encargado de la construccion y desarrollo de aplicaciones moviles para finanzas. |HOF|NONE|CV_JUAN5
+3| Soy responsable de construir y desarrollar aplicaciones para la gestion de mantenimiento de planta. |HOF|NONE|CV_JUAN5
+3| Implemente paginas Web para el area de marketing de la compania BHP Oil Gas.|HOF|NONE|CV_JUAN5
+3| Tengo conocimientos solidos en diseno y programacion de aplicaciones en linea. |HOF|NONE|CV_JUAN5
+3| Me he desempeñado como Analista de Software en el area de TI. |HOF|NONE|CV_JUAN5
+3| Realizo programacion de aplicaciones moviles de entretenimiento y para el uso educativo. |HOF|NONE|CV_JUAN5
+3| Programacion de aplicaciones móviles con fines educativos y de entretenimiento. |HOF|NONE|CV_JUAN5
+3| Realizo servicios de diseño e implementación de páginas Web para empresas e instituciones educativas. |HOF|NONE|CV_JUAN5
+3| Tengo experiencia como desarrollador de aplicaciones de escritorio. |HOF|NONE|CV_JUAN5
+3| En la actualidad me desempeño como Analista Senior de Software en la Cia. Devon Energy. |HOF|NONE|CV_JUAN5
+3| He adquirido vasto conocimiento en programacion de aplicaciones de escritorio y moviles. |HOF|NONE|CV_JUAN5
+3| Soy jefe del departamento de Informatica y Desarrollo de Aplicaciones en la empresa que actualmente laboro. |HOF|NONE|CV_JUAN5
+3| Tengo 5 anos de experiencia en la implementacion de paginas Web para negocios y pymes. |HOF|NONE|CV_JUAN5
+3| Poseo certificaciones internacionales en diseno y programacion de aplicaciones para la gestion empresarial. |HOF|NONE|CV_JUAN5
+3| Cuento con Certificación Internacional en Diseno y Programacion de Aplicaciones. |HOF|NONE|CV_JUAN5
+3| Me he desempenado en el cargo de Programador de Paginas Web. |HOF|NONE|CV_JUAN5
+3| Solia ​​trabajar como programador de sitios web. |HOF|NONE|CV_JUAN5
+3| Soy disenador y prgramador de sitios Web para colegios y academias. |HOF|NONE|CV_JUAN5
+3| He realizado la programacion de aplicaciones moviles para restaurantes y bares. |HOF|NONE|CV_JUAN5
+3| Programo aplicaciones moviles de entretenimiento y juegos. |HOF|NONE|CV_JUAN5
+3| Programacion de aplicaciones moviles para entretenimiento y juegos. |HOF|NONE|CV_JUAN5
+3| Fui responsable del diseno e implementacion de paginas Web. |HOF|NONE|CV_JUAN5
+3| Soy programador independiente de aplicaciones moviles para pequenos negocios. |HOF|NONE|CV_JUAN5
+3| Realizo la construccion y desarrollo de aplicaciones de escritorio. |HOF|NONE|CV_JUAN5
+3| Diseno y construyo aplicaciones de escritorio de mi universidad. |HOF|NONE|CV_JUAN5
+3| Tengo experiencia laboral y estudios academicos en la programacion de aplicaciones en linea. |HOF|NONE|CV_JUAN5
+3| Cuento con experiencia laboral en el desarrollo de páginas web para clínicas y hospitales. |HOF|NONE|CV_JUAN5
+3| Tengo experiencia practica y academica en programacion de aplicaciones en linea.|HOF|NONE|CV_JUAN5
+3|Desarrollador de aplicaciones moviles en Grupo PLM. |HOF|NONE|CV_JUAN5
+3|Desarrollador de aplicaciones web en Municipalidad Provincial de San Martin. |HOF|NONE|CV_JUAN5
+3|Director Desarrollo de Aplicaciones e Infraestructura de TI en SOFTLABS. |HOF|NONE|CV_JUAN5
+3|Desarrollador Web Front End con énfasis en ReactJs. |HOF|NONE|CV_JUAN5
+3|Ingeniero de aplicaciones en INDUSTRIAL COM. |HOF|NONE|CV_JUAN5
+3|Desarrollador de aplicaciones de iOS en Yonusa. |HOF|NONE|CV_JUAN5
+3|Desarrollador de aplicaciones senior en Metaenlace Sistemas de Información. |HOF|NONE|CV_JUAN5
+3|Programador de aplicaciones web en ALTEN SPAIN. |HOF|NONE|CV_JUAN5
+3|Jefe de área de desarrollo de aplicaciones. |HOF|NONE|CV_JUAN5
+3|Especialista en Seguridad Informática de Aplicaciones Web. |HOF|NONE|CV_JUAN5
+3|Desarrollador FullStack de aplicaciones web y moviles (Python, Django, Flask, Devops). |HOF|NONE|CV_JUAN5
+3|Tecnico superior en Desarrollo de Aplicaciones Web(Java-Springboot).  |HOF|NONE|CV_JUAN5
+3|Programador web en Avalisto. |HOF|NONE|CV_JUAN5
+3|Desarrollador de Software - JavaScript | Python | Express | Django | React. |HOF|NONE|CV_JUAN5
+3|Desarrollador De Software en TTN Company. |HOF|NONE|CV_JUAN5
+3|Desarrollador de software en Telefónica Soluciones de Criptografía S.A. |HOF|NONE|CV_JUAN5
+3|Desarrollador de aplicaciones en OIM. |HOF|NONE|CV_JUAN5
 4|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
 4|soy analista funcional para pruebas de alto nivel|NOT|NONE|CV_JUAN4
 4|administrador de base de datos oracle 12c|NOT|NONE|CV_JUAN4
@@ -588,3 +645,56 @@
 4|Administrador de empresas - Gestion ambiental calificada|NOT|NONE|CV_JUAN4
 4|Gerente de Operaciones, P&R World Services SAC|NOT|NONE|CV_JUAN4
 4|DESARROLLADOR DE NEGOCIOS ECOVIS PERU|NOT|NONE|CV_JUAN4
+4|Desarrollo proyectos civiles para entidades privadas y estatales |NOT|NONE|CV_JUAN4
+4|Soy analista de ensayos de laboratorio y metrología. |NOT|NONE|CV_JUAN4
+4|Me desempene como vendedor en una tienda de informatica y dispositivos electronicos  |NOT|NONE|CV_JUAN4
+4|Tengo conocimientos de diseño de estructuras mecánicas y uso de software de simulación |NOT|NONE|CV_JUAN4
+4|He desarrollado planes y programación de actividades de mantenimiento |NOT|NONE|CV_JUAN4
+4|Me he desempenado como analista, planificador y programador de gestión de mantenimiento en la empresa Kallpa |NOT|NONE|CV_JUAN4
+4|Realizo programacion de controladores de operación y de seguridad para turbinas de gas natural.  |NOT|NONE|CV_JUAN4
+4|Tengo como responsabilidades el modelamiento y programación de controladores MCP para molinos SAG. |NOT|NONE|CV_JUAN4
+4|He desarrollado proyectos de Up grade en la Subestación Electrica  y actualizacion del software de los reles de proteccion. |NOT|NONE|CV_JUAN4
+4|Realizo la programacion de visitas a lugares turisiticos. |NOT|NONE|CV_JUAN4
+4|Analista de procesos mineros.  |NOT|NONE|CV_JUAN4
+4|Desarrollo de planes y programas de inspección a comedores. |NOT|NONE|CV_JUAN4
+4|Dicto clases de control de procesos usando software avanzado. |NOT|NONE|CV_JUAN4
+4|Soy analista de marketing. |NOT|NONE|CV_JUAN4
+4|Cuento con certificaciones en programacion de PLC. |NOT|NONE|CV_JUAN4
+4|He trabajado como Analista de Sistemas Integrados de Gestion |NOT|NONE|CV_JUAN4
+4|Utilizacion de software avanzado para el conteo de ganado. |NOT|NONE|CV_JUAN4
+4|Utilizo un software desarrollador de integrales complejas para el dictado de clases . |NOT|NONE|CV_JUAN4
+4|Actualmente me desempeño como programador de paradas de planta |NOT|NONE|CV_JUAN4
+4|Desarrollo de programas de atencion domiciliaria. |NOT|NONE|CV_JUAN4
+4|Estoy trabajando como ingeniero de control y aplicaciones avanzadas de planta. |NOT|NONE|CV_JUAN4
+4|Realizo pruebas de aplicaciones y programas de entretenimiento . |NOT|NONE|CV_JUAN4
+4|Desarrollo programas de asistencia medica a domicilio. |NOT|NONE|CV_JUAN4
+4|Desarrollo de calibraciones segun el programa de mantenimiento |NOT|NONE|CV_JUAN4
+4|Venta de productos de informatica y software para ingenieros |NOT|NONE|CV_JUAN4
+4|Programacion de examenes de informatica y electronica  |NOT|NONE|CV_JUAN4
+4|Uso de aplicaciones moviles para entrevistas a clientes |NOT|NONE|CV_JUAN4
+4|Cuento con conocimientos en el uso de aplicaciones de escritorio para ventas |NOT|NONE|CV_JUAN4
+4|Tengo certificaciones en el uso de software y aplicaciones avanzadas en metrologia |NOT|NONE|CV_JUAN4
+4|Uso de aplicaciones web para el dictado de clases |NOT|NONE|CV_JUAN4
+4|Desarrollo de cálculos estadísticos utilizando software dedicado. |NOT|NONE|CV_JUAN4
+4|Cotizaciones con empresas desarrolladoras de software e informatica |NOT|NONE|CV_JUAN4
+4|Analista de ventas de equipos para aplicaciones médicas |NOT|NONE|CV_JUAN4
+4|Actualmente trabajo como secretaria y tengo conocimientos de informática. |NOT|NONE|CV_JUAN4
+4|Desarrollo de calculos estadisticos usando software especializado |NOT|NONE|CV_JUAN4
+4|Simulaciones de estructuras mecanicas usando software avanzado|NOT|NONE|CV_JUAN4
+4|Soy ingeniero de sistemas encargado del curso de Ciencias Informaticas I.|NOT|NONE|CV_JUAN4
+4|Actualmente trabajo como secretaria, cuento con conocimientos en computacion.|NOT|NONE|CV_JUAN4
+4|Programacion de sistemas de alarmas en domicilios.|NOT|NONE|CV_JUAN4
+4|Venta de pintura para aplicaciones marinas.|NOT|NONE|CV_JUAN4
+4|Uso de aplicaciones web para evaluacion psicologica |NOT|NONE|CV_JUAN4
+4|Economista independiente con certificaciones en sistemas de analisis financieros en aplicaciones de gobierno.  |NOT|NONE|CV_JUAN4
+4|Venta de aplicaciones de escritorio y moviles para analistas de seguros  |NOT|NONE|CV_JUAN4
+4|Desarrollo programas de inspección de materiales en almacen |NOT|NONE|CV_JUAN4
+4|Gerente de Gestion de Aplicaciones at Banco de Credito BCP. |NOT|NONE|CV_JUAN4
+4|Programadora cinematografica, jurado de festivales, desarrolla contenidos audiovisuales. |NOT|NONE|CV_JUAN4
+4|Programadora en Viajes Cubanacan.  |NOT|NONE|CV_JUAN4
+4|Programadora de Planificacion y Control de Proyecto en AESA. |NOT|NONE|CV_JUAN4
+4|Ingeniero Senior de Negocios y Aplicaciones de Ingredientes. |NOT|NONE|CV_JUAN4
+4|Consultor de internet Marketing. |NOT|NONE|CV_JUAN4
+4|Gerente de aplicaciones de negocio en OCA.|NOT|NONE|CV_JUAN4
+4|Inspector de Seguridad Radiologica para aplicaciones medicas. |NOT|NONE|CV_JUAN4
+4|Ingeniero programador de mantenimiento en Metso Outotec. |NOT|NONE|CV_JUAN4
