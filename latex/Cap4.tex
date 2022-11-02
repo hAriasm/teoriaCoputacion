@@ -45,9 +45,9 @@ Teniendo el texto libre de símbolos extraños, se procede a extraer un dicciona
 
 El vector de características que se obtiene luego de aplicar la Bolsa de Palabras, es de N dimensiones, dependiendo de qué tan grande es el diccionario generado. Cuanto más grande sea la variedad de palabras mayor será el tamaño del diccionario y en consecuencia el tamaño del vector generado.
 
-Aplicar un algoritmo de clasificación sobre este vector de N dimensiones no es aconsejable, por el procesamiento alto que conlleva trabajar de N dimensiones; en ese sentido, es necesario reducir la dimensionalidad de dicho vector. 
+Aplicar un algoritmo de clasificación sobre este vector de N dimensiones no es aconsejable, por el procesamiento alto que conlleva trabajar de N dimensiones; en ese sentido, es necesario reducir la dimensionalidad de dicho vector.
 
-Para este experimento, se aplica el algoritmo MDS (\emph{Multidimensional Scaling}) cuyo detalle se explicó en la sección \ref{mds}. Para efectos prácticos, se aplicó una reducción a 2 dimensiones. La figura \ref{fig:mds} muestra el resultado luego de aplicar el algoritmo al vector N-dimensional resultado de la bolsa de palabras. 
+Para este experimento, se aplica el algoritmo MDS (\emph{Multidimensional Scaling}) cuyo detalle se explicó en la sección \ref{mds}. Para efectos prácticos, se aplicó una reducción a 2 dimensiones. La figura \ref{fig:mds} muestra el resultado luego de aplicar el algoritmo al vector N-dimensional resultado de la bolsa de palabras.
 
 \begin{figure}[h!]
 	\begin{center}
@@ -75,13 +75,13 @@ Para este experimento, se aplica el algoritmo MDS (\emph{Multidimensional Scalin
 
 \subsection{Clasificación y entrenamiento}
 
-Como se mencionó anteriormente, el algoritmo de clasificación utilizado es el \emph{kNN}. Su implementación está basada en una estructura \emph{KD Tree} y se escogió un valor de $k = 7$ para el experimento. De esta forma se seleccionarán los 7 vecinos más cercanos para clasificar los nuevos mensajes. 
+Como se mencionó anteriormente, el algoritmo de clasificación utilizado es el \emph{kNN}. Su implementación está basada en una estructura \emph{KD Tree} y se escogió un valor de $k = 7$ para el experimento. De esta forma se seleccionarán los 7 vecinos más cercanos para clasificar los nuevos mensajes.
 
 La figura \ref{fig:knn_train} la distribución de puntos en 2D, diferenciando las clases en color rojo y verde. Para el conjuntos de entrenamiento relacionados a tweets, en inglés, se muestran en color verde los tweets clasificados como no ofensivos y en rojo los ofensivos. Para el conjunto de entrenamiento relacionados a resúmenes de perfil profesional, en verde los textos relacionados a un perfil de Analista Programador o Desarrolladores, y en rojo los que están relacionados a otro perfil.
 
 Los resultados se muestran en la figura \ref{fig:knn_train_results}. La aplicación del algoritmo sobre el conjunto de prueba es un conjunto de vectores con la posición final de cada punto y la clasificación respectiva, hecha en base a los k vecinos más cercanos ($k = 7$);
 
-Finalmente, cuando se pretende evaluar un mensaje nuevo, se muestra un punto de color negro y el resultado de la clasificación. 
+Finalmente, cuando se pretende evaluar un mensaje nuevo, se muestra un punto de color negro y el resultado de la clasificación.
 
 \begin{figure}[h!]
 	\begin{center}
@@ -99,4 +99,7 @@ Finalmente, cuando se pretende evaluar un mensaje nuevo, se muestra un punto de 
 	\label{fig:knn_train_results}
   \end{center}
 \end{figure}
+
+
+\section{Resultados}
 
