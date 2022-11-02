@@ -93,6 +93,43 @@
 3| Desarrollo mis propias aplicaciones web personalizadas para aplicaciones web y de escritorio  |HOF|NONE|CV_JUAN5
 3| Trabajo con aplicaciones analiticas y  web|HOF|NONE|CV_JUAN5
 3| Aplicaciones web, es para mejorar la productividad|HOF|NONE|CV_JUAN5
+3| Estoy encargado del equipo de programadores Web. |HOF|NONE|CV_JUAN5
+3| Soy ingeniero de Sistemas y programador de aplicaciones. |HOF|NONE|CV_JUAN5
+3| Tecnico programador y disenador de aplicaciones moviles para empresas. |HOF|NONE|CV_JUAN5
+3| Programador independiente de aplicaciones de gestion empresarial. |HOF|NONE|CV_JUAN5
+3| Una de mis principales funciones es la supervision del equipo de analistas de software. |HOF|NONE|CV_JUAN5
+3| Realizo funciones de analisis de sotware. |HOF|NONE|CV_JUAN5
+3| Desarrollador freelance de aplicaciones empresariales. |HOF|NONE|CV_JUAN5
+3| Estoy disenando y construyendo un sitio web en mi actual compañia. |HOF|NONE|CV_JUAN5
+3| Una de mis responsabilidades es supervisar un equipo de analistas de software. |HOF|NONE|CV_JUAN5
+3| Encargado de la construccion y desarrollo de aplicaciones moviles para finanzas. |HOF|NONE|CV_JUAN5
+3| Soy responsable de construir y desarrollar aplicaciones para la gestion de mantenimiento de planta. |HOF|NONE|CV_JUAN5
+3| Implemente paginas Web para el area de marketing de la compania BHP Oil Gas.|HOF|NONE|CV_JUAN5
+3| Tengo conocimientos solidos en diseno y programacion de aplicaciones en linea. |HOF|NONE|CV_JUAN5
+3| Me he desempeñado como Analista de Software en el area de TI. |HOF|NONE|CV_JUAN5
+3| Realizo programacion de aplicaciones moviles de entretenimiento y para el uso educativo. |HOF|NONE|CV_JUAN5
+3| Programacion de aplicaciones móviles con fines educativos y de entretenimiento. |HOF|NONE|CV_JUAN5
+3| Realizo servicios de diseño e implementación de páginas Web para empresas e instituciones educativas. |HOF|NONE|CV_JUAN5
+3| Tengo experiencia como desarrollador de aplicaciones de escritorio. |HOF|NONE|CV_JUAN5
+3| En la actualidad me desempeño como Analista Senior de Software en la Cia. Devon Energy. |HOF|NONE|CV_JUAN5
+3| He adquirido vasto conocimiento en programacion de aplicaciones de escritorio y moviles. |HOF|NONE|CV_JUAN5
+3| Soy jefe del departamento de Informatica y Desarrollo de Aplicaciones en la empresa que actualmente laboro. |HOF|NONE|CV_JUAN5
+3| Tengo 5 anos de experiencia en la implementacion de paginas Web para negocios y pymes. |HOF|NONE|CV_JUAN5
+3| Poseo certificaciones internacionales en diseno y programacion de aplicaciones para la gestion empresarial. |HOF|NONE|CV_JUAN5
+3| Cuento con Certificación Internacional en Diseno y Programacion de Aplicaciones. |HOF|NONE|CV_JUAN5
+3| Me he desempenado en el cargo de Programador de Paginas Web. |HOF|NONE|CV_JUAN5
+3| Solia ​​trabajar como programador de sitios web. |HOF|NONE|CV_JUAN5
+3| Soy disenador y prgramador de sitios Web para colegios y academias. |HOF|NONE|CV_JUAN5
+3| He realizado la programacion de aplicaciones moviles para restaurantes y bares. |HOF|NONE|CV_JUAN5
+3| Programo aplicaciones moviles de entretenimiento y juegos. |HOF|NONE|CV_JUAN5
+3| Programacion de aplicaciones moviles para entretenimiento y juegos. |HOF|NONE|CV_JUAN5
+3| Fui responsable del diseno e implementacion de paginas Web. |HOF|NONE|CV_JUAN5
+3| Soy programador independiente de aplicaciones moviles para pequenos negocios. |HOF|NONE|CV_JUAN5
+3| Realizo la construccion y desarrollo de aplicaciones de escritorio. |HOF|NONE|CV_JUAN5
+3| Diseno y construyo aplicaciones de escritorio de mi universidad. |HOF|NONE|CV_JUAN5
+3| Tengo experiencia laboral y estudios academicos en la programacion de aplicaciones en linea. |HOF|NONE|CV_JUAN5
+3| Cuento con experiencia laboral en el desarrollo de páginas web para clínicas y hospitales. |HOF|NONE|CV_JUAN5
+3| Tengo experiencia practica y academica en programacion de aplicaciones en linea.|HOF|NONE|CV_JUAN5
 4|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
 4|soy analista funcional para pruebas de alto nivel|NOT|NONE|CV_JUAN4
 4|administrador de base de datos oracle 12c|NOT|NONE|CV_JUAN4
