@@ -11,9 +11,9 @@ var data_test = [];
 function setup() {
   createCanvas(width, height);
 
-  background(0);
-  for (var x = 0; x < width; x += width / scalex) {
-    for (var y = 0; y < height; y += height / scaley) {
+  background(255);
+  for (var x = 0; x <= width; x += width / scalex) {
+    for (var y = 0; y <= height; y += height / scaley) {
       stroke(125, 125, 125);
       strokeWeight(1);
       line(x, 0, x, height);
@@ -80,18 +80,23 @@ function draw() {
   for (let i = 0; i < data_train.length; i++) {
     let x = data_train[i][1];
     let y = data_train[i][2];
-    if (data_train[i][0] === "HOF") {
+    if (data_train[i][0][0] === "HOF") {
       drawPoint([x, y], 255, 0, 0);
     } else {
       drawPoint([x, y], 0, 255, 0);
     }
   }
 
-  // for (let i = 0; i < data_test.length; i++) {
-  //   let x = data_test[i][1] ;
-  //   let y = data_test[i][2] ;
-  //   drawPoint([x, y], 0, 0, 255, 9);
-  // }
+  for (let i = 0; i < data_test.length; i++) {
+    let x = data_test[i][1];
+    let y = data_test[i][2];
+    // drawPoint([x, y], 0, 0, 0);
+    if (data_train[i][0][0] === "HOF") {
+      drawPoint([x, y], 255, 0, 0);
+    } else {
+      drawPoint([x, y], 0, 255, 0);
+    }
+  }
 
   // background(0);
 

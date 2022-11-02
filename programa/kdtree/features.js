@@ -8,15 +8,17 @@ var fs = require("fs");
 
 var tweets = [];
 var tweet_class = [];
+var tweet_id = [];
 
 /***lectura y clasificacion de tweets */
-var data = fs.readFileSync("data/parafraseo.txt", "utf-8");
+var data = fs.readFileSync("data/training-tweets_1000.txt", "utf-8");
 data = data.split("\r\n");
 for (let i = 0; i < data.length; i++) {
   
   data[i] = data[i].split("|");
   tweets.push(data[i][1]);
   tweet_class.push(data[i][2]);
+  tweet_id.push(data[i][0]);
 }
 
 // *** calculando universo de palabras ***
@@ -41,7 +43,7 @@ var bow_all_dr = my_dr.transform().to2dArray; // computamos la reduccion de dime
 var tweets_matrix = [];
 for (i in bow_all_dr) {
   var one_tweet = [];
-  one_tweet.push(tweet_class[i]);
+  one_tweet.push([tweet_class[i], tweet_id[i]]);
   for (let j = 0; j < new_dimensions; j++) {
     if (tweet_class[i] === "HOF")
       one_tweet.push(functionOfensivo(j));
@@ -59,10 +61,10 @@ fs.writeFile("./data/final_tweets_2d.js", "data = '" + data2 + "'; ", (err) => {
   }
 });
 function functionNoOfensivo(j) {
-  return bow_all_dr[i][j] * 1000 + 100;
+  return bow_all_dr[i][j] * 2000 + 100;
 }
 
 function functionOfensivo(j) {
-  return bow_all_dr[i][j] * 500 + 100;
+  return bow_all_dr[i][j] * 700 + 100;
 }
 
