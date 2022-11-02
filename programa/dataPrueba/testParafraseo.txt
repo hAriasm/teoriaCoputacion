@@ -1,51 +1,56 @@
-3|Desarrollador de redes de Softtek|HOF|NONE|CV_JUAN5
-3|Una pila completa de programador|HOF|NONE|CV_JUAN5
-3|Analista de desarrollo desarrollador web|HOF|NONE|CV_JUAN5
-3|Servicio logico de analista de Induamerica -Program|HOF|NONE|CV_JUAN5
-3|Un experto en la plataforma honorable del Presidente del Ministro de Ministros|HOF|NONE|CV_JUAN5
-3|Responsable de la infraestructura global de Peru S.A. (ISNetperigs.a.c.)|HOF|NONE|CV_JUAN5
-3|Freelancer Software System Program Analyst Adaptador de tecnologia de tecnologia Compania|HOF|NONE|CV_JUAN5
-3|Analistas de Coritel Technical Solutions (CORITEL)|HOF|NONE|CV_JUAN5
-3|Scotiabanks diez analyst|HOF|NONE|CV_JUAN5
-3|Analista de programas senior de MAPFRE|HOF|NONE|CV_JUAN5
-3|Laboratorio Suizo S.A.C. Analista|HOF|NONE|CV_JUAN5
-3|Analista de programas gratuito|HOF|NONE|CV_JUAN5
-3|Consultor de TI, software de desarrollador, desarrolladores completos de pila|HOF|NONE|CV_JUAN5
-3|Analista de programas senior|HOF|NONE|CV_JUAN5
-3|Analista del programa Mitsui Auto Finance Perus|HOF|NONE|CV_JUAN5
-3|Software para 1. Ingeniero Inetum|HOF|NONE|CV_JUAN5
-3|Analistas, desarrolladores, programadores complementan el ancho|HOF|NONE|CV_JUAN5
-3|Analista de programadores - S.A.C.|HOF|NONE|CV_JUAN5
-3|AS400 Analistas de programas senior de repuestos y servicios de repuestos de M M|HOF|NONE|CV_JUAN5
-3|Entelgy Java Programprape|HOF|NONE|CV_JUAN5
-3|Analista de programadores SystemA en el consorcio de fabrica de software. (GM)|HOF|NONE|CV_JUAN5
-3|Credinka Financial|HOF|NONE|CV_JUAN5
-3|MDP Consulting S.A.C Programador|HOF|NONE|CV_JUAN5
-3|Parcialmente --andical back -en -vening -Developmer|HOF|NONE|CV_JUAN5
-3|La tecnologia de consultoria adyl sufre y los analistas programados|HOF|NONE|CV_JUAN5
-3|Programadores del Sistema Nacional de Supervision de Inmigracion|HOF|NONE|CV_JUAN5
-3|Analista de programas senior Consorcio Metalurgico S.A.|HOF|NONE|CV_JUAN5
-3|Pythonus Back -end -Programmer y Falcon Frames en S.A.C|HOF|NONE|CV_JUAN5
-3|Nuevos expertos tecnicos, Catalyzed Peru,  Group Co., Ltd.|HOF|NONE|CV_JUAN5
-3|Ingeniero de aplicaciones exacta de Peru|HOF|NONE|CV_JUAN5
-3|Grupo Celima Trebols Analista de sistemas senior|HOF|NONE|CV_JUAN5
-3|Cimagraf para cumplir ya|HOF|NONE|CV_JUAN5
-3|Canria Full Stack Developer Analyst Group Alist -Programmer,|HOF|NONE|CV_JUAN5
-3|Sistema financiero -programas|HOF|NONE|CV_JUAN5
-3|Programadores de la Asociacion Cultural Peruana del Reino Unido (britanicos)|HOF|NONE|CV_JUAN5
-3|Analista de soluciones de servicio de datos NTT|HOF|NONE|CV_JUAN5
-3|Analista de soluciones de Peruye Evans|HOF|NONE|CV_JUAN5
-3|Android -Wltecs Kotlin -Program Analyst|HOF|NONE|CV_JUAN5
-3|Supervisor del proyecto del financiador Credink|HOF|NONE|CV_JUAN5
-3|Supervisor del proyecto del financiador Credink|HOF|NONE|CV_JUAN5
-3|Grupo Educa_D Experto de funcion tecnica|HOF|NONE|CV_JUAN5
-3|Gerentes de bases de datos y desarrolladores de software|HOF|NONE|CV_JUAN5
-3|Java -Developer, angulo, movimiento movil|HOF|NONE|CV_JUAN5
-3|Desarrollador integrado de Pragma|HOF|NONE|CV_JUAN5
-3|SAP Business One, .NET, C -Programmer Analyst|HOF|NONE|CV_JUAN5
-3|Desarrolladores web completamente acumulados|HOF|NONE|CV_JUAN5
-3|Desarrolladores web completamente acumulados|HOF|NONE|CV_JUAN5
-4|Health service manager|NOT|NONE|CV_JUAN4
+3|Software engineer|HOF|NONE|CV_JUAN5
+3|Analista en Gesnext|HOF|NONE|CV_JUAN5
+3|Net Developer en Softtek|HOF|NONE|CV_JUAN5
+3|Programador Full stack|HOF|NONE|CV_JUAN5
+3|Analista de Desarrollo  Web Developer |HOF|NONE|CV_JUAN5
+3|Analista Programador en Induamerica Servicios Logisticos |HOF|NONE|CV_JUAN5
+3|Especialista en Plataformas de Integridad en Presidencia del Consejo de Ministros |HOF|NONE|CV_JUAN5
+3|Responsable de infraestructura de TI Peru Globaltech S.A. (ITSANET PERu S.A.C.) |HOF|NONE|CV_JUAN5
+3|Freelancer- Analista programador de sistemas de software en Empresa SERVICIOS TECNOLOGICOS ADAPTER |HOF|NONE|CV_JUAN5
+3|Analista Programador en Accenture Technology Solutions (Coritel)|HOF|NONE|CV_JUAN5
+3|Analista de TI en Scotiabank|HOF|NONE|CV_JUAN5
+3|Analista Programador Senior en MAPFRE|HOF|NONE|CV_JUAN5
+3|Analista programador en Suiza Lab S.A.C.|HOF|NONE|CV_JUAN5
+3|Analista programador en Freelance|HOF|NONE|CV_JUAN5
+3|Consultor TI , Software Developer, Full Stack Developer|HOF|NONE|CV_JUAN5
+3|Analista Programador Senior en Sonda|HOF|NONE|CV_JUAN5
+3|Analista programador en Mitsui Auto Finance Peru|HOF|NONE|CV_JUAN5
+3|Software engineer 1 en Inetum|HOF|NONE|CV_JUAN5
+3|Analista, Desarrollador, Programador en Apoyo Total|HOF|NONE|CV_JUAN5
+3|Analista Programador en Impress Professional Outsourcing S.A.C.|HOF|NONE|CV_JUAN5
+3|Analista Programador Senior AS400 en M&M Repuestos y Servicios|HOF|NONE|CV_JUAN5
+3|Analista Programador Java en Entelgy|HOF|NONE|CV_JUAN5
+3|ANALISTA PROGRAMADOR DE SISTEMAS EN CONSORCIO DE FABRICA DE SOFTWARE. (GM)|HOF|NONE|CV_JUAN5
+3|Analista programador en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
+3|Programador en MDP CONSULTING S.A.C|HOF|NONE|CV_JUAN5
+3|Desarrollador Backend Semi Senior|HOF|NONE|CV_JUAN5
+3|LIDER TECNICO Y ANALISTA PROGRAMADOR en ADYL CONSULTING|HOF|NONE|CV_JUAN5
+3|Programador de Sistemas en Superintendencia Nacional de Migraciones|HOF|NONE|CV_JUAN5
+3|Analista Programador Senior en Consorcio Metalurgico S.A.|HOF|NONE|CV_JUAN5
+3|Programador BACK-END en Python con framework Falcon en Abcdroid Solutions S.A.C|HOF|NONE|CV_JUAN5
+3|Especialista en Tecnologias Emergentes, CATALYZE Peru, The Palladium Group LLC|HOF|NONE|CV_JUAN5
+3|Ingeniero de aplicaciones en PRECISION PERU|HOF|NONE|CV_JUAN5
+3|Analista de Sistemas Senior en Grupo Celima Trebol|HOF|NONE|CV_JUAN5
+3|Analista Programador en Industria Grafica Cimagraf|HOF|NONE|CV_JUAN5
+3|Analista Desarrollador Full Stack en Canvia - -Analista programador para el grupo DISTRILUZ,|HOF|NONE|CV_JUAN5
+3|Analista Programador de Sistemas en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
+3|Analista programador en Asociacion Cultural Peruano Britanica (Britanico)|HOF|NONE|CV_JUAN5
+3|Analista de Soluciones en NTT DATA Services|HOF|NONE|CV_JUAN5
+3|Solutions Analyst en everis Peru|HOF|NONE|CV_JUAN5
+3|Analista Programador Android - Kotlin en OWLTEC|HOF|NONE|CV_JUAN5
+3|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
+3|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
+3|Especialista funcional tecnico en Grupo Educa_d|HOF|NONE|CV_JUAN5
+3|Arquitecto de Soluciones e Integracion en Auna|HOF|NONE|CV_JUAN5
+3|Administrador de Base de Datos y Desarrollador de software|HOF|NONE|CV_JUAN5
+3|Desarrollador Java, Angular , mobile hibrido|HOF|NONE|CV_JUAN5
+3|Desarrollador de integracion en Pragma|HOF|NONE|CV_JUAN5
+3|Analista programador en SAP Business One, .Net, C |HOF|NONE|CV_JUAN5
+3|Desarrollador Web Full Stack|HOF|NONE|CV_JUAN5
+3|Analista Programador en Materia Gris - Consultoria Tecnologica|HOF|NONE|CV_JUAN5
+3|Arquitecto de Soluciones at Canvia|HOF|NONE|CV_JUAN5
+3|Programador y Administrador de Servertux.com|HOF|NONE|CV_JUAN5
+3|Software de ingenieria|HOF|NONE|CV_JUAN5
 4|Analista Funcional en Conxultiva Digital S.A.C.|NOT|NONE|CV_JUAN4
 4|Analista Funcional QA en Stefanini - CSM|NOT|NONE|CV_JUAN4
 4|Jefe de Operacion , Administrador de Contrato|NOT|NONE|CV_JUAN4
