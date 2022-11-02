@@ -12,7 +12,7 @@ En los últimos años se han incrementado las investigaciones para crear método
 	  \caption{Clasificación de los métodos para WSD de acuerdo a los recursos que utilizan \cite{001}.}
     \label{fig:desambiguacion_WSD}
     \end{center}
-	\end{figure}
+\end{figure}
 
 \section{Clasificación de sistemas en WSD}
 \subsection{Métodos basados en conocimiento}
@@ -244,7 +244,7 @@ A continuación, se van a describir algunos de los distintos métodos de aprendi
     \caption{Modelo clasificador bayesiano (naive) \cite{001}}
     \label{fig:bayesiano}
     \end{center}
-  \end{figure} 
+  \end{figure}
   Se parte de la hipótesis de que los valores de los atributos se generan independientemente a partir de la clase $C$ de acuerdo con las distribuciones individuales $P(x_i|C)$. Para predecir la clase de un ejemplo, se elige la que maximiza la probabilidad de haber generado el ejemplo observado. Para ello, se utiliza una fórmula derivada a partir del teorema de Bayes. Este algoritmo ha sido usado en distintas tareas de PLN para resolver diversos problemas (categorización de documentos \cite{021}, corrección ortográfica \cite{022}, resolución de la ambiguedad semántica \cite{023}, \cite{024} ...) y a pesar de su extrema simplicidad, ha obtenido resultados notables. Además, utilizando el NBC se puede combinar información estadística de distintas fuentes, siempre que sean independientes. La fórmula general para obtener la clasificación según el clasificador bayesiano es la siguiente:
 
   \begin{equation}
@@ -289,7 +289,7 @@ A continuación, se van a describir algunos de los distintos métodos de aprendi
     $P(C=1|X_1=credit)=(0,133 \times 0,75)/0,102=0,978$\\
     $P(C=2|X_1=credit)=(0,08 \times 0,25)/0,102=0,20$
   \end{center}
- 
+
   Por tanto, se deduciría que el sentido correcto para \textit{“bank”} es el número 1. La efectividad del clasificador bayesiano \textit{“naive”} ha sido probada en diferentes estudios \cite{025}, \cite{026} que demuestran que este clasificador es tan bueno como cualquier otro método.
 
   \item \textbf{Métodos basados en reglas de discriminación} \\
@@ -350,6 +350,7 @@ BoVW es actualmente un método popular para el reconocimiento de objetos y escen
 \end{enumerate}
 
 \section{Reductor de Dimensiones MDS}
+\label{mds}
 \paragraph{}
 
 \textit{Multidimensional scaling} es un método para representar una matriz de disimilaridades en un cierto número de dimensiones. Se puede usar como una técnica de reducción de la dimensionalidad si se calculan las disimilaridades con respecto a la dimensión original y luego se representan en un espacio de dimensión menor.
@@ -389,7 +390,7 @@ Ahora, dado otro conjunto de puntos de datos (también llamados datos de prueba)
 	\includegraphics[angle=0,width=9cm]{Graficos/knn_02.png}
 	\caption{Datos de prueba en KNN}
 	\label{fig:knn_02}
-  \end{center}  
+  \end{center}
 \end{figure}
 
 \paragraph{Intuición}
