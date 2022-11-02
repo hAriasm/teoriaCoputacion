@@ -2,34 +2,53 @@
 \hrule \bigskip \vspace*{1cm}
 %------------------------------------------------------------------------
 
-\section{Notación Matemática}
+En este capítulo describiremos la aplicación de una de las técnicas de clasificación como parte del aprendizaje supervisado basado en corpus. Para ello se han tomado dos fuentes de entrenamiento, una de elaboración propia (en español) y otra fuente disponible en el sitio \emph{Web} kaggle.com (en inglés).
 
-Esta sección contiene un curso ultra rápido de como escribir
-fórmulas matemáticas en tus documentos. Vamos a revisar únicamente
-algunas construcciones sencillas y frecuentes.
+La fuente de elaboración propia contiene porciones extraídas del resumen profesional de profesionales que exponen su información en un sitio especializado como LinkedIn. Para la fase de entrenamiento se espera clasificar perfiles que coinciden con el perfil de "Analista Programador" y diferenciarlos de otros como por ejemplo "Analista Funcional".
 
-$\lim_{n \to \infty} \sum_{k=1}^n \frac{1}{k^2} = \frac{\pi^2}{6}$
+Con respecto a la fuente descargada en inglés, ésta contiene tweets con mensajes ofensivos y no ofensivos, en inglés. Al estar en un sitio público, ésta contiene mayor cantidad de datos de entrenamiento, lo cual permite mejorar el aprendizaje.
 
-\begin{equation}
-\forall x \in \mathbf{R}: \qquad x^{2} \geq 0
-\end{equation}
+\section{Procedimiento}
 
-$\underbrace{ a+b+\cdots+z }_{26}$
+Como algoritmo de clasificación se utilizó kNN (k-Nearest Neighbors). El procedimiento aplicado para la clasificación y pronóstico de textos mostrado en la figura \ref{fig:experimentacion} inicia con el entrenamiento del modelo, para ello se requiere de una fuente de datos previamente etiquetada. En la fase de predicción, se prueba el modelo con un conjunto de textos distinto al inicial (conjunto de prueba), el cual también está etiquetado para su verificación posterior. 
 
-\newcommand{\rd}{\mathrm{d}}
-\begin{displaymath}
-\int\!\!\!\int_{D} g(x,y) \, \rd x\, \rd y
-\end{displaymath}
-en lugar de
-\begin{displaymath}
-\int\int_{D} g(x,y)\rd x \rd y
-\end{displaymath}
+Finalmente el resultado (conjunto de predicciones) se compara con el valor esperado del conjunto de prueba para el análisis respectivo.
 
 
-\begin{displaymath}
-\mathbf{X} = \left( \begin{array}{ccc}
-x_{11} & x_{12} & \ldots \\
-x_{21} & x_{22} & \ldots \\
-\vdots & \vdots & \ddots
-\end{array} \right)
-\end{displaymath}
+\begin{figure}[h!]
+	\begin{center}
+	\includegraphics[angle=0,width=9.5cm]{Graficos/experimentacion1}
+	\caption{Procedimiento aplicado para del método de clasificación.}
+	\label{fig:experimentacion}
+  \end{center}
+\end{figure}
+
+\section{Tratamiento del texto}
+
+\subsection{Bolsa de palabras}
+
+En esta primera fase, el texto de entrada pasa por un proceso inicial de preparación (tokenización), luego se procede a extraer características del texto (diccionario) y la frecuencia de cada una. Finalmente el diccionario de palabras se transforma en un vector de características para cada entrada (frase o tweet). La figura \ref{fig:bolsa} muestra este proceso con los resultados de forma visual. 
+
+Durante la tokenización, se extraen símbolos y carácteres no reconocibles. En el caso de los tweets, hay mayor cantidad de textos no reconocibles al provenir de una fuente de mensajería informal (se utilizan abreviaciones, emojis, o repeticiones de algunas letras, por ejemplo: "awwwwww", "noooo", "lol", "xD").
+
+Teniendo el texto libre de símbolos extraños, se procede a extraer un diccionario de palabras con su respectiva frecuencia, tal como se muestra en la segunda parte de la figura \ref{fig:bolsa}. Este diccionario sirve para convertir cada texto de entrada en un vector de características, donde cada elemento del mismo representa la cantidad de veces que aparece una palabra determinada en el texto. Este vector es de N dimensiones, con muchos valores cero (palabras que no aparecen en el texto), por lo cual es conveniente aplicar algún método de reducción de dimensionalidad.
+
+\begin{figure}[h!]
+	\begin{center}
+	\includegraphics[angle=0,width=9.5cm]{Graficos/bolsa_palabras}
+	\caption{Tratamiento del texto al aplicar la bolsa de palabras.}
+	\label{fig:bolsa}
+  \end{center}
+\end{figure}
+
+\subsection{Reducción de dimensiones}
+
+En esta primera fase, el texto de entrada pasa por un proceso inicial de preparación (tokenización), luego se procede a extraer características del texto (diccionario) y la frecuencia de cada una. Finalmente el diccionario de palabras se transforma en un vector de características para cada entrada (frase o tweet). La figura \ref{fig:bolsa} muestra este proceso con los resultados de forma visual.
+
+\begin{figure}[h!]
+	\begin{center}
+	\includegraphics[angle=0,width=9.5cm]{Graficos/bolsa_palabras}
+	\caption{Aplicación de la bolsa de palabras sobre textos de CVs. }
+	\label{fig:bolsa}
+  \end{center}
+\end{figure}
