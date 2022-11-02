@@ -111,7 +111,7 @@
 3| Programacion de aplicaciones móviles con fines educativos y de entretenimiento. |HOF|NONE|CV_JUAN5
 3| Realizo servicios de diseño e implementación de páginas Web para empresas e instituciones educativas. |HOF|NONE|CV_JUAN5
 3| Tengo experiencia como desarrollador de aplicaciones de escritorio. |HOF|NONE|CV_JUAN5
-3| En la actualidad me desempeño como Analista Senior de Software en la Cia. Devon Energy. |HOF|NONE|CV_JUAN5
+3| En la actualidad me desempeno como Analista Senior de Software en la Cia. Devon Energy. |HOF|NONE|CV_JUAN5
 3| He adquirido vasto conocimiento en programacion de aplicaciones de escritorio y moviles. |HOF|NONE|CV_JUAN5
 3| Soy jefe del departamento de Informatica y Desarrollo de Aplicaciones en la empresa que actualmente laboro. |HOF|NONE|CV_JUAN5
 3| Tengo 5 anos de experiencia en la implementacion de paginas Web para negocios y pymes. |HOF|NONE|CV_JUAN5
@@ -222,3 +222,21 @@
 4|Metricas de bosquejo para definicion de software|NOT|NONE|CV_JUAN4
 4|Escanear paginas web en indagacion de vulnerabilidades|NOT|NONE|CV_JUAN4
 4|Analista de negocios con titulado en desarrollo.|NOT|NONE|CV_JUAN4
+4|Desarrollo proyectos civiles para entidades privadas y estatales |NOT|NONE|CV_JUAN4
+4|Soy analista de ensayos de laboratorio y metrología. |NOT|NONE|CV_JUAN4
+4|Me desempene como vendedor en una tienda de informatica y dispositivos electronicos  |NOT|NONE|CV_JUAN4
+4|Tengo conocimientos de diseño de estructuras mecánicas y uso de software de simulación |NOT|NONE|CV_JUAN4
+4|He desarrollado planes y programación de actividades de mantenimiento |NOT|NONE|CV_JUAN4
+4|Me he desempenado como analista, planificador y programador de gestión de mantenimiento en la empresa Kallpa |NOT|NONE|CV_JUAN4
+4|Realizo programacion de controladores de operación y de seguridad para turbinas de gas natural.  |NOT|NONE|CV_JUAN4
+4|Tengo como responsabilidades el modelamiento y programación de controladores MCP para molinos SAG. |NOT|NONE|CV_JUAN4
+4|He desarrollado proyectos de Up grade en la Subestación Electrica  y actualizacion del software de los reles de proteccion. |NOT|NONE|CV_JUAN4
+4|Realizo la programacion de visitas a lugares turisiticos. |NOT|NONE|CV_JUAN4
+4|Analista de procesos mineros.  |NOT|NONE|CV_JUAN4
+4|Desarrollo de planes y programas de inspección a comedores. |NOT|NONE|CV_JUAN4
+4|Dicto clases de control de procesos usando software avanzado. |NOT|NONE|CV_JUAN4
+4|Soy analista de marketing. |NOT|NONE|CV_JUAN4
+4|Cuento con certificaciones en programacion de PLC. |NOT|NONE|CV_JUAN4
+4|He trabajado como Analista de Sistemas Integrados de Gestion |NOT|NONE|CV_JUAN4
+4|Utilizacion de software avanzado para el conteo de ganado. |NOT|NONE|CV_JUAN4
+4|Utilizo un software desarrollador de integrales complejas para el dictado de clases . |NOT|NONE|CV_JUAN4
