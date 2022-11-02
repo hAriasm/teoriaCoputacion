@@ -262,3 +262,15 @@
 4|Actualmente trabajo como secretaria, cuento con conocimientos en computacion.|NOT|NONE|CV_JUAN4
 4|Programacion de sistemas de alarmas en domicilios.|NOT|NONE|CV_JUAN4
 4|Venta de pintura para aplicaciones marinas.|NOT|NONE|CV_JUAN4
+4|Uso de aplicaciones web para evaluacion psicologica |NOT|NONE|CV_JUAN4
+4|Economista independiente con certificaciones en sistemas de analisis financieros en aplicaciones de gobierno.  |NOT|NONE|CV_JUAN4
+4|Venta de aplicaciones de escritorio y moviles para analistas de seguros  |NOT|NONE|CV_JUAN4
+4|Desarrollo programas de inspección de materiales en almacen |NOT|NONE|CV_JUAN4
+4|Gerente de Gestion de Aplicaciones at Banco de Credito BCP. |NOT|NONE|CV_JUAN4
+4|Programadora cinematografica, jurado de festivales, desarrolla contenidos audiovisuales. |NOT|NONE|CV_JUAN4
+4|Programadora en Viajes Cubanacan.  |NOT|NONE|CV_JUAN4
+4|Programadora de Planificacion y Control de Proyecto en AESA. |NOT|NONE|CV_JUAN4
+4|Ingeniero Senior de Negocios y Aplicaciones de Ingredientes. |NOT|NONE|CV_JUAN4
+4|Consultor de internet Marketing. |NOT|NONE|CV_JUAN4
+4|Gerente de aplicaciones de negocio en OCA.|NOT|NONE|CV_JUAN4
+4|Inspector de Seguridad Radiologica para aplicaciones medicas. |NOT|NONE|CV_JUAN4
