@@ -1,0 +1,93 @@
+6|Analista Programador en Bantotal|HOF|NONE|CV_JUAN5
+6|Analista programador Senior en Bantotal|HOF|NONE|CV_JUAN5
+6|Analista Programador en Indra|HOF|NONE|CV_JUAN5
+6|Analista Programador en Canvia|HOF|NONE|CV_JUAN5
+6|Analista Programador en HERMES Perú|HOF|NONE|CV_JUAN5
+6|Analista Programador Java Certificado en Liferay|HOF|NONE|CV_JUAN5
+6|Analista Programador en Entelgy|HOF|NONE|CV_JUAN5
+6|Analista Programador Java|HOF|NONE|CV_JUAN5
+6|Analista Programador en HITSS CORPORATIVO|HOF|NONE|CV_JUAN5
+6|Analista Programador Java en TCI|HOF|NONE|CV_JUAN5
+6|Analista programador en Software Enterprise Services|HOF|NONE|CV_JUAN5
+6|Analista Programador en Universidad Continental|HOF|NONE|CV_JUAN5
+6|Analista Programador Backend|HOF|NONE|CV_JUAN5
+6|Analista Programador Web en Asociación Peruano Japonesa|HOF|NONE|CV_JUAN5
+6|Analista programador .net|HOF|NONE|CV_JUAN5
+6|Analista Programador .Net|HOF|NONE|CV_JUAN5
+6|Analista programador Sr en HenkCorp|HOF|NONE|CV_JUAN5
+6|Analista Programador en CANVIA|HOF|NONE|CV_JUAN5
+6|Analista Programador de Software|HOF|NONE|CV_JUAN5
+6|Analista Programador Java en Colegios Peruanos S.A.|HOF|NONE|CV_JUAN5
+6|Analista Programador de Sistemas en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
+6|Analista programador en NTT DATA|HOF|NONE|CV_JUAN5
+6|Analista Programador Java en Entelgy|HOF|NONE|CV_JUAN5
+6|Analista Programador Java|HOF|NONE|CV_JUAN5
+6|Analista Programador Backend Java|HOF|NONE|CV_JUAN5
+6|Analista Programador .NET|HOF|NONE|CV_JUAN5
+6|Analista Programador / Desarrollador de Software de Escritorio, Web y Móvil|HOF|NONE|CV_JUAN5
+6|Analista Programador Java en Entelgy|HOF|NONE|CV_JUAN5
+6|Analista Programador en Ministerio de Educación del Perú - Minedu|HOF|NONE|CV_JUAN5
+6|Analista Programador Senior en Comsatel Perú|HOF|NONE|CV_JUAN5
+6|Analista Programador - Ingeniero de Sistemas|HOF|NONE|CV_JUAN5
+6|Analista programador - FullStack|HOF|NONE|CV_JUAN5
+6|Analista Programador Senior Full Stack en ECOTIERRA|HOF|NONE|CV_JUAN5
+6|Analista Programador Java en Alwa|HOF|NONE|CV_JUAN5
+6|Analista Programador de Software|HOF|NONE|CV_JUAN5
+6|Analista Programador Java|HOF|NONE|CV_JUAN5
+6|Analista Programador Desarrollador de Software de Escritorio, Web y Móvil|HOF|NONE|CV_JUAN5
+6|Analista Programador Full Stack en Universidad Científica del Sur|HOF|NONE|CV_JUAN5
+6|Analista Programador at Medifarma S.A.|HOF|NONE|CV_JUAN5
+6|Analista Programador de Sistemas en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
+6|Analista Programador Java Senior en Canvia|HOF|NONE|CV_JUAN5
+6|Analista Programador Senior Iseries RPGLE, AS400, Visual Basic|HOF|NONE|CV_JUAN5
+6|Analista Programador Back-end Developer|HOF|NONE|CV_JUAN5
+6|Analista programador en Universidad Norbert Wiener|HOF|NONE|CV_JUAN5
+6|Analista Programador .Net Core|HOF|NONE|CV_JUAN5
+6|Analista programador en MDP CONSULTING S.A.C|HOF|NONE|CV_JUAN5
+6|Analista Programador .Net|HOF|NONE|CV_JUAN5
+6|Analista / Programador de sistemas en Cotton Knit|HOF|NONE|CV_JUAN5
+6|Analista Programador de Sistemas|HOF|NONE|CV_JUAN5
+6|Analista Programador en SGS Perú|HOF|NONE|CV_JUAN5
+6|Analista Programador de Sistemas en Parque del Recuerdo - Perú|HOF|NONE|CV_JUAN5
+6|Analista Programador Angular|HOF|NONE|CV_JUAN5
+6|Analista programador Backend .Net|HOF|NONE|CV_JUAN5
+6|Analista Programador - Laureate Education Cibertec|HOF|NONE|CV_JUAN5
+6|Analista programador Senior en Compañia minera los andes Perú gold SAC|HOF|NONE|CV_JUAN5
+7|Analista programador en JYS CONTROL AUTOMATION |NOT|NONE|CV_JUAN4
+7|Ingeniería de Procesos Programador VBA | Analista de Información |NOT|NONE|CV_JUAN4
+7|Programador de Mantenimiento Mina en Hudbay Minerals Inc. |NOT|NONE|CV_JUAN4
+7|Analista de materiales en Confipetrol S.A. |NOT|NONE|CV_JUAN4
+7|Programador de mantenimiento Electricidad e Instrumentación en Marcobre |NOT|NONE|CV_JUAN4
+7|Analista de Centro de Acopio en SIDERPERU |NOT|NONE|CV_JUAN4
+7|Programador de Mantenimiento de Mina Integrado |NOT|NONE|CV_JUAN4
+7|Analista en América Móvil |NOT|NONE|CV_JUAN4
+7|Plant Electrical Technician II at Minera Las Bambas Electronics Engineer Completing a Master Degree in Power Systems |NOT|NONE|CV_JUAN4
+7|Profesional de Construcción |NOT|NONE|CV_JUAN4
+7|Programador de Mantenimiento Planta en Sociedad Minera El Brocal |NOT|NONE|CV_JUAN4
+7|SUB GERENTE ADJUNTO DE ANÁLISIS DE APLICACIONES at Banco de Crédito BCP |NOT|NONE|CV_JUAN4
+7|Jefe de TI en Allemant & Asociados |NOT|NONE|CV_JUAN4
+7|AWS Certified Solutions Architect |NOT|NONE|CV_JUAN4
+7|Master internacional Liderazgo en EADA Business School |NOT|NONE|CV_JUAN4
+7|Programador de Mantenimiento Industrial en APTIM Perú SAC |NOT|NONE|CV_JUAN4
+7|Supervisor de Mantenimiento Mina |NOT|NONE|CV_JUAN4
+7|Analista Programador Sr. en Softtek |NOT|NONE|CV_JUAN4
+7|Planner Programador MMG |NOT|NONE|CV_JUAN4
+7|Analista programador para Ferreyros ,SMC, SFC |NOT|NONE|CV_JUAN4
+7|Subgerente Adj. Data Pricing |NOT|NONE|CV_JUAN4
+7|Programador de Operaciones Oil & Gas |NOT|NONE|CV_JUAN4
+7|Especialista de Automatización Industrial |NOT|NONE|CV_JUAN4
+7|Planificador y Programador de Mantenimiento Planta |NOT|NONE|CV_JUAN4
+7|Ingeniero de Automatización y Control PCS7 Programmer |NOT|NONE|CV_JUAN4
+7|Programador y Cotizador de Equipos en Epiroc |NOT|NONE|CV_JUAN4
+
+
+
+
+
+
+
+
+
+
+
+
