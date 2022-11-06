@@ -64,10 +64,10 @@ fs.writeFile("./data/test_tweets_2d.js", "data_test = '" + data2 + "'; ", (err) 
 });
 
 function functionNoOfensivo(j) {
-  return bow_all_dr[i][j] * 700 + 100;
+  return bow_all_dr[i][j];
 }
 
 function functionOfensivo(j) {
-  return bow_all_dr[i][j] * 700 + 100;
+  return bow_all_dr[i][j];
 }
 

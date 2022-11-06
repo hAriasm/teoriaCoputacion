@@ -78,8 +78,8 @@ function knnClassifier(root, pointY) {
 
 function draw() {
   for (let i = 0; i < data_train.length; i++) {
-    let x = data_train[i][1];
-    let y = data_train[i][2];
+    let x = data_train[i][1] * maxx * 1.75 + (maxx / 2);
+    let y = data_train[i][2] * maxy * 1.75 + (maxy / 2);
     if (data_train[i][0][0] === "HOF") {
       drawPoint([x, y], 255, 0, 0);
     } else {
@@ -88,8 +88,9 @@ function draw() {
   }
 
   for (let i = 0; i < data_test.length; i++) {
-    let x = data_test[i][1];
-    let y = data_test[i][2];
+    let x = data_test[i][1] * maxx * 1.75 + (maxx / 2);
+    let y = data_test[i][2] * maxy * 1.75 + (maxy / 2);
+    console.log(x + ", " + y);
     drawPoint([x, y], 0, 0, 0);
     // if (data_train[i][0][0] === "HOF") {
     //   drawPoint([x, y], 255, 0, 0);
