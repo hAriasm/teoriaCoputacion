@@ -90,12 +90,12 @@ function draw() {
   for (let i = 0; i < data_test.length; i++) {
     let x = data_test[i][1];
     let y = data_test[i][2];
-    // drawPoint([x, y], 0, 0, 0);
-    if (data_train[i][0][0] === "HOF") {
-      drawPoint([x, y], 255, 0, 0);
-    } else {
-      drawPoint([x, y], 0, 255, 0);
-    }
+    drawPoint([x, y], 0, 0, 0);
+    // if (data_train[i][0][0] === "HOF") {
+    //   drawPoint([x, y], 255, 0, 0);
+    // } else {
+    //   drawPoint([x, y], 0, 255, 0);
+    // }
   }
 
   // background(0);
