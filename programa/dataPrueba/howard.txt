@@ -52,7 +52,59 @@
 6|Analista Programador Angular|HOF|NONE|CV_JUAN5
 6|Analista programador Backend .Net|HOF|NONE|CV_JUAN5
 6|Analista Programador - Laureate Education Cibertec|HOF|NONE|CV_JUAN5
-6|Analista programador Senior en Compañia minera los andes Perú gold SAC|HOF|NONE|CV_JUAN5
+6|Analista programador Senior en Compañia minera los andes Perú gold SAC|HOF|NONE|CV_JUAN5}
+3|Analista Programador Backend en Senda TI Solutions|HOF|NONE|CV_JUAN5
+3|Analista programador para Ferreyros ,SMC, SFC |HOF|NONE|CV_JUAN5
+3|Analista programador en CAJA CUSCO|HOF|NONE|CV_JUAN5
+3|Analista de integraciones   c  .net developer jr.|HOF|NONE|CV_JUAN5
+3|Analista Programador en Global Hitss|HOF|NONE|CV_JUAN5
+3|Consultor Innovación y Tecnología, Transformación digital, Estrategia|HOF|NONE|CV_JUAN5
+3|Analista de sistema SAP SD en Financiera Efectiva S.A|HOF|NONE|CV_JUAN5
+3|Analista Programador FullStack FrontEnd & BackEnd TI|HOF|NONE|CV_JUAN5
+3|Analista de programación en Gestyde|HOF|NONE|CV_JUAN5
+3|Analista de datos en Development Seed|HOF|NONE|CV_JUAN5
+3|Analista de sistema en Grupo Transmeridian|HOF|NONE|CV_JUAN5
+3|Especialista en Sistemas de Información|HOF|NONE|CV_JUAN5
+3|Experto en Tecnología de Información|HOF|NONE|CV_JUAN5
+3|Consultoria en Sistemas de Informacion y Tecnologia|HOF|NONE|CV_JUAN5
+3|Analista Desarrollador en Creditex|HOF|NONE|CV_JUAN5
+3|Desarrollador Java, Angular, mobile hibrido|HOF|NONE|CV_JUAN5
+3|Analista senior de Sistemas|HOF|NONE|CV_JUAN5
+3|Analista Senior de Soluciones Digitales|HOF|NONE|CV_JUAN5
+3|Desarrollador de Aplicaciones Web en .NET, Angular, SPA|HOF|NONE|CV_JUAN5
+3|Ingeniero de Integración API con Microservicios|HOF|NONE|CV_JUAN5
+3|Ingeniero de software Backend microservicios en Ministerio de Economía y Finanzas del Perú|HOF|NONE|CV_JUAN5
+3|Analista programador Senior en Compañia minera los andes Perú gold SAC|HOF|NONE|CV_JUAN5
+3|Analista Programador Java en TCI|HOF|NONE|CV_JUAN5
+3|Especialista en Aplicaciones de Software|HOF|NONE|CV_JUAN5
+3|Analista programador en Ministerio de Trabajo y Promoción del Empleo|HOF|NONE|CV_JUAN5
+3|Analista programador en UCSM|HOF|NONE|CV_JUAN5
+3|Analista Programador Ecommerce Backend VTEX - Coolbox Perú|HOF|NONE|CV_JUAN5
+3|Analista Desarrollo en Compartamos Financiera|HOF|NONE|CV_JUAN5
+3|Analista Programador Web en Asociación Peruano Japonesa|HOF|NONE|CV_JUAN5
+3|Analista programador en NTT DATA|HOF|NONE|CV_JUAN5
+3|Responsable de infraestructura de TI Perú Globaltech S.A.|HOF|NONE|CV_JUAN5
+3|Profesional en Diseño y Desarrollo de Software|HOF|NONE|CV_JUAN5
+3|Desarrollador FullStack - Ferreycorp|HOF|NONE|CV_JUAN5
+3|Analista Programador SOA en Global Hitss|HOF|NONE|CV_JUAN5
+3|Analista Programador.NET en SGS|HOF|NONE|CV_JUAN5
+3|Analista Programador en Induamerica Servicios Logisticos|HOF|NONE|CV_JUAN5
+3|Analista de Desarrollo RPG/RPGLE en Banco Pichincha|HOF|NONE|CV_JUAN5
+3|Analista Programador Full Stack Senior|HOF|NONE|CV_JUAN5
+3|Analista de sistemas sénior en Universidad Privada del Norte|HOF|NONE|CV_JUAN5
+3|Ing. Computación y Sistemas - Jefe de Proyectos de Desarrollo |HOF|NONE|CV_JUAN5
+3|Analista Programador en Ministerio de Educación del Perú - Minedu|HOF|NONE|CV_JUAN5
+3|Analista Programador Java en Poder Judicial del Perú (oficial)|HOF|NONE|CV_JUAN5
+3|Analista Desarrollador de Software|HOF|NONE|CV_JUAN5
+3|Analista Programador Full Stack en GFI Perú|HOF|NONE|CV_JUAN5
+3|Desarrollador de front-end en Indra|HOF|NONE|CV_JUAN5
+3|Analista programador de ALIGNET|HOF|NONE|CV_JUAN5
+3|Analista de TI en Scotiabank Peru|HOF|NONE|CV_JUAN5
+3|Analista de Información en Interbank|HOF|NONE|CV_JUAN5
+3|Analista de Sistemas en Ripley Perú|HOF|NONE|CV_JUAN5
+3|Android Software Architect en BCP|HOF|NONE|CV_JUAN5
+3|Analista de calidad en Diners Club Perú |HOF|NONE|CV_JUAN5
+3|Analista programador .Net, RPA Developer|HOF|NONE|CV_JUAN5
 7|Analista programador en JYS CONTROL AUTOMATION |NOT|NONE|CV_JUAN4
 7|Ingeniería de Procesos Programador VBA | Analista de Información |NOT|NONE|CV_JUAN4
 7|Programador de Mantenimiento Mina en Hudbay Minerals Inc. |NOT|NONE|CV_JUAN4
