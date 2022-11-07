@@ -38,7 +38,7 @@ let matrix = druid.Matrix.from(bow_list); //matriz (# documentos , # palabras en
 
 // numero  de reducciones 
 var new_dimensions = 2;
-my_dr = new druid.MDS(matrix, new_dimensions);
+my_dr = new druid.TriMap(matrix, new_dimensions);
 var bow_all_dr = my_dr.transform().to2dArray; // computamos la reduccion de dimensionalidad y obtenemos un vector de 2 dimensiones
 
 var tweets_matrix = [];

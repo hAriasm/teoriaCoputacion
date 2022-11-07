@@ -1,103 +1,103 @@
-1|Software engineer|HOF|NONE|CV_JUAN5
-2|Analista en Gesnext|HOF|NONE|CV_JUAN5
-3|Net Developer en Softtek|HOF|NONE|CV_JUAN5
-4|Programador Full stack|HOF|NONE|CV_JUAN5
-5|Analista de Desarrollo  Web Developer |HOF|NONE|CV_JUAN5
-6|Analista Programador en Induamerica Servicios Logisticos |HOF|NONE|CV_JUAN5
-7|Especialista en Plataformas de Integridad en Presidencia del Consejo de Ministros |HOF|NONE|CV_JUAN5
-8|Responsable de infraestructura de TI Peru Globaltech S.A. (ITSANET PERu S.A.C.) |HOF|NONE|CV_JUAN5
-9|Freelancer- Analista programador de sistemas de software en Empresa SERVICIOS TECNOLOGICOS ADAPTER |HOF|NONE|CV_JUAN5
-10|Analista Programador en Accenture Technology Solutions (Coritel)|HOF|NONE|CV_JUAN5
-11|Analista de TI en Scotiabank|HOF|NONE|CV_JUAN5
-12|Analista Programador Senior en MAPFRE|HOF|NONE|CV_JUAN5
-13|Analista programador en Suiza Lab S.A.C.|HOF|NONE|CV_JUAN5
-14|Analista programador en Freelance|HOF|NONE|CV_JUAN5
-15|Consultor TI , Software Developer, Full Stack Developer|HOF|NONE|CV_JUAN5
-16|Analista Programador Senior en Sonda|HOF|NONE|CV_JUAN5
-17|Analista programador en Mitsui Auto Finance Peru|HOF|NONE|CV_JUAN5
-18|Software engineer 1 en Inetum|HOF|NONE|CV_JUAN5
-19|Analista, Desarrollador, Programador en Apoyo Total|HOF|NONE|CV_JUAN5
-20|Analista Programador en Impress Professional Outsourcing S.A.C.|HOF|NONE|CV_JUAN5
-21|Analista Programador Senior AS400 en M&M Repuestos y Servicios|HOF|NONE|CV_JUAN5
-22|Analista Programador Java en Entelgy|HOF|NONE|CV_JUAN5
-23|ANALISTA PROGRAMADOR DE SISTEMAS EN CONSORCIO DE FABRICA DE SOFTWARE. (GM)|HOF|NONE|CV_JUAN5
-24|Analista programador en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
-25|Programador en MDP CONSULTING S.A.C|HOF|NONE|CV_JUAN5
-26|Desarrollador Backend Semi Senior|HOF|NONE|CV_JUAN5
-27|LIDER TECNICO Y ANALISTA PROGRAMADOR en ADYL CONSULTING|HOF|NONE|CV_JUAN5
-28|Programador de Sistemas en Superintendencia Nacional de Migraciones|HOF|NONE|CV_JUAN5
-29|Analista Programador Senior en Consorcio Metalurgico S.A.|HOF|NONE|CV_JUAN5
-30|Programador BACK-END en Python con framework Falcon en Abcdroid Solutions S.A.C|HOF|NONE|CV_JUAN5
-31|Especialista en Tecnologias Emergentes, CATALYZE Peru, The Palladium Group LLC|HOF|NONE|CV_JUAN5
-32|Ingeniero de aplicaciones en PRECISION PERU|HOF|NONE|CV_JUAN5
-33|Analista de Sistemas Senior en Grupo Celima Trebol|HOF|NONE|CV_JUAN5
-34|Analista Programador en Industria Grafica Cimagraf|HOF|NONE|CV_JUAN5
-35|Analista Desarrollador Full Stack en Canvia - -Analista programador para el grupo DISTRILUZ,|HOF|NONE|CV_JUAN5
-36|Analista Programador de Sistemas en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
-37|Analista programador en Asociacion Cultural Peruano Britanica (Britanico)|HOF|NONE|CV_JUAN5
-38|Analista de Soluciones en NTT DATA Services|HOF|NONE|CV_JUAN5
-39|Solutions Analyst en everis Peru|HOF|NONE|CV_JUAN5
-40|Analista Programador Android - Kotlin en OWLTEC|HOF|NONE|CV_JUAN5
-41|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
-42|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
-43|Especialista funcional tecnico en Grupo Educa_d|HOF|NONE|CV_JUAN5
-44|Arquitecto de Soluciones e Integracion en Auna|HOF|NONE|CV_JUAN5
-45|Administrador de Base de Datos y Desarrollador de software|HOF|NONE|CV_JUAN5
-46|Desarrollador Java, Angular , mobile hibrido|HOF|NONE|CV_JUAN5
-47|Desarrollador de integracion en Pragma|HOF|NONE|CV_JUAN5
-48|Analista programador en SAP Business One, .Net, C |HOF|NONE|CV_JUAN5
-49|Desarrollador Web Full Stack|HOF|NONE|CV_JUAN5
-50|Analista Programador en Materia Gris - Consultoria Tecnologica|HOF|NONE|CV_JUAN5
-51|Arquitecto de Soluciones at Canvia|HOF|NONE|CV_JUAN5
-52|Programador y Administrador de Servertux.com|HOF|NONE|CV_JUAN5
-53|Software de ingenieria|HOF|NONE|CV_JUAN5
-54|Analista Funcional en Conxultiva Digital S.A.C.|NOT|NONE|CV_JUAN4
-55|Analista Funcional QA en Stefanini - CSM|NOT|NONE|CV_JUAN4
-56|Jefe de Operacion , Administrador de Contrato|NOT|NONE|CV_JUAN4
-57|Coordinadora de Tripulantes de Cabina Iniciales en Latam Airlines Peru|NOT|NONE|CV_JUAN4
-58|EXPORTACIONES E IMPORTACIONES EMPERATRIZ S.R.L.TDA.|NOT|NONE|CV_JUAN4
-59|ADMINISTRADOR ESTUDIOS TeCNICOS|NOT|NONE|CV_JUAN4
-60|Analista Funcional en Eterniasoft|NOT|NONE|CV_JUAN4
-61|Analista funcional SAP|NOT|NONE|CV_JUAN4
-62|Consultor Funcional,Tecnico SAP, Peru|NOT|NONE|CV_JUAN4
+100|Administrador de Empresas - Posgrado en Gestion Ambiental|NOT|NONE|CV_JUAN4
+92|Administrador de Obra|NOT|NONE|CV_JUAN4
+73|Analista de Requerimientos|NOT|NONE|CV_JUAN4
+80|Analista Funcional Tecnico en Tecnocom S.A.|NOT|NONE|CV_JUAN4
 63|Data Governance, Data Quality , Data Management|NOT|NONE|CV_JUAN4
-64|Analista Funcional en Stefanini LATAM|NOT|NONE|CV_JUAN4
-65|Analista Funcional,Procesos (BPM Expert en CAC-TI)|NOT|NONE|CV_JUAN4
-66|Jefe de sistemas en Grupo Vivargo S.A.C.|NOT|NONE|CV_JUAN4
-67|Analista Funcional SAP|NOT|NONE|CV_JUAN4
-68|Jefe Funcional de Servicios de Gestion de Aplicaciones en Omnia Solution S.A.C.|NOT|NONE|CV_JUAN4
-69|ANALISTA DE CALIDAD - CANVIA|NOT|NONE|CV_JUAN4
+13|Analista programador en Suiza Lab S.A.C.|HOF|NONE|CV_JUAN5
+25|Programador en MDP CONSULTING S.A.C|HOF|NONE|CV_JUAN5
+34|Analista Programador en Industria Grafica Cimagraf|HOF|NONE|CV_JUAN5
+12|Analista Programador Senior en MAPFRE|HOF|NONE|CV_JUAN5
+57|Coordinadora de Tripulantes de Cabina Iniciales en Latam Airlines Peru|NOT|NONE|CV_JUAN4
+98|Gerente de Administracion y Finanzas|NOT|NONE|CV_JUAN4
+53|Software de ingenieria|HOF|NONE|CV_JUAN5
+5|Analista de Desarrollo  Web Developer |HOF|NONE|CV_JUAN5
 70|Product Owner|NOT|NONE|CV_JUAN4
+47|Desarrollador de integracion en Pragma|HOF|NONE|CV_JUAN5
+85|PLANEADOR Y PROGRAMADOR DE MANTENIMIENTO en YOBEL SCM|NOT|NONE|CV_JUAN4
+89|Administrador en GESTION Y SERVICIOS GENERALES AQP-SUR S.A.C.|NOT|NONE|CV_JUAN4
+51|Arquitecto de Soluciones at Canvia|HOF|NONE|CV_JUAN5
+17|Analista programador en Mitsui Auto Finance Peru|HOF|NONE|CV_JUAN5
+59|ADMINISTRADOR ESTUDIOS TeCNICOS|NOT|NONE|CV_JUAN4
+68|Jefe Funcional de Servicios de Gestion de Aplicaciones en Omnia Solution S.A.C.|NOT|NONE|CV_JUAN4
+54|Analista Funcional en Conxultiva Digital S.A.C.|NOT|NONE|CV_JUAN4
+56|Jefe de Operacion , Administrador de Contrato|NOT|NONE|CV_JUAN4
+64|Analista Funcional en Stefanini LATAM|NOT|NONE|CV_JUAN4
+103|Gerente de Salud|NOT|NONE|CV_JUAN4
+90|Administrador|NOT|NONE|CV_JUAN4
+87|Especialista en Tecnologias Emergentes, CATALYZE Peru, The Palladium Group LLC|NOT|NONE|CV_JUAN4
+65|Analista Funcional,Procesos (BPM Expert en CAC-TI)|NOT|NONE|CV_JUAN4
+82|Analista Senior de modelos de riesgos en Interbank|NOT|NONE|CV_JUAN4
+88|Administrador en Acurio Restaurantes|NOT|NONE|CV_JUAN4
+40|Analista Programador Android - Kotlin en OWLTEC|HOF|NONE|CV_JUAN5
+45|Administrador de Base de Datos y Desarrollador de software|HOF|NONE|CV_JUAN5
+66|Jefe de sistemas en Grupo Vivargo S.A.C.|NOT|NONE|CV_JUAN4
+83|Consultor Senior - Devops|NOT|NONE|CV_JUAN4
+49|Desarrollador Web Full Stack|HOF|NONE|CV_JUAN5
+2|Analista en Gesnext|HOF|NONE|CV_JUAN5
+76|Analista Funcional en Seidor|NOT|NONE|CV_JUAN4
+32|Ingeniero de aplicaciones en PRECISION PERU|HOF|NONE|CV_JUAN5
+38|Analista de Soluciones en NTT DATA Services|HOF|NONE|CV_JUAN5
+42|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
 71|Consultor Funcional Global|NOT|NONE|CV_JUAN4
 72|Analista Funcional Senior en Tismart|NOT|NONE|CV_JUAN4
-73|Analista de Requerimientos|NOT|NONE|CV_JUAN4
-74|Bachiller de Ingenieria de Sistemas|NOT|NONE|CV_JUAN4
-75|Analista Funcional CRM|NOT|NONE|CV_JUAN4
-76|Analista Funcional en Seidor|NOT|NONE|CV_JUAN4
-77|Delivery Excellence Partner en Tata Consultancy Services|NOT|NONE|CV_JUAN4
-78|Ing. de Sistemas, Analista Funcional |NOT|NONE|CV_JUAN4
-79|Analista DBA en Seguro Social de Salud - EsSalud|NOT|NONE|CV_JUAN4
-80|Analista Funcional Tecnico en Tecnocom S.A.|NOT|NONE|CV_JUAN4
-81|Gerente de Operaciones en excelia|NOT|NONE|CV_JUAN4
-82|Analista Senior de modelos de riesgos en Interbank|NOT|NONE|CV_JUAN4
-83|Consultor Senior - Devops|NOT|NONE|CV_JUAN4
-84|Consultor de sistemas de TI |NOT|NONE|CV_JUAN4
-85|PLANEADOR Y PROGRAMADOR DE MANTENIMIENTO en YOBEL SCM|NOT|NONE|CV_JUAN4
-86|Automation Quality Engineer ISTQB-CTFL ISTQB-CTAL-TAE  AZ-900  SFPC|NOT|NONE|CV_JUAN4
-87|Especialista en Tecnologias Emergentes, CATALYZE Peru, The Palladium Group LLC|NOT|NONE|CV_JUAN4
-88|Administrador en Acurio Restaurantes|NOT|NONE|CV_JUAN4
-89|Administrador en GESTION Y SERVICIOS GENERALES AQP-SUR S.A.C.|NOT|NONE|CV_JUAN4
-90|Administrador|NOT|NONE|CV_JUAN4
-91|Administrador de base de datos en INEI- Instituto Nacional de Estadistica e Informatica|NOT|NONE|CV_JUAN4
-92|Administrador de Obra|NOT|NONE|CV_JUAN4
-93|Administrador de operaciones en FLSmidth|NOT|NONE|CV_JUAN4
-94|Jefe de Linea - Comercial en Sodimac Peru|NOT|NONE|CV_JUAN4
-95|Ingeniero de NOC-SOC en Grupo Electrodata (E-data)|NOT|NONE|CV_JUAN4
-96|Jefe de Operaciones en Diviso Bolsa SAB|NOT|NONE|CV_JUAN4
 97|Jefe de Almacen en Emotion Group Peru S.A.C|NOT|NONE|CV_JUAN4
-98|Gerente de Administracion y Finanzas|NOT|NONE|CV_JUAN4
+78|Ing. de Sistemas, Analista Funcional |NOT|NONE|CV_JUAN4
+77|Delivery Excellence Partner en Tata Consultancy Services|NOT|NONE|CV_JUAN4
+39|Solutions Analyst en everis Peru|HOF|NONE|CV_JUAN5
+10|Analista Programador en Accenture Technology Solutions (Coritel)|HOF|NONE|CV_JUAN5
+69|ANALISTA DE CALIDAD - CANVIA|NOT|NONE|CV_JUAN4
+16|Analista Programador Senior en Sonda|HOF|NONE|CV_JUAN5
+81|Gerente de Operaciones en excelia|NOT|NONE|CV_JUAN4
+79|Analista DBA en Seguro Social de Salud - EsSalud|NOT|NONE|CV_JUAN4
+11|Analista de TI en Scotiabank|HOF|NONE|CV_JUAN5
+60|Analista Funcional en Eterniasoft|NOT|NONE|CV_JUAN4
+26|Desarrollador Backend Semi Senior|HOF|NONE|CV_JUAN5
+61|Analista funcional SAP|NOT|NONE|CV_JUAN4
+4|Programador Full stack|HOF|NONE|CV_JUAN5
+28|Programador de Sistemas en Superintendencia Nacional de Migraciones|HOF|NONE|CV_JUAN5
+55|Analista Funcional QA en Stefanini - CSM|NOT|NONE|CV_JUAN4
+46|Desarrollador Java, Angular , mobile hibrido|HOF|NONE|CV_JUAN5
 99|Licenciado en administracion|NOT|NONE|CV_JUAN4
-100|Administrador de Empresas - Posgrado en Gestion Ambiental|NOT|NONE|CV_JUAN4
-101|Administrador de operaciones en P&R World Services SAC|NOT|NONE|CV_JUAN4
+29|Analista Programador Senior en Consorcio Metalurgico S.A.|HOF|NONE|CV_JUAN5
 102|Business Developer en ECOVIS PERU|NOT|NONE|CV_JUAN4
-103|Gerente de Salud|NOT|NONE|CV_JUAN4
+84|Consultor de sistemas de TI |NOT|NONE|CV_JUAN4
+15|Consultor TI , Software Developer, Full Stack Developer|HOF|NONE|CV_JUAN5
+93|Administrador de operaciones en FLSmidth|NOT|NONE|CV_JUAN4
+58|EXPORTACIONES E IMPORTACIONES EMPERATRIZ S.R.L.TDA.|NOT|NONE|CV_JUAN4
+6|Analista Programador en Induamerica Servicios Logisticos |HOF|NONE|CV_JUAN5
+20|Analista Programador en Impress Professional Outsourcing S.A.C.|HOF|NONE|CV_JUAN5
+36|Analista Programador de Sistemas en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
+67|Analista Funcional SAP|NOT|NONE|CV_JUAN4
+75|Analista Funcional CRM|NOT|NONE|CV_JUAN4
+19|Analista, Desarrollador, Programador en Apoyo Total|HOF|NONE|CV_JUAN5
+37|Analista programador en Asociacion Cultural Peruano Britanica (Britanico)|HOF|NONE|CV_JUAN5
+22|Analista Programador Java en Entelgy|HOF|NONE|CV_JUAN5
+27|LIDER TECNICO Y ANALISTA PROGRAMADOR en ADYL CONSULTING|HOF|NONE|CV_JUAN5
+74|Bachiller de Ingenieria de Sistemas|NOT|NONE|CV_JUAN4
+24|Analista programador en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
+8|Responsable de infraestructura de TI Peru Globaltech S.A. (ITSANET PERu S.A.C.) |HOF|NONE|CV_JUAN5
+48|Analista programador en SAP Business One, .Net, C |HOF|NONE|CV_JUAN5
+91|Administrador de base de datos en INEI- Instituto Nacional de Estadistica e Informatica|NOT|NONE|CV_JUAN4
+50|Analista Programador en Materia Gris - Consultoria Tecnologica|HOF|NONE|CV_JUAN5
+33|Analista de Sistemas Senior en Grupo Celima Trebol|HOF|NONE|CV_JUAN5
+21|Analista Programador Senior AS400 en M&M Repuestos y Servicios|HOF|NONE|CV_JUAN5
+62|Consultor Funcional,Tecnico SAP, Peru|NOT|NONE|CV_JUAN4
+3|Net Developer en Softtek|HOF|NONE|CV_JUAN5
+23|ANALISTA PROGRAMADOR DE SISTEMAS EN CONSORCIO DE FABRICA DE SOFTWARE. (GM)|HOF|NONE|CV_JUAN5
+9|Freelancer- Analista programador de sistemas de software en Empresa SERVICIOS TECNOLOGICOS ADAPTER |HOF|NONE|CV_JUAN5
+1|Software engineer|HOF|NONE|CV_JUAN5
+14|Analista programador en Freelance|HOF|NONE|CV_JUAN5
+43|Especialista funcional tecnico en Grupo Educa_d|HOF|NONE|CV_JUAN5
+18|Software engineer 1 en Inetum|HOF|NONE|CV_JUAN5
+44|Arquitecto de Soluciones e Integracion en Auna|HOF|NONE|CV_JUAN5
+7|Especialista en Plataformas de Integridad en Presidencia del Consejo de Ministros |HOF|NONE|CV_JUAN5
+30|Programador BACK-END en Python con framework Falcon en Abcdroid Solutions S.A.C|HOF|NONE|CV_JUAN5
+52|Programador y Administrador de Servertux.com|HOF|NONE|CV_JUAN5
+95|Ingeniero de NOC-SOC en Grupo Electrodata (E-data)|NOT|NONE|CV_JUAN4
+94|Jefe de Linea - Comercial en Sodimac Peru|NOT|NONE|CV_JUAN4
+41|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
+31|Especialista en Tecnologias Emergentes, CATALYZE Peru, The Palladium Group LLC|HOF|NONE|CV_JUAN5
+96|Jefe de Operaciones en Diviso Bolsa SAB|NOT|NONE|CV_JUAN4
+86|Automation Quality Engineer ISTQB-CTFL ISTQB-CTAL-TAE  AZ-900  SFPC|NOT|NONE|CV_JUAN4
+101|Administrador de operaciones en P&R World Services SAC|NOT|NONE|CV_JUAN4
+35|Analista Desarrollador Full Stack en Canvia - -Analista programador para el grupo DISTRILUZ,|HOF|NONE|CV_JUAN5

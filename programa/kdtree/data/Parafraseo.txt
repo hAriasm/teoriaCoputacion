@@ -1,700 +1,700 @@
-1|Analista programador de software para plataforma online |HOF|NONE|CV_JUAN5
-2|Programador de aplicaciones web para empresas |HOF|NONE|CV_JUAN5
-3|Desarrollador de aplicaciones web y desktop |HOF|NONE|CV_JUAN5
-4|Programador para aplicaciones online y analista de software |HOF|NONE|CV_JUAN5
-5|Programador, qa, analista de software |HOF|NONE|CV_JUAN5
-6|Perfil desarrollador de aplicaciones web |HOF|NONE|CV_JUAN5
-7|Aplicaciones de soluciones web para empresas |HOF|NONE|CV_JUAN5
-8|Desarrollo aplicaciones a medida para entorno web |HOF|NONE|CV_JUAN5
-9|Hice aplicaciones para entorno web y entorno desktop para empresas |HOF|NONE|CV_JUAN5
-10|Hago analisis y aplicaciones web |HOF|NONE|CV_JUAN5
-11|Aplicaciones web para incrementar la productividad |HOF|NONE|CV_JUAN5
-12|Analista programador de software de plataforma en linea|HOF|NONE|CV_JUAN5
-13|Programador de aplicaciones web corporativas|HOF|NONE|CV_JUAN5
-14|Desarrolladores de aplicaciones web y de escritorio|HOF|NONE|CV_JUAN5
-15|Programadores de aplicaciones en linea y analistas de software|HOF|NONE|CV_JUAN5
-16|Programador, QA, Analista de Software|HOF|NONE|CV_JUAN5
-17|Una introduccion a los desarrolladores de aplicaciones web.|HOF|NONE|CV_JUAN5
-18|Aplicacion de soluciones de red de empresa.|HOF|NONE|CV_JUAN5
-19|Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
-20|Creo aplicaciones web y de escritorio para mi empresa|HOF|NONE|CV_JUAN5
-21|Me ocupo de analitica y aplicaciones web|HOF|NONE|CV_JUAN5
-22|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
-23|Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
-24|Construyo aplicaciones web y de escritorio para mi empresa|HOF|NONE|CV_JUAN5
-25|Me ocupo de analitica y aplicaciones web|HOF|NONE|CV_JUAN5
-26|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
-27|Analista de desarrollo de software de plataforma en linea|HOF|NONE|CV_JUAN5
-28|Desarrollador de aplicaciones web empresariales|HOF|NONE|CV_JUAN5
-29|Desarrolladores de aplicaciones web y de escritorio|HOF|NONE|CV_JUAN5
-30|Analista  de software para plataforma web |HOF|NONE|CV_JUAN5
-31|Desarrollador de aplicaciones web para empresas |HOF|NONE|CV_JUAN5
-32|Desarrollador de aplicaciones web y de escritorio|HOF|NONE|CV_JUAN5
-33|Programadores de aplicaciones en linea y analistas de software|HOF|NONE|CV_JUAN5
-34|Programador, QA, Analista de Software|HOF|NONE|CV_JUAN5
-35|Aplicacion de soluciones de red empresarial. Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
-36|Desarrollo aplicaciones web y de escritorio para mi negocio|HOF|NONE|CV_JUAN5
-37|Trabajo con analitica y aplicaciones web|HOF|NONE|CV_JUAN5
-38|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
-39|Analista  de desarrollo de plataforma web |HOF|NONE|CV_JUAN5
-40| Desarrollador de aplicaciones web para empresas |HOF|NONE|CV_JUAN5
-41| Desarrollador de aplicaciones web  |HOF|NONE|CV_JUAN5
-42|Desarrollador de aplicaciones web y analista de software |HOF|NONE|CV_JUAN5
-43| Desarrollador, qa, analista de software |HOF|NONE|CV_JUAN5
-44| Perfil de desarrollador de aplicaciones web |HOF|NONE|CV_JUAN5
-45| Aplicaciones de soluciones web para empresas |HOF|NONE|CV_JUAN5
-46| Desarrollo entorno de aplicaciones  web personalizado |HOF|NONE|CV_JUAN5
-47| Realice aplicaciones para entorno web y  entorno de escritorio para analisis empresarial y  aplicaciones web  Aplicaciones web para  productividad |HOF|NONE|CV_JUAN5
-48| Analista  de software de plataforma web |HOF|NONE|CV_JUAN5
-49| Desarrollador de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
-50| Desarrolladores de aplicaciones web y de escritorio |HOF|NONE|CV_JUAN5
-51| Desarrolladores de aplicaciones web y analistas de software |HOF|NONE|CV_JUAN5
-52| Desarrolladores Desarrolladores, control de calidad, software Analista |HOF|NONE|CV_JUAN5
-53| Introduccion a los Desarrolladores de Aplicaciones Web. |HOF|NONE|CV_JUAN5
-54| Aplicacion de soluciones de red empresarial. |HOF|NONE|CV_JUAN5
-55| Desarrollo aplicaciones web personalizadas |HOF|NONE|CV_JUAN5
-56| Creo aplicaciones web y de escritorio para mi empresa |HOF|NONE|CV_JUAN5
-57| Hago analisis y aplicaciones  web |HOF|NONE|CV_JUAN5
-58| Aplicaciones web que mejoran la productividad |HOF|NONE|CV_JUAN5
-59| Desarrollo aplicaciones web personalizadas |HOF|NONE|CV_JUAN5
-60| Creo aplicaciones web y de escritorio para mi empresa |HOF|NONE|CV_JUAN5
-61| Me ocupo de analisis y aplicaciones web |HOF|NONE|CV_JUAN5
-62| Aplicaciones web que mejoran la productividad |HOF|NONE|CV_JUAN5
-63| Entornos web, analista de software  |HOF|NONE|CV_JUAN5
-64| Desarrollador de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
-65| Desarrolladores de aplicaciones web y de escritorio |HOF|NONE|CV_JUAN5
-66| Analista de software de plataforma web |HOF|NONE|CV_JUAN5
-67| Desarrollador de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
-68| Desarrollador de aplicaciones web  |HOF|NONE|CV_JUAN5
-69| Desarrolladores de aplicaciones web|HOF|NONE|CV_JUAN5
-70| desarrolladores y desarrolladores de aplicaciones web|HOF|NONE|CV_JUAN5
-71|desarrolladores de aplicaciones y analistas de software |HOF|NONE|CV_JUAN5
-72| Desarrollador, control de calidad, analista de software |HOF|NONE|CV_JUAN5
-73| Soluciones de redes empresariales de aplicaciones. Desarrollo de aplicaciones  web personalizadas |HOF|NONE|CV_JUAN5
-74| Desarrollo aplicaciones web y de escritorio para mi negocio |HOF|NONE|CV_JUAN5
-75| Trabajo con analisis y aplicaciones web |HOF|NONE|CV_JUAN5
-76| Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
-77| Desarrollo aplicaciones web y de escritorio para mi empresa |HOF|NONE|CV_JUAN5
-78| Hago analisis y aplicaciones web |HOF|NONE|CV_JUAN5
-79| Aplicaciones web de productividad |HOF|NONE|CV_JUAN5
-80| Desarrollo aplicaciones web personalizadas |HOF|NONE|CV_JUAN5
-81| Desarrollo aplicaciones web y de escritorio para mi empresa |HOF|NONE|CV_JUAN5
-82| Hago analisis y aplicaciones web |HOF|NONE|CV_JUAN5
-83| Aplicaciones web que aumentan la productividad |HOF|NONE|CV_JUAN5
-84| Entornos web, analista de software |HOF|NONE|CV_JUAN5
-85| Desarrolladores de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
-86| Desarrolladores de aplicaciones web y de escritorio |HOF|NONE|CV_JUAN5
-87| Analista de software  web |HOF|NONE|CV_JUAN5
-88| Desarrolladores de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
-89| Desarrolladores de aplicaciones web  y Desarrolladores |HOF|NONE|CV_JUAN5
-90| Desarrolladores de aplicaciones y Analistas de software Analistas de software |HOF|NONE|CV_JUAN5
-91| Soluciones, QA |HOF|NONE|CV_JUAN5
-92| Enterprise Network |HOF|NONE|CV_JUAN5
-93| Desarrollo mis propias aplicaciones web personalizadas para aplicaciones web y de escritorio  |HOF|NONE|CV_JUAN5
-94| Trabajo con aplicaciones analiticas y  web|HOF|NONE|CV_JUAN5
-95| Aplicaciones web, es para mejorar la productividad|HOF|NONE|CV_JUAN5
-96|Software engineer|HOF|NONE|CV_JUAN5
-97|Analista en Gesnext|HOF|NONE|CV_JUAN5
-98|Net Developer en Softtek|HOF|NONE|CV_JUAN5
-99|Programador Full stack|HOF|NONE|CV_JUAN5
-100|Analista de Desarrollo  Web Developer |HOF|NONE|CV_JUAN5
-101|Analista Programador en Induamerica Servicios Logisticos |HOF|NONE|CV_JUAN5
-102|Especialista en Plataformas de Integridad en Presidencia del Consejo de Ministros |HOF|NONE|CV_JUAN5
-103|Responsable de infraestructura de TI Peru Globaltech S.A. (ITSANET PERu S.A.C.) |HOF|NONE|CV_JUAN5
-104|Freelancer- Analista programador de sistemas de software en Empresa SERVICIOS TECNOLOGICOS ADAPTER |HOF|NONE|CV_JUAN5
-105|Analista Programador en Accenture Technology Solutions (Coritel)|HOF|NONE|CV_JUAN5
-106|Analista de TI en Scotiabank|HOF|NONE|CV_JUAN5
-107|Analista Programador Senior en MAPFRE|HOF|NONE|CV_JUAN5
-108|Analista programador en Suiza Lab S.A.C.|HOF|NONE|CV_JUAN5
-109|Analista programador en Freelance|HOF|NONE|CV_JUAN5
-110|Consultor TI , Software Developer, Full Stack Developer|HOF|NONE|CV_JUAN5
-111|Analista Programador Senior en Sonda|HOF|NONE|CV_JUAN5
-112|Analista programador en Mitsui Auto Finance Peru|HOF|NONE|CV_JUAN5
-113|Software engineer 1 en Inetum|HOF|NONE|CV_JUAN5
-114|Analista, Desarrollador, Programador en Apoyo Total|HOF|NONE|CV_JUAN5
-115|Analista Programador en Impress Professional Outsourcing S.A.C.|HOF|NONE|CV_JUAN5
-116|Analista Programador Senior AS400 en M&M Repuestos y Servicios|HOF|NONE|CV_JUAN5
-117|Analista Programador Java en Entelgy|HOF|NONE|CV_JUAN5
-118|ANALISTA PROGRAMADOR DE SISTEMAS EN CONSORCIO DE FABRICA DE SOFTWARE. (GM)|HOF|NONE|CV_JUAN5
-119|Analista programador en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
-120|Programador en MDP CONSULTING S.A.C|HOF|NONE|CV_JUAN5
-121|Desarrollador Backend Semi Senior|HOF|NONE|CV_JUAN5
-122|LIDER TECNICO Y ANALISTA PROGRAMADOR en ADYL CONSULTING|HOF|NONE|CV_JUAN5
-123|Programador de Sistemas en Superintendencia Nacional de Migraciones|HOF|NONE|CV_JUAN5
-124|Analista Programador Senior en Consorcio Metalurgico S.A.|HOF|NONE|CV_JUAN5
-125|Programador BACK-END en Python con framework Falcon en Abcdroid Solutions S.A.C|HOF|NONE|CV_JUAN5
-126|Especialista en Tecnologias Emergentes, CATALYZE Peru, The Palladium Group LLC|HOF|NONE|CV_JUAN5
-127|Ingeniero de aplicaciones en PRECISION PERU|HOF|NONE|CV_JUAN5
-128|Analista de Sistemas Senior en Grupo Celima Trebol|HOF|NONE|CV_JUAN5
-129|Analista Programador en Industria Grafica Cimagraf|HOF|NONE|CV_JUAN5
-130|Analista Desarrollador Full Stack en Canvia - -Analista programador para el grupo DISTRILUZ,|HOF|NONE|CV_JUAN5
-131|Analista Programador de Sistemas en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
-132|Analista programador en Asociacion Cultural Peruano Britanica (Britanico)|HOF|NONE|CV_JUAN5
-133|Analista de Soluciones en NTT DATA Services|HOF|NONE|CV_JUAN5
-134|Solutions Analyst en everis Peru|HOF|NONE|CV_JUAN5
-135|Analista Programador Android - Kotlin en OWLTEC|HOF|NONE|CV_JUAN5
-136|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
-137|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
-138|Especialista funcional tecnico en Grupo Educa_d|HOF|NONE|CV_JUAN5
-139|Arquitecto de Soluciones e Integracion en Auna|HOF|NONE|CV_JUAN5
-140|Administrador de Base de Datos y Desarrollador de software|HOF|NONE|CV_JUAN5
-141|Desarrollador Java, Angular , mobile hibrido|HOF|NONE|CV_JUAN5
-142|Desarrollador de integracion en Pragma|HOF|NONE|CV_JUAN5
-143|Analista programador en SAP Business One, .Net, C |HOF|NONE|CV_JUAN5
-144|Desarrollador Web Full Stack|HOF|NONE|CV_JUAN5
-145|Desarrollador Web Full Stack|HOF|NONE|CV_JUAN5
-146|Analista Programador en Materia Gris - Consultoria Tecnologica|HOF|NONE|CV_JUAN5
-147|Arquitecto de Soluciones at Canvia|HOF|NONE|CV_JUAN5
-148|Programador y Administrador de Servertux.com|HOF|NONE|CV_JUAN5
-149|Software de ingenieria|HOF|NONE|CV_JUAN5
-150|Gesnext -analyst|HOF|NONE|CV_JUAN5
-151|Desarrollador de redes de Softtek|HOF|NONE|CV_JUAN5
-152|Una pila completa de programador|HOF|NONE|CV_JUAN5
-153|Analista de desarrollo desarrollador web|HOF|NONE|CV_JUAN5
-154|Servicio logico de analista de Induamerica -Program|HOF|NONE|CV_JUAN5
-155|Un experto en la plataforma honorable del Presidente del Ministro de Ministros|HOF|NONE|CV_JUAN5
-156|Responsable de la infraestructura global de Peru S.A. (ISNetperigs.a.c.)|HOF|NONE|CV_JUAN5
-157|Freelancer Software System Program Analyst Adaptador de tecnologia de tecnologia Compania|HOF|NONE|CV_JUAN5
-158|Analistas de Coritel Technical Solutions (CORITEL)|HOF|NONE|CV_JUAN5
-159|Scotiabanks diez analyst|HOF|NONE|CV_JUAN5
-160|Analista de programas senior de MAPFRE|HOF|NONE|CV_JUAN5
-161|Laboratorio Suizo S.A.C. Analista|HOF|NONE|CV_JUAN5
-162|Analista de programas gratuito|HOF|NONE|CV_JUAN5
-163|Consultor de TI, software de desarrollador, desarrolladores completos de pila|HOF|NONE|CV_JUAN5
-164|Analista de programas senior|HOF|NONE|CV_JUAN5
-165|Analista del programa Mitsui Auto Finance Perus|HOF|NONE|CV_JUAN5
-166|Software para 1. Ingeniero Inetum|HOF|NONE|CV_JUAN5
-167|Analistas, desarrolladores, programadores complementan el ancho|HOF|NONE|CV_JUAN5
-168|Analista de programadores - S.A.C.|HOF|NONE|CV_JUAN5
-169|AS400 Analistas de programas senior de repuestos y servicios de repuestos de M M|HOF|NONE|CV_JUAN5
-170|Entelgy Java Programprape|HOF|NONE|CV_JUAN5
-171|Analista de programadores SystemA en el consorcio de fabrica de software. (GM)|HOF|NONE|CV_JUAN5
-172|Credinka Financial|HOF|NONE|CV_JUAN5
-173|MDP Consulting S.A.C Programador|HOF|NONE|CV_JUAN5
-174|Parcialmente --andical back -en -vening -Developmer|HOF|NONE|CV_JUAN5
-175|La tecnologia de consultoria adyl sufre y los analistas programados|HOF|NONE|CV_JUAN5
-176|Programadores del Sistema Nacional de Supervision de Inmigracion|HOF|NONE|CV_JUAN5
-177|Analista de programas senior Consorcio Metalurgico S.A.|HOF|NONE|CV_JUAN5
-178|Pythonus Back -end -Programmer y Falcon Frames en S.A.C|HOF|NONE|CV_JUAN5
-179|Nuevos expertos tecnicos, Catalyzed Peru,  Group Co., Ltd.|HOF|NONE|CV_JUAN5
-180|Ingeniero de aplicaciones exacta de Peru|HOF|NONE|CV_JUAN5
-181|Grupo Celima Trebols Analista de sistemas senior|HOF|NONE|CV_JUAN5
-182|Cimagraf para cumplir ya|HOF|NONE|CV_JUAN5
-183|Canria Full Stack Developer Analyst Group Alist -Programmer,|HOF|NONE|CV_JUAN5
-184|Sistema financiero -programas|HOF|NONE|CV_JUAN5
-185|Programadores de la Asociacion Cultural Peruana del Reino Unido (britanicos)|HOF|NONE|CV_JUAN5
-186|Analista de soluciones de servicio de datos NTT|HOF|NONE|CV_JUAN5
-187|Analista de soluciones de Peruye Evans|HOF|NONE|CV_JUAN5
-188|Android -Wltecs Kotlin -Program Analyst|HOF|NONE|CV_JUAN5
-189|Supervisor del proyecto del financiador Credink|HOF|NONE|CV_JUAN5
-190|Supervisor del proyecto del financiador Credink|HOF|NONE|CV_JUAN5
-191|Grupo Educa_D Experto de funcion tecnica|HOF|NONE|CV_JUAN5
-192|Gerentes de bases de datos y desarrolladores de software|HOF|NONE|CV_JUAN5
-193|Java -Developer, angulo, movimiento movil|HOF|NONE|CV_JUAN5
-194|Desarrollador integrado de Pragma|HOF|NONE|CV_JUAN5
-195|SAP Business One, .NET, C -Programmer Analyst|HOF|NONE|CV_JUAN5
-196|Desarrolladores web completamente acumulados|HOF|NONE|CV_JUAN5
-197|Desarrolladores web completamente acumulados|HOF|NONE|CV_JUAN5
-198|Software engineer|HOF|NONE|CV_JUAN5
-199|Analista en Gesnext|HOF|NONE|CV_JUAN5
-200|Net Developer en Softtek|HOF|NONE|CV_JUAN5
-201|Programador Full stack|HOF|NONE|CV_JUAN5
-202|Analista de Desarrollo  Web Developer |HOF|NONE|CV_JUAN5
-203|Analista Programador en Induamerica Servicios Logisticos |HOF|NONE|CV_JUAN5
-204|Especialista en Plataformas de Integridad en Presidencia del Consejo de Ministros |HOF|NONE|CV_JUAN5
-205|Responsable de infraestructura de TI Peru Globaltech S.A. (ITSANET PERu S.A.C.) |HOF|NONE|CV_JUAN5
-206|Freelancer- Analista programador de sistemas de software en Empresa SERVICIOS TECNOLOGICOS ADAPTER |HOF|NONE|CV_JUAN5
-207|Analista Programador en Accenture Technology Solutions (Coritel)|HOF|NONE|CV_JUAN5
-208|Analista de TI en Scotiabank|HOF|NONE|CV_JUAN5
-209|Analista Programador Senior en MAPFRE|HOF|NONE|CV_JUAN5
-210|Analista programador en Suiza Lab S.A.C.|HOF|NONE|CV_JUAN5
-211|Analista programador en Freelance|HOF|NONE|CV_JUAN5
-212|Consultor TI , Software Developer, Full Stack Developer|HOF|NONE|CV_JUAN5
-213|Analista Programador Senior en Sonda|HOF|NONE|CV_JUAN5
-214|Analista programador en Mitsui Auto Finance Peru|HOF|NONE|CV_JUAN5
-215|Software engineer 1 en Inetum|HOF|NONE|CV_JUAN5
-216|Analista, Desarrollador, Programador en Apoyo Total|HOF|NONE|CV_JUAN5
-217|Analista Programador en Impress Professional Outsourcing S.A.C.|HOF|NONE|CV_JUAN5
-218|Analista Programador Senior AS400 en M&M Repuestos y Servicios|HOF|NONE|CV_JUAN5
-219|Analista Programador Java en Entelgy|HOF|NONE|CV_JUAN5
-220|ANALISTA PROGRAMADOR DE SISTEMAS EN CONSORCIO DE FABRICA DE SOFTWARE. (GM)|HOF|NONE|CV_JUAN5
-221|Analista programador en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
-222|Programador en MDP CONSULTING S.A.C|HOF|NONE|CV_JUAN5
-223|Desarrollador Backend Semi Senior|HOF|NONE|CV_JUAN5
-224|LIDER TECNICO Y ANALISTA PROGRAMADOR en ADYL CONSULTING|HOF|NONE|CV_JUAN5
-225|Programador de Sistemas en Superintendencia Nacional de Migraciones|HOF|NONE|CV_JUAN5
-226|Analista Programador Senior en Consorcio Metalurgico S.A.|HOF|NONE|CV_JUAN5
-227|Programador BACK-END en Python con framework Falcon en Abcdroid Solutions S.A.C|HOF|NONE|CV_JUAN5
-228|Especialista en Tecnologias Emergentes, CATALYZE Peru, The Palladium Group LLC|HOF|NONE|CV_JUAN5
-229|Ingeniero de aplicaciones en PRECISION PERU|HOF|NONE|CV_JUAN5
-230|Analista de Sistemas Senior en Grupo Celima Trebol|HOF|NONE|CV_JUAN5
-231|Analista Programador en Industria Grafica Cimagraf|HOF|NONE|CV_JUAN5
-232|Analista Desarrollador Full Stack en Canvia - -Analista programador para el grupo DISTRILUZ,|HOF|NONE|CV_JUAN5
-233|Analista Programador de Sistemas en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
-234|Analista programador en Asociacion Cultural Peruano Britanica (Britanico)|HOF|NONE|CV_JUAN5
-235|Analista de Soluciones en NTT DATA Services|HOF|NONE|CV_JUAN5
-236|Solutions Analyst en everis Peru|HOF|NONE|CV_JUAN5
-237|Analista Programador Android - Kotlin en OWLTEC|HOF|NONE|CV_JUAN5
-238|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
-239|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
-240|Especialista funcional tecnico en Grupo Educa_d|HOF|NONE|CV_JUAN5
-241|Arquitecto de Soluciones e Integracion en Auna|HOF|NONE|CV_JUAN5
-242|Administrador de Base de Datos y Desarrollador de software|HOF|NONE|CV_JUAN5
-243|Desarrollador Java, Angular , mobile hibrido|HOF|NONE|CV_JUAN5
-244|Desarrollador de integracion en Pragma|HOF|NONE|CV_JUAN5
-245|Analista programador en SAP Business One, .Net, C |HOF|NONE|CV_JUAN5
-246|Desarrollador Web Full Stack|HOF|NONE|CV_JUAN5
-247|Desarrollador Web Full Stack|HOF|NONE|CV_JUAN5
-248|Analista Programador en Materia Gris - Consultoria Tecnologica|HOF|NONE|CV_JUAN5
-249|Arquitecto de Soluciones at Canvia|HOF|NONE|CV_JUAN5
-250|Programador y Administrador de Servertux.com|HOF|NONE|CV_JUAN5
-251|Software de ingenieria|HOF|NONE|CV_JUAN5
-252|Gesnext -analyst|HOF|NONE|CV_JUAN5
-253|Desarrollador de redes de Softtek|HOF|NONE|CV_JUAN5
-254|Una pila completa de programador|HOF|NONE|CV_JUAN5
-255|Analista de desarrollo desarrollador web|HOF|NONE|CV_JUAN5
-256|Servicio logico de analista de Induamerica -Program|HOF|NONE|CV_JUAN5
-257|Un experto en la plataforma honorable del Presidente del Ministro de Ministros|HOF|NONE|CV_JUAN5
-258|Responsable de la infraestructura global de Peru S.A. (ISNetperigs.a.c.)|HOF|NONE|CV_JUAN5
-259|Freelancer Software System Program Analyst Adaptador de tecnologia de tecnologia Compania|HOF|NONE|CV_JUAN5
-260|Analistas de Coritel Technical Solutions (CORITEL)|HOF|NONE|CV_JUAN5
-261|Scotiabanks diez analyst|HOF|NONE|CV_JUAN5
-262|Analista de programas senior de MAPFRE|HOF|NONE|CV_JUAN5
-263|Laboratorio Suizo S.A.C. Analista|HOF|NONE|CV_JUAN5
-264|Analista de programas gratuito|HOF|NONE|CV_JUAN5
-265|Consultor de TI, software de desarrollador, desarrolladores completos de pila|HOF|NONE|CV_JUAN5
-266|Analista de programas senior|HOF|NONE|CV_JUAN5
-267|Analista del programa Mitsui Auto Finance Perus|HOF|NONE|CV_JUAN5
-268|Software para 1. Ingeniero Inetum|HOF|NONE|CV_JUAN5
-269|Analistas, desarrolladores, programadores complementan el ancho|HOF|NONE|CV_JUAN5
-270|Analista de programadores - S.A.C.|HOF|NONE|CV_JUAN5
-271|AS400 Analistas de programas senior de repuestos y servicios de repuestos de M M|HOF|NONE|CV_JUAN5
-272|Entelgy Java Programprape|HOF|NONE|CV_JUAN5
-273|Analista de programadores SystemA en el consorcio de fabrica de software. (GM)|HOF|NONE|CV_JUAN5
-274|Credinka Financial|HOF|NONE|CV_JUAN5
-275|MDP Consulting S.A.C Programador|HOF|NONE|CV_JUAN5
-276|Parcialmente --andical back -en -vening -Developmer|HOF|NONE|CV_JUAN5
-277|La tecnologia de consultoria adyl sufre y los analistas programados|HOF|NONE|CV_JUAN5
-278|Programadores del Sistema Nacional de Supervision de Inmigracion|HOF|NONE|CV_JUAN5
-279|Analista de programas senior Consorcio Metalurgico S.A.|HOF|NONE|CV_JUAN5
-280|Pythonus Back -end -Programmer y Falcon Frames en S.A.C|HOF|NONE|CV_JUAN5
-281|Nuevos expertos tecnicos, Catalyzed Peru,  Group Co., Ltd.|HOF|NONE|CV_JUAN5
-282|Ingeniero de aplicaciones exacta de Peru|HOF|NONE|CV_JUAN5
-283|Grupo Celima Trebols Analista de sistemas senior|HOF|NONE|CV_JUAN5
-284|Cimagraf para cumplir ya|HOF|NONE|CV_JUAN5
-285|Canria Full Stack Developer Analyst Group Alist -Programmer,|HOF|NONE|CV_JUAN5
-286|Sistema financiero -programas|HOF|NONE|CV_JUAN5
-287|Programadores de la Asociacion Cultural Peruana del Reino Unido (britanicos)|HOF|NONE|CV_JUAN5
-288|Analista de soluciones de servicio de datos NTT|HOF|NONE|CV_JUAN5
-289|Analista de soluciones de Peruye Evans|HOF|NONE|CV_JUAN5
-290|Android -Wltecs Kotlin -Program Analyst|HOF|NONE|CV_JUAN5
-291|Supervisor del proyecto del financiador Credink|HOF|NONE|CV_JUAN5
-292|Supervisor del proyecto del financiador Credink|HOF|NONE|CV_JUAN5
-293|Grupo Educa_D Experto de funcion tecnica|HOF|NONE|CV_JUAN5
-294|Gerentes de bases de datos y desarrolladores de software|HOF|NONE|CV_JUAN5
-295|Java -Developer, angulo, movimiento movil|HOF|NONE|CV_JUAN5
-296|Desarrollador integrado de Pragma|HOF|NONE|CV_JUAN5
-297|SAP Business One, .NET, C -Programmer Analyst|HOF|NONE|CV_JUAN5
-298|Desarrolladores web completamente acumulados|HOF|NONE|CV_JUAN5
-299|Desarrolladores web completamente acumulados|HOF|NONE|CV_JUAN5
-300|Desarrollador de aplicaciones moviles en Grupo PLM. |HOF|NONE|CV_JUAN5
-301|Desarrollador de aplicaciones web en Municipalidad Provincial de San Martin. |HOF|NONE|CV_JUAN5
-302|Director Desarrollo de Aplicaciones e Infraestructura de TI en SOFTLABS. |HOF|NONE|CV_JUAN5
-303|Desarrollador Web Front End con énfasis en ReactJs. |HOF|NONE|CV_JUAN5
-304|Ingeniero de aplicaciones en INDUSTRIAL COM. |HOF|NONE|CV_JUAN5
-305| Soy ingeniero de Sistemas y programador de aplicaciones. |HOF|NONE|CV_JUAN5
-306| Tecnico programador y disenador de aplicaciones moviles para empresas. |HOF|NONE|CV_JUAN5
-307| Programador independiente de aplicaciones de gestion empresarial. |HOF|NONE|CV_JUAN5
-308| Una de mis principales funciones es la supervision del equipo de analistas de software. |HOF|NONE|CV_JUAN5
-309| Realizo funciones de analisis de sotware. |HOF|NONE|CV_JUAN5
-310| Desarrollador freelance de aplicaciones empresariales. |HOF|NONE|CV_JUAN5
-311| Estoy disenando y construyendo un sitio web en mi actual compañia. |HOF|NONE|CV_JUAN5
-312| Una de mis responsabilidades es supervisar un equipo de analistas de software. |HOF|NONE|CV_JUAN5
-313| Encargado de la construccion y desarrollo de aplicaciones moviles para finanzas. |HOF|NONE|CV_JUAN5
-314| Soy responsable de construir y desarrollar aplicaciones para la gestion de mantenimiento de planta. |HOF|NONE|CV_JUAN5
-315| Implemente paginas Web para el area de marketing de la compania BHP Oil Gas.|HOF|NONE|CV_JUAN5
-316| Tengo conocimientos solidos en diseno y programacion de aplicaciones en linea. |HOF|NONE|CV_JUAN5
-317| Me he desempeñado como Analista de Software en el area de TI. |HOF|NONE|CV_JUAN5
-318| Realizo programacion de aplicaciones moviles de entretenimiento y para el uso educativo. |HOF|NONE|CV_JUAN5
-319| Programacion de aplicaciones móviles con fines educativos y de entretenimiento. |HOF|NONE|CV_JUAN5
-320| Realizo servicios de diseño e implementación de páginas Web para empresas e instituciones educativas. |HOF|NONE|CV_JUAN5
-321| Tengo experiencia como desarrollador de aplicaciones de escritorio. |HOF|NONE|CV_JUAN5
-322| En la actualidad me desempeño como Analista Senior de Software en la Cia. Devon Energy. |HOF|NONE|CV_JUAN5
-323| He adquirido vasto conocimiento en programacion de aplicaciones de escritorio y moviles. |HOF|NONE|CV_JUAN5
-324| Soy jefe del departamento de Informatica y Desarrollo de Aplicaciones en la empresa que actualmente laboro. |HOF|NONE|CV_JUAN5
-325| Tengo 5 anos de experiencia en la implementacion de paginas Web para negocios y pymes. |HOF|NONE|CV_JUAN5
-326| Poseo certificaciones internacionales en diseno y programacion de aplicaciones para la gestion empresarial. |HOF|NONE|CV_JUAN5
-327| Cuento con Certificación Internacional en Diseno y Programacion de Aplicaciones. |HOF|NONE|CV_JUAN5
-328| Me he desempenado en el cargo de Programador de Paginas Web. |HOF|NONE|CV_JUAN5
-329| Solia ​​trabajar como programador de sitios web. |HOF|NONE|CV_JUAN5
-330| Soy disenador y prgramador de sitios Web para colegios y academias. |HOF|NONE|CV_JUAN5
-331| He realizado la programacion de aplicaciones moviles para restaurantes y bares. |HOF|NONE|CV_JUAN5
-332| Programo aplicaciones moviles de entretenimiento y juegos. |HOF|NONE|CV_JUAN5
-333| Programacion de aplicaciones moviles para entretenimiento y juegos. |HOF|NONE|CV_JUAN5
-334| Fui responsable del diseno e implementacion de paginas Web. |HOF|NONE|CV_JUAN5
-335| Soy programador independiente de aplicaciones moviles para pequenos negocios. |HOF|NONE|CV_JUAN5
-336| Realizo la construccion y desarrollo de aplicaciones de escritorio. |HOF|NONE|CV_JUAN5
-337| Diseno y construyo aplicaciones de escritorio de mi universidad. |HOF|NONE|CV_JUAN5
-338| Tengo experiencia laboral y estudios academicos en la programacion de aplicaciones en linea. |HOF|NONE|CV_JUAN5
-339| Cuento con experiencia laboral en el desarrollo de páginas web para clínicas y hospitales. |HOF|NONE|CV_JUAN5
-340| Tengo experiencia practica y academica en programacion de aplicaciones en linea.|HOF|NONE|CV_JUAN5
-341|Desarrollador de aplicaciones moviles en Grupo PLM. |HOF|NONE|CV_JUAN5
-342|Desarrollador de aplicaciones web en Municipalidad Provincial de San Martin. |HOF|NONE|CV_JUAN5
-343|Director Desarrollo de Aplicaciones e Infraestructura de TI en SOFTLABS. |HOF|NONE|CV_JUAN5
-344|Desarrollador Web Front End con énfasis en ReactJs. |HOF|NONE|CV_JUAN5
-345|Ingeniero de aplicaciones en INDUSTRIAL COM. |HOF|NONE|CV_JUAN5
-346|Desarrollador de aplicaciones de iOS en Yonusa. |HOF|NONE|CV_JUAN5
-347|Desarrollador de aplicaciones senior en Metaenlace Sistemas de Información. |HOF|NONE|CV_JUAN5
-348|Programador de aplicaciones web en ALTEN SPAIN. |HOF|NONE|CV_JUAN5
-349|Jefe de área de desarrollo de aplicaciones. |HOF|NONE|CV_JUAN5
-350|Especialista en Seguridad Informática de Aplicaciones Web. |HOF|NONE|CV_JUAN5
-351|Desarrollador FullStack de aplicaciones web y moviles (Python, Django, Flask, Devops). |HOF|NONE|CV_JUAN5
-352|Tecnico superior en Desarrollo de Aplicaciones Web(Java-Springboot).  |HOF|NONE|CV_JUAN5
-353|Programador web en Avalisto. |HOF|NONE|CV_JUAN5
-354|Desarrollador de Software - JavaScript | Python | Express | Django | React. |HOF|NONE|CV_JUAN5
-355|Desarrollador De Software en TTN Company. |HOF|NONE|CV_JUAN5
-356|Desarrollador de software en Telefónica Soluciones de Criptografía S.A. |HOF|NONE|CV_JUAN5
-357|Desarrollador de aplicaciones en OIM. |HOF|NONE|CV_JUAN5
-358|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
-359|soy analista funcional para pruebas de alto nivel|NOT|NONE|CV_JUAN4
-360|administrador de base de datos oracle 12c|NOT|NONE|CV_JUAN4
-361|genero documentacion para proyectos informaticos|NOT|NONE|CV_JUAN4
-362|motivador y coatch para proyectos informaticos|NOT|NONE|CV_JUAN4
-363|contador publico para proyectos informaticos|NOT|NONE|CV_JUAN4
-364|desarrollo de muebles de melanine |NOT|NONE|CV_JUAN4
-365|terapeuta para desrrollo motivacional en proyectos de alto nivel|NOT|NONE|CV_JUAN4
-366|administrador de empresa y proyectos informaticos|NOT|NONE|CV_JUAN4
-367|creo y gestion base de datos desnormalizando|NOT|NONE|CV_JUAN4
-368|analista para aplicaciones de desarrollo de software |NOT|NONE|CV_JUAN4
-369|operador de maquinaria pesada para construccion civil|NOT|NONE|CV_JUAN4
-370|realizo pruebas de calidad para software legacy |NOT|NONE|CV_JUAN4
-371|Hago analisis y pruebo aplicaciones|NOT|NONE|CV_JUAN4
-372|Implantar software para mejorar la  empresa|NOT|NONE|CV_JUAN4
-373|Diseñar metricas para analisis de software|NOT|NONE|CV_JUAN4
-374|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
-375|Analista de empresas con diplomado en desarrollo|NOT|NONE|CV_JUAN4
-376|Analizo y pruebo la aplicacion|NOT|NONE|CV_JUAN4
-377|Implementar software para mejorar el negocio|NOT|NONE|CV_JUAN4
-378|Metricas de diseño para analisis de software|NOT|NONE|CV_JUAN4
-379|Escanear paginas web en busca de vulnerabilidades|NOT|NONE|CV_JUAN4
-380|Analista de negocios con diplomado en desarrollo.|NOT|NONE|CV_JUAN4
-381|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
-382|soy analista utilitario para pruebas de vasto altitud|NOT|NONE|CV_JUAN4
-383|delegado de cojin de datos oracle 12c|NOT|NONE|CV_JUAN4
-384|genero documentacion para proyectos informaticos|NOT|NONE|CV_JUAN4
-385|motivador y coatch para proyectos informaticos|NOT|NONE|CV_JUAN4
-386|comprobador publico para proyectos informaticos|NOT|NONE|CV_JUAN4
-387|grana de muebles de melanine|NOT|NONE|CV_JUAN4
-388|cirujano para desrrollo motivacional en proyectos de vasto altitud|NOT|NONE|CV_JUAN4
-389|delegado de engendro y proyectos informaticos|NOT|NONE|CV_JUAN4
-390|creo y gestion cojin de datos desnormalizando|NOT|NONE|CV_JUAN4
-391|analista para aplicaciones de grana de programa|NOT|NONE|CV_JUAN4
-392|camara de maquina pesada para construccion mundano|NOT|NONE|CV_JUAN4
-393|realizo pruebas de especie para programa legacy|NOT|NONE|CV_JUAN4
-394|Hago analisis y pruebo aplicaciones|NOT|NONE|CV_JUAN4
-395|Implantar programa para recuperarse la engendro|NOT|NONE|CV_JUAN4
-396|Diseñar metricas para analisis de programa|NOT|NONE|CV_JUAN4
-397|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
-398|Analista de empresas con graduado en grana|NOT|NONE|CV_JUAN4
-399|Analizo y pruebo la teson|NOT|NONE|CV_JUAN4
-400|Implementar programa para recuperarse el operacion|NOT|NONE|CV_JUAN4
-401|Metricas de borrador para explicacion de programa|NOT|NONE|CV_JUAN4
-402|Escanear paginas web en pesquisa de vulnerabilidades|NOT|NONE|CV_JUAN4
-403|Analista de negocios con graduado en grana. |NOT|NONE|CV_JUAN4
-404|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
-405|soy analista sencillo para pruebas de conspicuo altura|NOT|NONE|CV_JUAN4
-406|mandatario de saco de datos oracle 12c|NOT|NONE|CV_JUAN4
-407|genero documentacion para proyectos informaticos|NOT|NONE|CV_JUAN4
-408|motivador y coatch para proyectos informticos|NOT|NONE|CV_JUAN4
-409|registrador publico para proyectos informaticos|NOT|NONE|CV_JUAN4
-410|granazon de muebles de melanine|NOT|NONE|CV_JUAN4
-411|prudencial para desrrollo motivacional en proyectos de conspicuo altura|NOT|NONE|CV_JUAN4
-412|mandatario de ente y proyectos informaticos|NOT|NONE|CV_JUAN4
-413|creo y gestion saco de datos desnormalizando|NOT|NONE|CV_JUAN4
-414|analista para aplicaciones de granazon de programa|NOT|NONE|CV_JUAN4
-415|camara de dispositivo pesada para construccion ignorante|NOT|NONE|CV_JUAN4
-416|realizo pruebas de raza para programa legacy|NOT|NONE|CV_JUAN4
-417|Hago analisis y pruebo aplicaciones|NOT|NONE|CV_JUAN4
-418|Implantar programa para recobrarse la ente|NOT|NONE|CV_JUAN4
-419|Diseñar metricas para analisis de programa|NOT|NONE|CV_JUAN4
-420|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
-421|Analista de empresas con graduado en granazon|NOT|NONE|CV_JUAN4
-422|Analizo y pruebo la tenacidad|NOT|NONE|CV_JUAN4
-423|Implementar programa para recobrarse el operacion|NOT|NONE|CV_JUAN4
-424|Metricas de proyecto para interpretacion de programa|NOT|NONE|CV_JUAN4
-425|Escanear paginas web en rastreo de vulnerabilidades|NOT|NONE|CV_JUAN4
-426|Analista de negocios con graduado en granazon.|NOT|NONE|CV_JUAN4
-427|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
-428|soy analista coche para pruebas de noble cota|NOT|NONE|CV_JUAN4
-429|representante de base de datos oracle 12c|NOT|NONE|CV_JUAN4
-430|genero documentacion para proyectos informaticos|NOT|NONE|CV_JUAN4
-431|motivador y coatch para proyectos informticos|NOT|NONE|CV_JUAN4
-432|medidor publico para proyectos informaticos|NOT|NONE|CV_JUAN4
-433|desarrollo de muebles de melanine|NOT|NONE|CV_JUAN4
-434|protestativo para desrrollo motivacional en proyectos de noble cota|NOT|NONE|CV_JUAN4
-435|representante de espantajo y proyectos informaticos|NOT|NONE|CV_JUAN4
-436|creo y gestion base de datos desnormalizando|NOT|NONE|CV_JUAN4
-437|analista para aplicaciones de desarrollo de software|NOT|NONE|CV_JUAN4
-438|alcoba de dispositivo pesada para construccion iletrado|NOT|NONE|CV_JUAN4
-439|realizo pruebas de variedad para software legacy|NOT|NONE|CV_JUAN4
-440|Hago analisis y pruebo aplicaciones|NOT|NONE|CV_JUAN4
-441|Implantar software para curar la espantajo|NOT|NONE|CV_JUAN4
-442|Diseñar metricas para analisis de software|NOT|NONE|CV_JUAN4
-443|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
-444|Analista de empresas con titulado en desarrollo|NOT|NONE|CV_JUAN4
-445|Analizo y pruebo la ahinco|NOT|NONE|CV_JUAN4
-446|Implementar software para curar el importaci|NOT|NONE|CV_JUAN4on
-447|Metricas de bosquejo para definicion de software|NOT|NONE|CV_JUAN4
-448|Escanear paginas web en indagacion de vulnerabilidades|NOT|NONE|CV_JUAN4
-449|Analista de negocios con titulado en desarrollo.|NOT|NONE|CV_JUAN4
-450|Health service manager|NOT|NONE|CV_JUAN4
-451|Analista Funcional en Conxultiva Digital S.A.C.|NOT|NONE|CV_JUAN4
-452|Analista Funcional QA en Stefanini - CSM|NOT|NONE|CV_JUAN4
-453|Jefe de Operacion , Administrador de Contrato|NOT|NONE|CV_JUAN4
-454|Coordinadora de Tripulantes de Cabina Iniciales en Latam Airlines Peru|NOT|NONE|CV_JUAN4
-455|EXPORTACIONES E IMPORTACIONES EMPERATRIZ S.R.L.TDA.|NOT|NONE|CV_JUAN4
-456|ADMINISTRADOR ESTUDIOS TeCNICOS|NOT|NONE|CV_JUAN4
-457|Analista Funcional en Eterniasoft|NOT|NONE|CV_JUAN4
-458|Analista funcional SAP|NOT|NONE|CV_JUAN4
-459|Consultor Funcional,Tecnico SAP, Peru|NOT|NONE|CV_JUAN4
-460|Data Governance, Data Quality , Data Management|NOT|NONE|CV_JUAN4
-461|Analista Funcional en Stefanini LATAM|NOT|NONE|CV_JUAN4
-462|Analista Funcional,Procesos (BPM Expert en CAC-TI)|NOT|NONE|CV_JUAN4
-463|Jefe de sistemas en Grupo Vivargo S.A.C.|NOT|NONE|CV_JUAN4
-464|Analista Funcional SAP|NOT|NONE|CV_JUAN4
-465|Jefe Funcional de Servicios de Gestion de Aplicaciones en Omnia Solution S.A.C.|NOT|NONE|CV_JUAN4
-466|ANALISTA DE CALIDAD - CANVIA|NOT|NONE|CV_JUAN4
-467|Product Owner|NOT|NONE|CV_JUAN4
-468|Consultor Funcional Global|NOT|NONE|CV_JUAN4
-469|Analista Funcional Senior en Tismart|NOT|NONE|CV_JUAN4
-470|Analista de Requerimientos|NOT|NONE|CV_JUAN4
-471|Bachiller de Ingenieria de Sistemas|NOT|NONE|CV_JUAN4
-472|Analista Funcional CRM|NOT|NONE|CV_JUAN4
-473|Analista Funcional en Seidor|NOT|NONE|CV_JUAN4
-474|Delivery Excellence Partner en Tata Consultancy Services|NOT|NONE|CV_JUAN4
-475|Ing. de Sistemas, Analista Funcional |NOT|NONE|CV_JUAN4
-476|Analista DBA en Seguro Social de Salud - EsSalud|NOT|NONE|CV_JUAN4
-477|Analista Funcional Tecnico en Tecnocom S.A.|NOT|NONE|CV_JUAN4
-478|Gerente de Operaciones en excelia|NOT|NONE|CV_JUAN4
-479|Analista Senior de modelos de riesgos en Interbank|NOT|NONE|CV_JUAN4
-480|Consultor Senior - Devops|NOT|NONE|CV_JUAN4
-481|Consultor de sistemas de TI |NOT|NONE|CV_JUAN4
-482|PLANEADOR Y PROGRAMADOR DE MANTENIMIENTO en YOBEL SCM|NOT|NONE|CV_JUAN4
-483|Automation Quality Engineer ISTQB-CTFL ISTQB-CTAL-TAE  AZ-900  SFPC|NOT|NONE|CV_JUAN4
-484|Especialista en Tecnologias Emergentes, CATALYZE Peru, The Palladium Group LLC|NOT|NONE|CV_JUAN4
-485|Administrador en Acurio Restaurantes|NOT|NONE|CV_JUAN4
-486|Administrador en GESTION Y SERVICIOS GENERALES AQP-SUR S.A.C.|NOT|NONE|CV_JUAN4
-487|Administrador|NOT|NONE|CV_JUAN4
-488|Administrador de base de datos en INEI- Instituto Nacional de Estadistica e Informatica|NOT|NONE|CV_JUAN4
-489|Administrador de Obra|NOT|NONE|CV_JUAN4
-490|Administrador de operaciones en FLSmidth|NOT|NONE|CV_JUAN4
-491|Jefe de Linea - Comercial en Sodimac Peru|NOT|NONE|CV_JUAN4
-492|Ingeniero de NOC-SOC en Grupo Electrodata (E-data)|NOT|NONE|CV_JUAN4
-493|Jefe de Operaciones en Diviso Bolsa SAB|NOT|NONE|CV_JUAN4
-494|Jefe de Almacen en Emotion Group Peru S.A.C|NOT|NONE|CV_JUAN4
-495|Gerente de Administracion y Finanzas|NOT|NONE|CV_JUAN4
-496|Licenciado en administracion|NOT|NONE|CV_JUAN4
-497|Administrador de Empresas - Posgrado en Gestion Ambiental|NOT|NONE|CV_JUAN4
-498|Administrador de operaciones en P&R World Services SAC|NOT|NONE|CV_JUAN4
-499|Business Developer en ECOVIS PERU|NOT|NONE|CV_JUAN4
-500|Gerente de Salud|NOT|NONE|CV_JUAN4
-501|Conxultiva Digital S.A.C. analista funcional|NOT|NONE|CV_JUAN4
-502|Analista Funcional de Garantia de Calidad en Stefanini - CSM|NOT|NONE|CV_JUAN4
-503|Director de Operaciones, Administrador de Contratos|NOT|NONE|CV_JUAN4
-504|El coordinador de tripulacion original de Peruvian Airlines|NOT|NONE|CV_JUAN4
-505|Importacion y Exportacion EMPERATRIZ S.R.L.TDA. administrador de investigacion tecnica|NOT|NONE|CV_JUAN4
-506|Analista Funcional en Eterniasoft|NOT|NONE|CV_JUAN4
-507|Analista Funcional SAP|NOT|NONE|CV_JUAN4
-508|Consultor Funcional, Tecnico SAP, Peru|NOT|NONE|CV_JUAN4
-509|Gestion de datos, calidad de datos, gobierno de datos|NOT|NONE|CV_JUAN4
-510|Stefanini LATAM Analista Funcional|NOT|NONE|CV_JUAN4
-511|Analista de funciones de procesos (especialista en BPM CAC-IT)|NOT|NONE|CV_JUAN4
-512|Gerente de Sistemas Grupo Vivargo S.A.C.|NOT|NONE|CV_JUAN4
-513|Analista Funcional SAP|NOT|NONE|CV_JUAN4
-514|Jefe de Servicios de Gestion de Aplicaciones, Omnia Solution S.A.C.|NOT|NONE|CV_JUAN4
-515|Analista de calidad - CANVIA|NOT|NONE|CV_JUAN4
-516|dueno del producto|NOT|NONE|CV_JUAN4
-517|Consultor Funcional Global|NOT|NONE|CV_JUAN4
-518|Analista senior de reportajes en Tismart|NOT|NONE|CV_JUAN4
-519|analista de demanda|NOT|NONE|CV_JUAN4
-520|Licenciatura en Ingenieria de Sistemas|NOT|NONE|CV_JUAN4
-521|analista funcional CRM|NOT|NONE|CV_JUAN4
-522|analista funcional de seidor|NOT|NONE|CV_JUAN4
-523|Un gran socio de entrega para Tata Consultancy Services|NOT|NONE|CV_JUAN4
-524|ing Analista Funcional de Sistemas|NOT|NONE|CV_JUAN4
-525| Analista DBA Social Sygesikring - EsSalud|NOT|NONE|CV_JUAN4
-526|Analista de Funciones Tecnicas, Tecnocom S.A.|NOT|NONE|CV_JUAN4
-527|Gerente de Operaciones Excelia|NOT|NONE|CV_JUAN4
-528|Analista Senior de Modelo de Riesgo Interbancario|NOT|NONE|CV_JUAN4
-529|Consultor Senior - DevOps|NOT|NONE|CV_JUAN4
-530|consultor de sistemas informaticos|NOT|NONE|CV_JUAN4
-531|YOBEL SCM Planificador y Despachador de Mantenimiento|NOT|NONE|CV_JUAN4
-532|Ingeniero de Calidad en Automatizacion ISTQB-CTFL ISTQB-CTAL-TAE AZ-900 SFPC|NOT|NONE|CV_JUAN4
-533|Especialista en Nuevas Tecnologias, CATALYZE Peru, The Palladium Group LLC|NOT|NONE|CV_JUAN4
-534|Gerente restaurante Acurio|NOT|NONE|CV_JUAN4
-535|GESTIoN Y SERVICIOS GENERALES AQP-SUR S.A.C. Administrador|NOT|NONE|CV_JUAN4
-536|Personal administrativo|NOT|NONE|CV_JUAN4
-537|INEI - Administrador de Base de Datos del Instituto Nacional de Informacion Estadistica|NOT|NONE|CV_JUAN4
-538|gerente de construccion|NOT|NONE|CV_JUAN4
-539|Gerente de operaciones de FLSmidth|NOT|NONE|CV_JUAN4
-540|Gerente Online - Empresa Comercial Sodimac Peru|NOT|NONE|CV_JUAN4
-541|Ingeniero NOC-SOC en Electrodata Group (E-data)|NOT|NONE|CV_JUAN4
-542|Director de Operaciones Diviso Bolsa SAB|NOT|NONE|CV_JUAN4
-543|Jefe de Almacen, Emotion Group Peru S.A.C.|NOT|NONE|CV_JUAN4
-544|Jefe del Departamento de Administracion y Finanzas|NOT|NONE|CV_JUAN4
-545|Licenciatura en Ciencias Administrativas|NOT|NONE|CV_JUAN4
-546|Administrador de empresas - Gestion ambiental calificada|NOT|NONE|CV_JUAN4
-547|Gerente de Operaciones, P&R World Services SAC|NOT|NONE|CV_JUAN4
-548|DESARROLLADOR DE NEGOCIOS ECOVIS PERU|NOT|NONE|CV_JUAN4
-549|Health service manager|NOT|NONE|CV_JUAN4
-550|Analista Funcional en Conxultiva Digital S.A.C.|NOT|NONE|CV_JUAN4
-551|Analista Funcional QA en Stefanini - CSM|NOT|NONE|CV_JUAN4
-552|Jefe de Operacion , Administrador de Contrato|NOT|NONE|CV_JUAN4
-553|Coordinadora de Tripulantes de Cabina Iniciales en Latam Airlines Peru|NOT|NONE|CV_JUAN4
-554|EXPORTACIONES E IMPORTACIONES EMPERATRIZ S.R.L.TDA.|NOT|NONE|CV_JUAN4
-555|ADMINISTRADOR ESTUDIOS TeCNICOS|NOT|NONE|CV_JUAN4
-556|Analista Funcional en Eterniasoft|NOT|NONE|CV_JUAN4
-557|Analista funcional SAP|NOT|NONE|CV_JUAN4
-558|Consultor Funcional,Tecnico SAP, Peru|NOT|NONE|CV_JUAN4
-559|Data Governance, Data Quality , Data Management|NOT|NONE|CV_JUAN4
-560|Analista Funcional en Stefanini LATAM|NOT|NONE|CV_JUAN4
-561|Analista Funcional,Procesos (BPM Expert en CAC-TI)|NOT|NONE|CV_JUAN4
-562|Jefe de sistemas en Grupo Vivargo S.A.C.|NOT|NONE|CV_JUAN4
-563|Analista Funcional SAP|NOT|NONE|CV_JUAN4
-564|Jefe Funcional de Servicios de Gestion de Aplicaciones en Omnia Solution S.A.C.|NOT|NONE|CV_JUAN4
-565|ANALISTA DE CALIDAD - CANVIA|NOT|NONE|CV_JUAN4
-566|Product Owner|NOT|NONE|CV_JUAN4
-567|Consultor Funcional Global|NOT|NONE|CV_JUAN4
-568|Analista Funcional Senior en Tismart|NOT|NONE|CV_JUAN4
-569|Analista de Requerimientos|NOT|NONE|CV_JUAN4
-570|Bachiller de Ingenieria de Sistemas|NOT|NONE|CV_JUAN4
-571|Analista Funcional CRM|NOT|NONE|CV_JUAN4
-572|Analista Funcional en Seidor|NOT|NONE|CV_JUAN4
-573|Delivery Excellence Partner en Tata Consultancy Services|NOT|NONE|CV_JUAN4
-574|Ing. de Sistemas, Analista Funcional |NOT|NONE|CV_JUAN4
-575|Analista DBA en Seguro Social de Salud - EsSalud|NOT|NONE|CV_JUAN4
-576|Analista Funcional Tecnico en Tecnocom S.A.|NOT|NONE|CV_JUAN4
-577|Gerente de Operaciones en excelia|NOT|NONE|CV_JUAN4
-578|Analista Senior de modelos de riesgos en Interbank|NOT|NONE|CV_JUAN4
-579|Consultor Senior - Devops|NOT|NONE|CV_JUAN4
-580|Consultor de sistemas de TI |NOT|NONE|CV_JUAN4
-581|PLANEADOR Y PROGRAMADOR DE MANTENIMIENTO en YOBEL SCM|NOT|NONE|CV_JUAN4
-582|Automation Quality Engineer ISTQB-CTFL ISTQB-CTAL-TAE  AZ-900  SFPC|NOT|NONE|CV_JUAN4
-583|Especialista en Tecnologias Emergentes, CATALYZE Peru, The Palladium Group LLC|NOT|NONE|CV_JUAN4
-584|Administrador en Acurio Restaurantes|NOT|NONE|CV_JUAN4
-585|Administrador en GESTION Y SERVICIOS GENERALES AQP-SUR S.A.C.|NOT|NONE|CV_JUAN4
 586|Administrador|NOT|NONE|CV_JUAN4
-587|Administrador de base de datos en INEI- Instituto Nacional de Estadistica e Informatica|NOT|NONE|CV_JUAN4
-588|Administrador de Obra|NOT|NONE|CV_JUAN4
+138|Especialista funcional tecnico en Grupo Educa_d|HOF|NONE|CV_JUAN5
+129|Analista Programador en Industria Grafica Cimagraf|HOF|NONE|CV_JUAN5
+474|Delivery Excellence Partner en Tata Consultancy Services|NOT|NONE|CV_JUAN4
+511|Analista de funciones de procesos (especialista en BPM CAC-IT)|NOT|NONE|CV_JUAN4
+378|Metricas de diseño para analisis de software|NOT|NONE|CV_JUAN4
+65| Desarrolladores de aplicaciones web y de escritorio |HOF|NONE|CV_JUAN5
+506|Analista Funcional en Eterniasoft|NOT|NONE|CV_JUAN4
 589|Administrador de operaciones en FLSmidth|NOT|NONE|CV_JUAN4
-590|Jefe de Linea - Comercial en Sodimac Peru|NOT|NONE|CV_JUAN4
-591|Ingeniero de NOC-SOC en Grupo Electrodata (E-data)|NOT|NONE|CV_JUAN4
-592|Jefe de Operaciones en Diviso Bolsa SAB|NOT|NONE|CV_JUAN4
-593|Jefe de Almacen en Emotion Group Peru S.A.C|NOT|NONE|CV_JUAN4
-594|Gerente de Administracion y Finanzas|NOT|NONE|CV_JUAN4
-595|Licenciado en administracion|NOT|NONE|CV_JUAN4
-596|Administrador de Empresas - Posgrado en Gestion Ambiental|NOT|NONE|CV_JUAN4
-597|Administrador de operaciones en P&R World Services SAC|NOT|NONE|CV_JUAN4
-598|Business Developer en ECOVIS PERU|NOT|NONE|CV_JUAN4
-599|Gerente de Salud|NOT|NONE|CV_JUAN4
-600|Conxultiva Digital S.A.C. analista funcional|NOT|NONE|CV_JUAN4
-601|Analista Funcional de Garantia de Calidad en Stefanini - CSM|NOT|NONE|CV_JUAN4
-602|Director de Operaciones, Administrador de Contratos|NOT|NONE|CV_JUAN4
-603|El coordinador de tripulacion original de Peruvian Airlines|NOT|NONE|CV_JUAN4
+21|Me ocupo de analitica y aplicaciones web|HOF|NONE|CV_JUAN5
 604|Importacion y Exportacion EMPERATRIZ S.R.L.TDA. administrador de investigacion tecnica|NOT|NONE|CV_JUAN4
-605|Analista Funcional en Eterniasoft|NOT|NONE|CV_JUAN4
-606|Analista Funcional SAP|NOT|NONE|CV_JUAN4
-607|Consultor Funcional, Tecnico SAP, Peru|NOT|NONE|CV_JUAN4
-608|Gestion de datos, calidad de datos, gobierno de datos|NOT|NONE|CV_JUAN4
-609|Stefanini LATAM Analista Funcional|NOT|NONE|CV_JUAN4
-610|Analista de funciones de procesos (especialista en BPM CAC-IT)|NOT|NONE|CV_JUAN4
-611|Gerente de Sistemas Grupo Vivargo S.A.C.|NOT|NONE|CV_JUAN4
-612|Analista Funcional SAP|NOT|NONE|CV_JUAN4
-613|Jefe de Servicios de Gestion de Aplicaciones, Omnia Solution S.A.C.|NOT|NONE|CV_JUAN4
-614|Analista de calidad - CANVIA|NOT|NONE|CV_JUAN4
-615|dueno del producto|NOT|NONE|CV_JUAN4
-616|Consultor Funcional Global|NOT|NONE|CV_JUAN4
-617|Analista senior de reportajes en Tismart|NOT|NONE|CV_JUAN4
-618|analista de demanda|NOT|NONE|CV_JUAN4
-619|Licenciatura en Ingenieria de Sistemas|NOT|NONE|CV_JUAN4
-620|analista funcional CRM|NOT|NONE|CV_JUAN4
-621|analista funcional de seidor|NOT|NONE|CV_JUAN4
-622|Un gran socio de entrega para Tata Consultancy Services|NOT|NONE|CV_JUAN4
-623|ing Analista Funcional de Sistemas|NOT|NONE|CV_JUAN4
-624| Analista DBA Social Sygesikring - EsSalud|NOT|NONE|CV_JUAN4
-625|Analista de Funciones Tecnicas, Tecnocom S.A.|NOT|NONE|CV_JUAN4
-626|Gerente de Operaciones Excelia|NOT|NONE|CV_JUAN4
-627|Analista Senior de Modelo de Riesgo Interbancario|NOT|NONE|CV_JUAN4
-628|Consultor Senior - DevOps|NOT|NONE|CV_JUAN4
-629|consultor de sistemas informaticos|NOT|NONE|CV_JUAN4
-630|YOBEL SCM Planificador y Despachador de Mantenimiento|NOT|NONE|CV_JUAN4
-631|Ingeniero de Calidad en Automatizacion ISTQB-CTFL ISTQB-CTAL-TAE AZ-900 SFPC|NOT|NONE|CV_JUAN4
-632|Especialista en Nuevas Tecnologias, CATALYZE Peru, The Palladium Group LLC|NOT|NONE|CV_JUAN4
-633|Gerente restaurante Acurio|NOT|NONE|CV_JUAN4
-634|GESTIoN Y SERVICIOS GENERALES AQP-SUR S.A.C. Administrador|NOT|NONE|CV_JUAN4
-635|Personal administrativo|NOT|NONE|CV_JUAN4
-636|INEI - Administrador de Base de Datos del Instituto Nacional de Informacion Estadistica|NOT|NONE|CV_JUAN4
-637|gerente de construccion|NOT|NONE|CV_JUAN4
-638|Gerente de operaciones de FLSmidth|NOT|NONE|CV_JUAN4
-639|Gerente Online - Empresa Comercial Sodimac Peru|NOT|NONE|CV_JUAN4
-640|Ingeniero NOC-SOC en Electrodata Group (E-data)|NOT|NONE|CV_JUAN4
-641|Director de Operaciones Diviso Bolsa SAB|NOT|NONE|CV_JUAN4
-642|Jefe de Almacen, Emotion Group Peru S.A.C.|NOT|NONE|CV_JUAN4
-643|Jefe del Departamento de Administracion y Finanzas|NOT|NONE|CV_JUAN4
-644|Licenciatura en Ciencias Administrativas|NOT|NONE|CV_JUAN4
-645|Administrador de empresas - Gestion ambiental calificada|NOT|NONE|CV_JUAN4
-646|Gerente de Operaciones, P&R World Services SAC|NOT|NONE|CV_JUAN4
-647|DESARROLLADOR DE NEGOCIOS ECOVIS PERU|NOT|NONE|CV_JUAN4
-648|Desarrollo proyectos civiles para entidades privadas y estatales |NOT|NONE|CV_JUAN4
-649|Soy analista de ensayos de laboratorio y metrología. |NOT|NONE|CV_JUAN4
-650|Me desempene como vendedor en una tienda de informatica y dispositivos electronicos  |NOT|NONE|CV_JUAN4
-651|Tengo conocimientos de diseño de estructuras mecánicas y uso de software de simulación |NOT|NONE|CV_JUAN4
-652|He desarrollado planes y programación de actividades de mantenimiento |NOT|NONE|CV_JUAN4
-653|Me he desempenado como analista, planificador y programador de gestión de mantenimiento en la empresa Kallpa |NOT|NONE|CV_JUAN4
-654|Realizo programacion de controladores de operación y de seguridad para turbinas de gas natural.  |NOT|NONE|CV_JUAN4
-655|Tengo como responsabilidades el modelamiento y programación de controladores MCP para molinos SAG. |NOT|NONE|CV_JUAN4
-656|He desarrollado proyectos de Up grade en la Subestación Electrica  y actualizacion del software de los reles de proteccion. |NOT|NONE|CV_JUAN4
-657|Realizo la programacion de visitas a lugares turisiticos. |NOT|NONE|CV_JUAN4
-658|Analista de procesos mineros.  |NOT|NONE|CV_JUAN4
-659|Desarrollo de planes y programas de inspección a comedores. |NOT|NONE|CV_JUAN4
-660|Dicto clases de control de procesos usando software avanzado. |NOT|NONE|CV_JUAN4
-661|Soy analista de marketing. |NOT|NONE|CV_JUAN4
-662|Cuento con certificaciones en programacion de PLC. |NOT|NONE|CV_JUAN4
-663|He trabajado como Analista de Sistemas Integrados de Gestion |NOT|NONE|CV_JUAN4
-664|Utilizacion de software avanzado para el conteo de ganado. |NOT|NONE|CV_JUAN4
-665|Utilizo un software desarrollador de integrales complejas para el dictado de clases . |NOT|NONE|CV_JUAN4
-666|Actualmente me desempeño como programador de paradas de planta |NOT|NONE|CV_JUAN4
-667|Desarrollo de programas de atencion domiciliaria. |NOT|NONE|CV_JUAN4
-668|Estoy trabajando como ingeniero de control y aplicaciones avanzadas de planta. |NOT|NONE|CV_JUAN4
-669|Realizo pruebas de aplicaciones y programas de entretenimiento . |NOT|NONE|CV_JUAN4
-670|Desarrollo programas de asistencia medica a domicilio. |NOT|NONE|CV_JUAN4
-671|Desarrollo de calibraciones segun el programa de mantenimiento |NOT|NONE|CV_JUAN4
-672|Venta de productos de informatica y software para ingenieros |NOT|NONE|CV_JUAN4
-673|Programacion de examenes de informatica y electronica  |NOT|NONE|CV_JUAN4
-674|Uso de aplicaciones moviles para entrevistas a clientes |NOT|NONE|CV_JUAN4
-675|Cuento con conocimientos en el uso de aplicaciones de escritorio para ventas |NOT|NONE|CV_JUAN4
-676|Tengo certificaciones en el uso de software y aplicaciones avanzadas en metrologia |NOT|NONE|CV_JUAN4
-677|Uso de aplicaciones web para el dictado de clases |NOT|NONE|CV_JUAN4
-678|Desarrollo de cálculos estadísticos utilizando software dedicado. |NOT|NONE|CV_JUAN4
-679|Cotizaciones con empresas desarrolladoras de software e informatica |NOT|NONE|CV_JUAN4
-680|Analista de ventas de equipos para aplicaciones médicas |NOT|NONE|CV_JUAN4
-681|Actualmente trabajo como secretaria y tengo conocimientos de informática. |NOT|NONE|CV_JUAN4
-682|Desarrollo de calculos estadisticos usando software especializado |NOT|NONE|CV_JUAN4
-683|Simulaciones de estructuras mecanicas usando software avanzado|NOT|NONE|CV_JUAN4
-684|Soy ingeniero de sistemas encargado del curso de Ciencias Informaticas I.|NOT|NONE|CV_JUAN4
-685|Actualmente trabajo como secretaria, cuento con conocimientos en computacion.|NOT|NONE|CV_JUAN4
-686|Programacion de sistemas de alarmas en domicilios.|NOT|NONE|CV_JUAN4
-687|Venta de pintura para aplicaciones marinas.|NOT|NONE|CV_JUAN4
+114|Analista, Desarrollador, Programador en Apoyo Total|HOF|NONE|CV_JUAN5
+53| Introduccion a los Desarrolladores de Aplicaciones Web. |HOF|NONE|CV_JUAN5
 688|Uso de aplicaciones web para evaluacion psicologica |NOT|NONE|CV_JUAN4
-689|Economista independiente con certificaciones en sistemas de analisis financieros en aplicaciones de gobierno.  |NOT|NONE|CV_JUAN4
-690|Venta de aplicaciones de escritorio y moviles para analistas de seguros  |NOT|NONE|CV_JUAN4
-691|Desarrollo programas de inspección de materiales en almacen |NOT|NONE|CV_JUAN4
-692|Gerente de Gestion de Aplicaciones at Banco de Credito BCP. |NOT|NONE|CV_JUAN4
-693|Programadora cinematografica, jurado de festivales, desarrolla contenidos audiovisuales. |NOT|NONE|CV_JUAN4
-694|Programadora en Viajes Cubanacan.  |NOT|NONE|CV_JUAN4
-695|Programadora de Planificacion y Control de Proyecto en AESA. |NOT|NONE|CV_JUAN4
-696|Ingeniero Senior de Negocios y Aplicaciones de Ingredientes. |NOT|NONE|CV_JUAN4
-697|Consultor de internet Marketing. |NOT|NONE|CV_JUAN4
-698|Gerente de aplicaciones de negocio en OCA.|NOT|NONE|CV_JUAN4
-699|Inspector de Seguridad Radiologica para aplicaciones medicas. |NOT|NONE|CV_JUAN4
+539|Gerente de operaciones de FLSmidth|NOT|NONE|CV_JUAN4
+207|Analista Programador en Accenture Technology Solutions (Coritel)|HOF|NONE|CV_JUAN5
+3|Desarrollador de aplicaciones web y desktop |HOF|NONE|CV_JUAN5
+49| Desarrollador de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
+668|Estoy trabajando como ingeniero de control y aplicaciones avanzadas de planta. |NOT|NONE|CV_JUAN4
+158|Analistas de Coritel Technical Solutions (CORITEL)|HOF|NONE|CV_JUAN5
 700|Ingeniero programador de mantenimiento en Metso Outotec. |NOT|NONE|CV_JUAN4
+189|Supervisor del proyecto del financiador Credink|HOF|NONE|CV_JUAN5
+316| Tengo conocimientos solidos en diseno y programacion de aplicaciones en linea. |HOF|NONE|CV_JUAN5
+643|Jefe del Departamento de Administracion y Finanzas|NOT|NONE|CV_JUAN4
+152|Una pila completa de programador|HOF|NONE|CV_JUAN5
+150|Gesnext -analyst|HOF|NONE|CV_JUAN5
+567|Consultor Funcional Global|NOT|NONE|CV_JUAN4
+523|Un gran socio de entrega para Tata Consultancy Services|NOT|NONE|CV_JUAN4
+87| Analista de software  web |HOF|NONE|CV_JUAN5
+325| Tengo 5 anos de experiencia en la implementacion de paginas Web para negocios y pymes. |HOF|NONE|CV_JUAN5
+525| Analista DBA Social Sygesikring - EsSalud|NOT|NONE|CV_JUAN4
+662|Cuento con certificaciones en programacion de PLC. |NOT|NONE|CV_JUAN4
+493|Jefe de Operaciones en Diviso Bolsa SAB|NOT|NONE|CV_JUAN4
+284|Cimagraf para cumplir ya|HOF|NONE|CV_JUAN5
+690|Venta de aplicaciones de escritorio y moviles para analistas de seguros  |NOT|NONE|CV_JUAN4
+516|dueno del producto|NOT|NONE|CV_JUAN4
+294|Gerentes de bases de datos y desarrolladores de software|HOF|NONE|CV_JUAN5
+134|Solutions Analyst en everis Peru|HOF|NONE|CV_JUAN5
+374|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
+635|Personal administrativo|NOT|NONE|CV_JUAN4
+68| Desarrollador de aplicaciones web  |HOF|NONE|CV_JUAN5
+311| Estoy disenando y construyendo un sitio web en mi actual compañia. |HOF|NONE|CV_JUAN5
+534|Gerente restaurante Acurio|NOT|NONE|CV_JUAN4
+356|Desarrollador de software en Telefónica Soluciones de Criptografía S.A. |HOF|NONE|CV_JUAN5
+234|Analista programador en Asociacion Cultural Peruano Britanica (Britanico)|HOF|NONE|CV_JUAN5
+51| Desarrolladores de aplicaciones web y analistas de software |HOF|NONE|CV_JUAN5
+566|Product Owner|NOT|NONE|CV_JUAN4
+38|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
+519|analista de demanda|NOT|NONE|CV_JUAN4
+334| Fui responsable del diseno e implementacion de paginas Web. |HOF|NONE|CV_JUAN5
+204|Especialista en Plataformas de Integridad en Presidencia del Consejo de Ministros |HOF|NONE|CV_JUAN5
+324| Soy jefe del departamento de Informatica y Desarrollo de Aplicaciones en la empresa que actualmente laboro. |HOF|NONE|CV_JUAN5
+609|Stefanini LATAM Analista Funcional|NOT|NONE|CV_JUAN4
+645|Administrador de empresas - Gestion ambiental calificada|NOT|NONE|CV_JUAN4
+188|Android -Wltecs Kotlin -Program Analyst|HOF|NONE|CV_JUAN5
+670|Desarrollo programas de asistencia medica a domicilio. |NOT|NONE|CV_JUAN4
+209|Analista Programador Senior en MAPFRE|HOF|NONE|CV_JUAN5
+322| En la actualidad me desempeño como Analista Senior de Software en la Cia. Devon Energy. |HOF|NONE|CV_JUAN5
+318| Realizo programacion de aplicaciones moviles de entretenimiento y para el uso educativo. |HOF|NONE|CV_JUAN5
+385|motivador y coatch para proyectos informaticos|NOT|NONE|CV_JUAN4
+151|Desarrollador de redes de Softtek|HOF|NONE|CV_JUAN5
+354|Desarrollador de Software - JavaScript | Python | Express | Django | React. |HOF|NONE|CV_JUAN5
+521|analista funcional CRM|NOT|NONE|CV_JUAN4
+614|Analista de calidad - CANVIA|NOT|NONE|CV_JUAN4
+155|Un experto en la plataforma honorable del Presidente del Ministro de Ministros|HOF|NONE|CV_JUAN5
+19|Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
+450|Health service manager|NOT|NONE|CV_JUAN4
+571|Analista Funcional CRM|NOT|NONE|CV_JUAN4
+239|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
+698|Gerente de aplicaciones de negocio en OCA.|NOT|NONE|CV_JUAN4
+66| Analista de software de plataforma web |HOF|NONE|CV_JUAN5
+569|Analista de Requerimientos|NOT|NONE|CV_JUAN4
+638|Gerente de operaciones de FLSmidth|NOT|NONE|CV_JUAN4
+522|analista funcional de seidor|NOT|NONE|CV_JUAN4
+577|Gerente de Operaciones en excelia|NOT|NONE|CV_JUAN4
+627|Analista Senior de Modelo de Riesgo Interbancario|NOT|NONE|CV_JUAN4
+82| Hago analisis y aplicaciones web |HOF|NONE|CV_JUAN5
+652|He desarrollado planes y programación de actividades de mantenimiento |NOT|NONE|CV_JUAN4
+392|camara de maquina pesada para construccion mundano|NOT|NONE|CV_JUAN4
+372|Implantar software para mejorar la  empresa|NOT|NONE|CV_JUAN4
+143|Analista programador en SAP Business One, .Net, C |HOF|NONE|CV_JUAN5
+240|Especialista funcional tecnico en Grupo Educa_d|HOF|NONE|CV_JUAN5
+37|Trabajo con analitica y aplicaciones web|HOF|NONE|CV_JUAN5
+201|Programador Full stack|HOF|NONE|CV_JUAN5
+622|Un gran socio de entrega para Tata Consultancy Services|NOT|NONE|CV_JUAN4
+305| Soy ingeniero de Sistemas y programador de aplicaciones. |HOF|NONE|CV_JUAN5
+630|YOBEL SCM Planificador y Despachador de Mantenimiento|NOT|NONE|CV_JUAN4
+108|Analista programador en Suiza Lab S.A.C.|HOF|NONE|CV_JUAN5
+327| Cuento con Certificación Internacional en Diseno y Programacion de Aplicaciones. |HOF|NONE|CV_JUAN5
+236|Solutions Analyst en everis Peru|HOF|NONE|CV_JUAN5
+395|Implantar programa para recuperarse la engendro|NOT|NONE|CV_JUAN4
+398|Analista de empresas con graduado en grana|NOT|NONE|CV_JUAN4
+309| Realizo funciones de analisis de sotware. |HOF|NONE|CV_JUAN5
+550|Analista Funcional en Conxultiva Digital S.A.C.|NOT|NONE|CV_JUAN4
+90| Desarrolladores de aplicaciones y Analistas de software Analistas de software |HOF|NONE|CV_JUAN5
+644|Licenciatura en Ciencias Administrativas|NOT|NONE|CV_JUAN4
+238|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
+196|Desarrolladores web completamente acumulados|HOF|NONE|CV_JUAN5
+184|Sistema financiero -programas|HOF|NONE|CV_JUAN5
+529|Consultor Senior - DevOps|NOT|NONE|CV_JUAN4
+544|Jefe del Departamento de Administracion y Finanzas|NOT|NONE|CV_JUAN4
+424|Metricas de proyecto para interpretacion de programa|NOT|NONE|CV_JUAN4
+92| Enterprise Network |HOF|NONE|CV_JUAN5
+314| Soy responsable de construir y desarrollar aplicaciones para la gestion de mantenimiento de planta. |HOF|NONE|CV_JUAN5
+452|Analista Funcional QA en Stefanini - CSM|NOT|NONE|CV_JUAN4
+663|He trabajado como Analista de Sistemas Integrados de Gestion |NOT|NONE|CV_JUAN4
+518|Analista senior de reportajes en Tismart|NOT|NONE|CV_JUAN4
+344|Desarrollador Web Front End con énfasis en ReactJs. |HOF|NONE|CV_JUAN5
+594|Gerente de Administracion y Finanzas|NOT|NONE|CV_JUAN4
+616|Consultor Funcional Global|NOT|NONE|CV_JUAN4
+16|Programador, QA, Analista de Software|HOF|NONE|CV_JUAN5
+693|Programadora cinematografica, jurado de festivales, desarrolla contenidos audiovisuales. |NOT|NONE|CV_JUAN4
+510|Stefanini LATAM Analista Funcional|NOT|NONE|CV_JUAN4
+271|AS400 Analistas de programas senior de repuestos y servicios de repuestos de M M|HOF|NONE|CV_JUAN5
+679|Cotizaciones con empresas desarrolladoras de software e informatica |NOT|NONE|CV_JUAN4
+212|Consultor TI , Software Developer, Full Stack Developer|HOF|NONE|CV_JUAN5
+91| Soluciones, QA |HOF|NONE|CV_JUAN5
+205|Responsable de infraestructura de TI Peru Globaltech S.A. (ITSANET PERu S.A.C.) |HOF|NONE|CV_JUAN5
+348|Programador de aplicaciones web en ALTEN SPAIN. |HOF|NONE|CV_JUAN5
+507|Analista Funcional SAP|NOT|NONE|CV_JUAN4
+272|Entelgy Java Programprape|HOF|NONE|CV_JUAN5
+647|DESARROLLADOR DE NEGOCIOS ECOVIS PERU|NOT|NONE|CV_JUAN4
+187|Analista de soluciones de Peruye Evans|HOF|NONE|CV_JUAN5
+673|Programacion de examenes de informatica y electronica  |NOT|NONE|CV_JUAN4
+139|Arquitecto de Soluciones e Integracion en Auna|HOF|NONE|CV_JUAN5
+18|Aplicacion de soluciones de red de empresa.|HOF|NONE|CV_JUAN5
+57| Hago analisis y aplicaciones  web |HOF|NONE|CV_JUAN5
+618|analista de demanda|NOT|NONE|CV_JUAN4
+463|Jefe de sistemas en Grupo Vivargo S.A.C.|NOT|NONE|CV_JUAN4
+105|Analista Programador en Accenture Technology Solutions (Coritel)|HOF|NONE|CV_JUAN5
+245|Analista programador en SAP Business One, .Net, C |HOF|NONE|CV_JUAN5
+48| Analista  de software de plataforma web |HOF|NONE|CV_JUAN5
+220|ANALISTA PROGRAMADOR DE SISTEMAS EN CONSORCIO DE FABRICA DE SOFTWARE. (GM)|HOF|NONE|CV_JUAN5
+206|Freelancer- Analista programador de sistemas de software en Empresa SERVICIOS TECNOLOGICOS ADAPTER |HOF|NONE|CV_JUAN5
+242|Administrador de Base de Datos y Desarrollador de software|HOF|NONE|CV_JUAN5
+487|Administrador|NOT|NONE|CV_JUAN4
+199|Analista en Gesnext|HOF|NONE|CV_JUAN5
+557|Analista funcional SAP|NOT|NONE|CV_JUAN4
+672|Venta de productos de informatica y software para ingenieros |NOT|NONE|CV_JUAN4
+179|Nuevos expertos tecnicos, Catalyzed Peru,  Group Co., Ltd.|HOF|NONE|CV_JUAN5
+262|Analista de programas senior de MAPFRE|HOF|NONE|CV_JUAN5
+582|Automation Quality Engineer ISTQB-CTFL ISTQB-CTAL-TAE  AZ-900  SFPC|NOT|NONE|CV_JUAN4
+678|Desarrollo de cálculos estadísticos utilizando software dedicado. |NOT|NONE|CV_JUAN4
+611|Gerente de Sistemas Grupo Vivargo S.A.C.|NOT|NONE|CV_JUAN4
+624| Analista DBA Social Sygesikring - EsSalud|NOT|NONE|CV_JUAN4
+12|Analista programador de software de plataforma en linea|HOF|NONE|CV_JUAN5
+310| Desarrollador freelance de aplicaciones empresariales. |HOF|NONE|CV_JUAN5
+289|Analista de soluciones de Peruye Evans|HOF|NONE|CV_JUAN5
+181|Grupo Celima Trebols Analista de sistemas senior|HOF|NONE|CV_JUAN5
+218|Analista Programador Senior AS400 en M&M Repuestos y Servicios|HOF|NONE|CV_JUAN5
+366|administrador de empresa y proyectos informaticos|NOT|NONE|CV_JUAN4
+136|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
+501|Conxultiva Digital S.A.C. analista funcional|NOT|NONE|CV_JUAN4
+665|Utilizo un software desarrollador de integrales complejas para el dictado de clases . |NOT|NONE|CV_JUAN4
+85| Desarrolladores de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
+592|Jefe de Operaciones en Diviso Bolsa SAB|NOT|NONE|CV_JUAN4
+598|Business Developer en ECOVIS PERU|NOT|NONE|CV_JUAN4
+553|Coordinadora de Tripulantes de Cabina Iniciales en Latam Airlines Peru|NOT|NONE|CV_JUAN4
+279|Analista de programas senior Consorcio Metalurgico S.A.|HOF|NONE|CV_JUAN5
+613|Jefe de Servicios de Gestion de Aplicaciones, Omnia Solution S.A.C.|NOT|NONE|CV_JUAN4
+39|Analista  de desarrollo de plataforma web |HOF|NONE|CV_JUAN5
+600|Conxultiva Digital S.A.C. analista funcional|NOT|NONE|CV_JUAN4
+128|Analista de Sistemas Senior en Grupo Celima Trebol|HOF|NONE|CV_JUAN5
+699|Inspector de Seguridad Radiologica para aplicaciones medicas. |NOT|NONE|CV_JUAN4
+26|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
+107|Analista Programador Senior en MAPFRE|HOF|NONE|CV_JUAN5
+297|SAP Business One, .NET, C -Programmer Analyst|HOF|NONE|CV_JUAN5
+362|motivador y coatch para proyectos informaticos|NOT|NONE|CV_JUAN4
+237|Analista Programador Android - Kotlin en OWLTEC|HOF|NONE|CV_JUAN5
+154|Servicio logico de analista de Induamerica -Program|HOF|NONE|CV_JUAN5
+169|AS400 Analistas de programas senior de repuestos y servicios de repuestos de M M|HOF|NONE|CV_JUAN5
+197|Desarrolladores web completamente acumulados|HOF|NONE|CV_JUAN5
+691|Desarrollo programas de inspección de materiales en almacen |NOT|NONE|CV_JUAN4
+634|GESTIoN Y SERVICIOS GENERALES AQP-SUR S.A.C. Administrador|NOT|NONE|CV_JUAN4
+56| Creo aplicaciones web y de escritorio para mi empresa |HOF|NONE|CV_JUAN5
+103|Responsable de infraestructura de TI Peru Globaltech S.A. (ITSANET PERu S.A.C.) |HOF|NONE|CV_JUAN5
+469|Analista Funcional Senior en Tismart|NOT|NONE|CV_JUAN4
+156|Responsable de la infraestructura global de Peru S.A. (ISNetperigs.a.c.)|HOF|NONE|CV_JUAN5
+435|representante de espantajo y proyectos informaticos|NOT|NONE|CV_JUAN4
+166|Software para 1. Ingeniero Inetum|HOF|NONE|CV_JUAN5
+76| Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
+444|Analista de empresas con titulado en desarrollo|NOT|NONE|CV_JUAN4
+528|Analista Senior de Modelo de Riesgo Interbancario|NOT|NONE|CV_JUAN4
+512|Gerente de Sistemas Grupo Vivargo S.A.C.|NOT|NONE|CV_JUAN4
+406|mandatario de saco de datos oracle 12c|NOT|NONE|CV_JUAN4
+492|Ingeniero de NOC-SOC en Grupo Electrodata (E-data)|NOT|NONE|CV_JUAN4
+235|Analista de Soluciones en NTT DATA Services|HOF|NONE|CV_JUAN5
+573|Delivery Excellence Partner en Tata Consultancy Services|NOT|NONE|CV_JUAN4
+99|Programador Full stack|HOF|NONE|CV_JUAN5
+369|operador de maquinaria pesada para construccion civil|NOT|NONE|CV_JUAN4
+278|Programadores del Sistema Nacional de Supervision de Inmigracion|HOF|NONE|CV_JUAN5
+476|Analista DBA en Seguro Social de Salud - EsSalud|NOT|NONE|CV_JUAN4
+462|Analista Funcional,Procesos (BPM Expert en CAC-TI)|NOT|NONE|CV_JUAN4
+460|Data Governance, Data Quality , Data Management|NOT|NONE|CV_JUAN4
+639|Gerente Online - Empresa Comercial Sodimac Peru|NOT|NONE|CV_JUAN4
+575|Analista DBA en Seguro Social de Salud - EsSalud|NOT|NONE|CV_JUAN4
+441|Implantar software para curar la espantajo|NOT|NONE|CV_JUAN4
+170|Entelgy Java Programprape|HOF|NONE|CV_JUAN5
+338| Tengo experiencia laboral y estudios academicos en la programacion de aplicaciones en linea. |HOF|NONE|CV_JUAN5
+495|Gerente de Administracion y Finanzas|NOT|NONE|CV_JUAN4
+491|Jefe de Linea - Comercial en Sodimac Peru|NOT|NONE|CV_JUAN4
+515|Analista de calidad - CANVIA|NOT|NONE|CV_JUAN4
+283|Grupo Celima Trebols Analista de sistemas senior|HOF|NONE|CV_JUAN5
+5|Programador, qa, analista de software |HOF|NONE|CV_JUAN5
+146|Analista Programador en Materia Gris - Consultoria Tecnologica|HOF|NONE|CV_JUAN5
+261|Scotiabanks diez analyst|HOF|NONE|CV_JUAN5
+617|Analista senior de reportajes en Tismart|NOT|NONE|CV_JUAN4
+142|Desarrollador de integracion en Pragma|HOF|NONE|CV_JUAN5
+94| Trabajo con aplicaciones analiticas y  web|HOF|NONE|CV_JUAN5
+64| Desarrollador de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
+483|Automation Quality Engineer ISTQB-CTFL ISTQB-CTAL-TAE  AZ-900  SFPC|NOT|NONE|CV_JUAN4
+389|delegado de engendro y proyectos informaticos|NOT|NONE|CV_JUAN4
+153|Analista de desarrollo desarrollador web|HOF|NONE|CV_JUAN5
+436|creo y gestion base de datos desnormalizando|NOT|NONE|CV_JUAN4
+302|Director Desarrollo de Aplicaciones e Infraestructura de TI en SOFTLABS. |HOF|NONE|CV_JUAN5
+666|Actualmente me desempeño como programador de paradas de planta |NOT|NONE|CV_JUAN4
+117|Analista Programador Java en Entelgy|HOF|NONE|CV_JUAN5
+612|Analista Funcional SAP|NOT|NONE|CV_JUAN4
+320| Realizo servicios de diseño e implementación de páginas Web para empresas e instituciones educativas. |HOF|NONE|CV_JUAN5
+157|Freelancer Software System Program Analyst Adaptador de tecnologia de tecnologia Compania|HOF|NONE|CV_JUAN5
+266|Analista de programas senior|HOF|NONE|CV_JUAN5
+642|Jefe de Almacen, Emotion Group Peru S.A.C.|NOT|NONE|CV_JUAN4
+426|Analista de negocios con graduado en granazon.|NOT|NONE|CV_JUAN4
+165|Analista del programa Mitsui Auto Finance Perus|HOF|NONE|CV_JUAN5
+55| Desarrollo aplicaciones web personalizadas |HOF|NONE|CV_JUAN5
+542|Director de Operaciones Diviso Bolsa SAB|NOT|NONE|CV_JUAN4
+619|Licenciatura en Ingenieria de Sistemas|NOT|NONE|CV_JUAN4
+59| Desarrollo aplicaciones web personalizadas |HOF|NONE|CV_JUAN5
+576|Analista Funcional Tecnico en Tecnocom S.A.|NOT|NONE|CV_JUAN4
+222|Programador en MDP CONSULTING S.A.C|HOF|NONE|CV_JUAN5
+470|Analista de Requerimientos|NOT|NONE|CV_JUAN4
+329| Solia ​​trabajar como programador de sitios web. |HOF|NONE|CV_JUAN5
+654|Realizo programacion de controladores de operación y de seguridad para turbinas de gas natural.  |NOT|NONE|CV_JUAN4
+140|Administrador de Base de Datos y Desarrollador de software|HOF|NONE|CV_JUAN5
+258|Responsable de la infraestructura global de Peru S.A. (ISNetperigs.a.c.)|HOF|NONE|CV_JUAN5
+564|Jefe Funcional de Servicios de Gestion de Aplicaciones en Omnia Solution S.A.C.|NOT|NONE|CV_JUAN4
+268|Software para 1. Ingeniero Inetum|HOF|NONE|CV_JUAN5
+437|analista para aplicaciones de desarrollo de software|NOT|NONE|CV_JUAN4
+633|Gerente restaurante Acurio|NOT|NONE|CV_JUAN4
+224|LIDER TECNICO Y ANALISTA PROGRAMADOR en ADYL CONSULTING|HOF|NONE|CV_JUAN5
+93| Desarrollo mis propias aplicaciones web personalizadas para aplicaciones web y de escritorio  |HOF|NONE|CV_JUAN5
+333| Programacion de aplicaciones moviles para entretenimiento y juegos. |HOF|NONE|CV_JUAN5
+336| Realizo la construccion y desarrollo de aplicaciones de escritorio. |HOF|NONE|CV_JUAN5
+605|Analista Funcional en Eterniasoft|NOT|NONE|CV_JUAN4
+379|Escanear paginas web en busca de vulnerabilidades|NOT|NONE|CV_JUAN4
+269|Analistas, desarrolladores, programadores complementan el ancho|HOF|NONE|CV_JUAN5
+60| Creo aplicaciones web y de escritorio para mi empresa |HOF|NONE|CV_JUAN5
+484|Especialista en Tecnologias Emergentes, CATALYZE Peru, The Palladium Group LLC|NOT|NONE|CV_JUAN4
+674|Uso de aplicaciones moviles para entrevistas a clientes |NOT|NONE|CV_JUAN4
+549|Health service manager|NOT|NONE|CV_JUAN4
+486|Administrador en GESTION Y SERVICIOS GENERALES AQP-SUR S.A.C.|NOT|NONE|CV_JUAN4
+162|Analista de programas gratuito|HOF|NONE|CV_JUAN5
+255|Analista de desarrollo desarrollador web|HOF|NONE|CV_JUAN5
+78| Hago analisis y aplicaciones web |HOF|NONE|CV_JUAN5
+41| Desarrollador de aplicaciones web  |HOF|NONE|CV_JUAN5
+291|Supervisor del proyecto del financiador Credink|HOF|NONE|CV_JUAN5
+24|Construyo aplicaciones web y de escritorio para mi empresa|HOF|NONE|CV_JUAN5
+443|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
+696|Ingeniero Senior de Negocios y Aplicaciones de Ingredientes. |NOT|NONE|CV_JUAN4
+301|Desarrollador de aplicaciones web en Municipalidad Provincial de San Martin. |HOF|NONE|CV_JUAN5
+682|Desarrollo de calculos estadisticos usando software especializado |NOT|NONE|CV_JUAN4
+307| Programador independiente de aplicaciones de gestion empresarial. |HOF|NONE|CV_JUAN5
+646|Gerente de Operaciones, P&R World Services SAC|NOT|NONE|CV_JUAN4
+554|EXPORTACIONES E IMPORTACIONES EMPERATRIZ S.R.L.TDA.|NOT|NONE|CV_JUAN4
+387|grana de muebles de melanine|NOT|NONE|CV_JUAN4
+541|Ingeniero NOC-SOC en Electrodata Group (E-data)|NOT|NONE|CV_JUAN4
+304|Ingeniero de aplicaciones en INDUSTRIAL COM. |HOF|NONE|CV_JUAN5
+562|Jefe de sistemas en Grupo Vivargo S.A.C.|NOT|NONE|CV_JUAN4
+360|administrador de base de datos oracle 12c|NOT|NONE|CV_JUAN4
+27|Analista de desarrollo de software de plataforma en linea|HOF|NONE|CV_JUAN5
+256|Servicio logico de analista de Induamerica -Program|HOF|NONE|CV_JUAN5
+608|Gestion de datos, calidad de datos, gobierno de datos|NOT|NONE|CV_JUAN4
+535|GESTIoN Y SERVICIOS GENERALES AQP-SUR S.A.C. Administrador|NOT|NONE|CV_JUAN4
+621|analista funcional de seidor|NOT|NONE|CV_JUAN4
+447|Metricas de bosquejo para definicion de software|NOT|NONE|CV_JUAN4
+596|Administrador de Empresas - Posgrado en Gestion Ambiental|NOT|NONE|CV_JUAN4
+591|Ingeniero de NOC-SOC en Grupo Electrodata (E-data)|NOT|NONE|CV_JUAN4
+265|Consultor de TI, software de desarrollador, desarrolladores completos de pila|HOF|NONE|CV_JUAN5
+337| Diseno y construyo aplicaciones de escritorio de mi universidad. |HOF|NONE|CV_JUAN5
+216|Analista, Desarrollador, Programador en Apoyo Total|HOF|NONE|CV_JUAN5
+527|Gerente de Operaciones Excelia|NOT|NONE|CV_JUAN4
+195|SAP Business One, .NET, C -Programmer Analyst|HOF|NONE|CV_JUAN5
+331| He realizado la programacion de aplicaciones moviles para restaurantes y bares. |HOF|NONE|CV_JUAN5
+246|Desarrollador Web Full Stack|HOF|NONE|CV_JUAN5
+174|Parcialmente --andical back -en -vening -Developmer|HOF|NONE|CV_JUAN5
+687|Venta de pintura para aplicaciones marinas.|NOT|NONE|CV_JUAN4
+122|LIDER TECNICO Y ANALISTA PROGRAMADOR en ADYL CONSULTING|HOF|NONE|CV_JUAN5
+365|terapeuta para desrrollo motivacional en proyectos de alto nivel|NOT|NONE|CV_JUAN4
+601|Analista Funcional de Garantia de Calidad en Stefanini - CSM|NOT|NONE|CV_JUAN4
+13|Programador de aplicaciones web corporativas|HOF|NONE|CV_JUAN5
+123|Programador de Sistemas en Superintendencia Nacional de Migraciones|HOF|NONE|CV_JUAN5
+34|Programador, QA, Analista de Software|HOF|NONE|CV_JUAN5
+317| Me he desempeñado como Analista de Software en el area de TI. |HOF|NONE|CV_JUAN5
+54| Aplicacion de soluciones de red empresarial. |HOF|NONE|CV_JUAN5
+203|Analista Programador en Induamerica Servicios Logisticos |HOF|NONE|CV_JUAN5
+457|Analista Funcional en Eterniasoft|NOT|NONE|CV_JUAN4
+561|Analista Funcional,Procesos (BPM Expert en CAC-TI)|NOT|NONE|CV_JUAN4
+281|Nuevos expertos tecnicos, Catalyzed Peru,  Group Co., Ltd.|HOF|NONE|CV_JUAN5
+439|realizo pruebas de variedad para software legacy|NOT|NONE|CV_JUAN4
+160|Analista de programas senior de MAPFRE|HOF|NONE|CV_JUAN5
+277|La tecnologia de consultoria adyl sufre y los analistas programados|HOF|NONE|CV_JUAN5
+252|Gesnext -analyst|HOF|NONE|CV_JUAN5
+328| Me he desempenado en el cargo de Programador de Paginas Web. |HOF|NONE|CV_JUAN5
+141|Desarrollador Java, Angular , mobile hibrido|HOF|NONE|CV_JUAN5
+9|Hice aplicaciones para entorno web y entorno desktop para empresas |HOF|NONE|CV_JUAN5
+75| Trabajo con analisis y aplicaciones web |HOF|NONE|CV_JUAN5
+144|Desarrollador Web Full Stack|HOF|NONE|CV_JUAN5
+280|Pythonus Back -end -Programmer y Falcon Frames en S.A.C|HOF|NONE|CV_JUAN5
+574|Ing. de Sistemas, Analista Funcional |NOT|NONE|CV_JUAN4
+340| Tengo experiencia practica y academica en programacion de aplicaciones en linea.|HOF|NONE|CV_JUAN5
+126|Especialista en Tecnologias Emergentes, CATALYZE Peru, The Palladium Group LLC|HOF|NONE|CV_JUAN5
+300|Desarrollador de aplicaciones moviles en Grupo PLM. |HOF|NONE|CV_JUAN5
+361|genero documentacion para proyectos informaticos|NOT|NONE|CV_JUAN4
+641|Director de Operaciones Diviso Bolsa SAB|NOT|NONE|CV_JUAN4
+15|Programadores de aplicaciones en linea y analistas de software|HOF|NONE|CV_JUAN5
+45| Aplicaciones de soluciones web para empresas |HOF|NONE|CV_JUAN5
+438|alcoba de dispositivo pesada para construccion iletrado|NOT|NONE|CV_JUAN4
+548|DESARROLLADOR DE NEGOCIOS ECOVIS PERU|NOT|NONE|CV_JUAN4
+675|Cuento con conocimientos en el uso de aplicaciones de escritorio para ventas |NOT|NONE|CV_JUAN4
+368|analista para aplicaciones de desarrollo de software |NOT|NONE|CV_JUAN4
+478|Gerente de Operaciones en excelia|NOT|NONE|CV_JUAN4
+579|Consultor Senior - Devops|NOT|NONE|CV_JUAN4
+407|genero documentacion para proyectos informaticos|NOT|NONE|CV_JUAN4
+537|INEI - Administrador de Base de Datos del Instituto Nacional de Informacion Estadistica|NOT|NONE|CV_JUAN4
+274|Credinka Financial|HOF|NONE|CV_JUAN5
+568|Analista Funcional Senior en Tismart|NOT|NONE|CV_JUAN4
+681|Actualmente trabajo como secretaria y tengo conocimientos de informática. |NOT|NONE|CV_JUAN4
+556|Analista Funcional en Eterniasoft|NOT|NONE|CV_JUAN4
+127|Ingeniero de aplicaciones en PRECISION PERU|HOF|NONE|CV_JUAN5
+468|Consultor Funcional Global|NOT|NONE|CV_JUAN4
+649|Soy analista de ensayos de laboratorio y metrología. |NOT|NONE|CV_JUAN4
+341|Desarrollador de aplicaciones moviles en Grupo PLM. |HOF|NONE|CV_JUAN5
+124|Analista Programador Senior en Consorcio Metalurgico S.A.|HOF|NONE|CV_JUAN5
+536|Personal administrativo|NOT|NONE|CV_JUAN4
+386|comprobador publico para proyectos informaticos|NOT|NONE|CV_JUAN4
+164|Analista de programas senior|HOF|NONE|CV_JUAN5
+422|Analizo y pruebo la tenacidad|NOT|NONE|CV_JUAN4
+102|Especialista en Plataformas de Integridad en Presidencia del Consejo de Ministros |HOF|NONE|CV_JUAN5
+418|Implantar programa para recobrarse la ente|NOT|NONE|CV_JUAN4
+664|Utilizacion de software avanzado para el conteo de ganado. |NOT|NONE|CV_JUAN4
+677|Uso de aplicaciones web para el dictado de clases |NOT|NONE|CV_JUAN4
+312| Una de mis responsabilidades es supervisar un equipo de analistas de software. |HOF|NONE|CV_JUAN5
+509|Gestion de datos, calidad de datos, gobierno de datos|NOT|NONE|CV_JUAN4
+306| Tecnico programador y disenador de aplicaciones moviles para empresas. |HOF|NONE|CV_JUAN5
+257|Un experto en la plataforma honorable del Presidente del Ministro de Ministros|HOF|NONE|CV_JUAN5
+352|Tecnico superior en Desarrollo de Aplicaciones Web(Java-Springboot).  |HOF|NONE|CV_JUAN5
+565|ANALISTA DE CALIDAD - CANVIA|NOT|NONE|CV_JUAN4
+72| Desarrollador, control de calidad, analista de software |HOF|NONE|CV_JUAN5
+178|Pythonus Back -end -Programmer y Falcon Frames en S.A.C|HOF|NONE|CV_JUAN5
+497|Administrador de Empresas - Posgrado en Gestion Ambiental|NOT|NONE|CV_JUAN4
+626|Gerente de Operaciones Excelia|NOT|NONE|CV_JUAN4
+401|Metricas de borrador para explicacion de programa|NOT|NONE|CV_JUAN4
+161|Laboratorio Suizo S.A.C. Analista|HOF|NONE|CV_JUAN5
+498|Administrador de operaciones en P&R World Services SAC|NOT|NONE|CV_JUAN4
+137|Supervisor de Proyectos en Financiera Credinka|HOF|NONE|CV_JUAN5
+680|Analista de ventas de equipos para aplicaciones médicas |NOT|NONE|CV_JUAN4
+442|Diseñar metricas para analisis de software|NOT|NONE|CV_JUAN4
+211|Analista programador en Freelance|HOF|NONE|CV_JUAN5
+44| Perfil de desarrollador de aplicaciones web |HOF|NONE|CV_JUAN5
+28|Desarrollador de aplicaciones web empresariales|HOF|NONE|CV_JUAN5
+296|Desarrollador integrado de Pragma|HOF|NONE|CV_JUAN5
+585|Administrador en GESTION Y SERVICIOS GENERALES AQP-SUR S.A.C.|NOT|NONE|CV_JUAN4
+423|Implementar programa para recobrarse el operacion|NOT|NONE|CV_JUAN4
+288|Analista de soluciones de servicio de datos NTT|HOF|NONE|CV_JUAN5
+145|Desarrollador Web Full Stack|HOF|NONE|CV_JUAN5
+434|protestativo para desrrollo motivacional en proyectos de noble cota|NOT|NONE|CV_JUAN4
+428|soy analista coche para pruebas de noble cota|NOT|NONE|CV_JUAN4
+454|Coordinadora de Tripulantes de Cabina Iniciales en Latam Airlines Peru|NOT|NONE|CV_JUAN4
+494|Jefe de Almacen en Emotion Group Peru S.A.C|NOT|NONE|CV_JUAN4
+416|realizo pruebas de raza para programa legacy|NOT|NONE|CV_JUAN4
+202|Analista de Desarrollo  Web Developer |HOF|NONE|CV_JUAN5
+180|Ingeniero de aplicaciones exacta de Peru|HOF|NONE|CV_JUAN5
+148|Programador y Administrador de Servertux.com|HOF|NONE|CV_JUAN5
+343|Director Desarrollo de Aplicaciones e Infraestructura de TI en SOFTLABS. |HOF|NONE|CV_JUAN5
+603|El coordinador de tripulacion original de Peruvian Airlines|NOT|NONE|CV_JUAN4
+315| Implemente paginas Web para el area de marketing de la compania BHP Oil Gas.|HOF|NONE|CV_JUAN5
+587|Administrador de base de datos en INEI- Instituto Nacional de Estadistica e Informatica|NOT|NONE|CV_JUAN4
+415|camara de dispositivo pesada para construccion ignorante|NOT|NONE|CV_JUAN4
+408|motivador y coatch para proyectos informticos|NOT|NONE|CV_JUAN4
+499|Business Developer en ECOVIS PERU|NOT|NONE|CV_JUAN4
+225|Programador de Sistemas en Superintendencia Nacional de Migraciones|HOF|NONE|CV_JUAN5
+30|Analista  de software para plataforma web |HOF|NONE|CV_JUAN5
+42|Desarrollador de aplicaciones web y analista de software |HOF|NONE|CV_JUAN5
+659|Desarrollo de planes y programas de inspección a comedores. |NOT|NONE|CV_JUAN4
+131|Analista Programador de Sistemas en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
+449|Analista de negocios con titulado en desarrollo.|NOT|NONE|CV_JUAN4
+353|Programador web en Avalisto. |HOF|NONE|CV_JUAN5
+545|Licenciatura en Ciencias Administrativas|NOT|NONE|CV_JUAN4
+623|ing Analista Funcional de Sistemas|NOT|NONE|CV_JUAN4
+657|Realizo la programacion de visitas a lugares turisiticos. |NOT|NONE|CV_JUAN4
+63| Entornos web, analista de software  |HOF|NONE|CV_JUAN5
+168|Analista de programadores - S.A.C.|HOF|NONE|CV_JUAN5
+538|gerente de construccion|NOT|NONE|CV_JUAN4
+339| Cuento con experiencia laboral en el desarrollo de páginas web para clínicas y hospitales. |HOF|NONE|CV_JUAN5
+404|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
+67| Desarrollador de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
+177|Analista de programas senior Consorcio Metalurgico S.A.|HOF|NONE|CV_JUAN5
+433|desarrollo de muebles de melanine|NOT|NONE|CV_JUAN4
+228|Especialista en Tecnologias Emergentes, CATALYZE Peru, The Palladium Group LLC|HOF|NONE|CV_JUAN5
+546|Administrador de empresas - Gestion ambiental calificada|NOT|NONE|CV_JUAN4
+572|Analista Funcional en Seidor|NOT|NONE|CV_JUAN4
+517|Consultor Funcional Global|NOT|NONE|CV_JUAN4
+559|Data Governance, Data Quality , Data Management|NOT|NONE|CV_JUAN4
+503|Director de Operaciones, Administrador de Contratos|NOT|NONE|CV_JUAN4
+683|Simulaciones de estructuras mecanicas usando software avanzado|NOT|NONE|CV_JUAN4
+219|Analista Programador Java en Entelgy|HOF|NONE|CV_JUAN5
+632|Especialista en Nuevas Tecnologias, CATALYZE Peru, The Palladium Group LLC|NOT|NONE|CV_JUAN4
+229|Ingeniero de aplicaciones en PRECISION PERU|HOF|NONE|CV_JUAN5
+597|Administrador de operaciones en P&R World Services SAC|NOT|NONE|CV_JUAN4
+173|MDP Consulting S.A.C Programador|HOF|NONE|CV_JUAN5
+226|Analista Programador Senior en Consorcio Metalurgico S.A.|HOF|NONE|CV_JUAN5
+70| desarrolladores y desarrolladores de aplicaciones web|HOF|NONE|CV_JUAN5
+119|Analista programador en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
+440|Hago analisis y pruebo aplicaciones|NOT|NONE|CV_JUAN4
+69| Desarrolladores de aplicaciones web|HOF|NONE|CV_JUAN5
+335| Soy programador independiente de aplicaciones moviles para pequenos negocios. |HOF|NONE|CV_JUAN5
+393|realizo pruebas de especie para programa legacy|NOT|NONE|CV_JUAN4
+286|Sistema financiero -programas|HOF|NONE|CV_JUAN5
+615|dueno del producto|NOT|NONE|CV_JUAN4
+420|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
+210|Analista programador en Suiza Lab S.A.C.|HOF|NONE|CV_JUAN5
+584|Administrador en Acurio Restaurantes|NOT|NONE|CV_JUAN4
+101|Analista Programador en Induamerica Servicios Logisticos |HOF|NONE|CV_JUAN5
+282|Ingeniero de aplicaciones exacta de Peru|HOF|NONE|CV_JUAN5
+425|Escanear paginas web en rastreo de vulnerabilidades|NOT|NONE|CV_JUAN4
+488|Administrador de base de datos en INEI- Instituto Nacional de Estadistica e Informatica|NOT|NONE|CV_JUAN4
+370|realizo pruebas de calidad para software legacy |NOT|NONE|CV_JUAN4
+132|Analista programador en Asociacion Cultural Peruano Britanica (Britanico)|HOF|NONE|CV_JUAN5
+47| Realice aplicaciones para entorno web y  entorno de escritorio para analisis empresarial y  aplicaciones web  Aplicaciones web para  productividad |HOF|NONE|CV_JUAN5
+120|Programador en MDP CONSULTING S.A.C|HOF|NONE|CV_JUAN5
+502|Analista Funcional de Garantia de Calidad en Stefanini - CSM|NOT|NONE|CV_JUAN4
+382|soy analista utilitario para pruebas de vasto altitud|NOT|NONE|CV_JUAN4
+530|consultor de sistemas informaticos|NOT|NONE|CV_JUAN4
+482|PLANEADOR Y PROGRAMADOR DE MANTENIMIENTO en YOBEL SCM|NOT|NONE|CV_JUAN4
+629|consultor de sistemas informaticos|NOT|NONE|CV_JUAN4
+417|Hago analisis y pruebo aplicaciones|NOT|NONE|CV_JUAN4
+213|Analista Programador Senior en Sonda|HOF|NONE|CV_JUAN5
+95| Aplicaciones web, es para mejorar la productividad|HOF|NONE|CV_JUAN5
+71|desarrolladores de aplicaciones y analistas de software |HOF|NONE|CV_JUAN5
+22|Aplicaciones web que mejoran la productividad|HOF|NONE|CV_JUAN5
+200|Net Developer en Softtek|HOF|NONE|CV_JUAN5
+332| Programo aplicaciones moviles de entretenimiento y juegos. |HOF|NONE|CV_JUAN5
+36|Desarrollo aplicaciones web y de escritorio para mi negocio|HOF|NONE|CV_JUAN5
+25|Me ocupo de analitica y aplicaciones web|HOF|NONE|CV_JUAN5
+481|Consultor de sistemas de TI |NOT|NONE|CV_JUAN4
+244|Desarrollador de integracion en Pragma|HOF|NONE|CV_JUAN5
+414|analista para aplicaciones de granazon de programa|NOT|NONE|CV_JUAN4
+419|Diseñar metricas para analisis de programa|NOT|NONE|CV_JUAN4
+147|Arquitecto de Soluciones at Canvia|HOF|NONE|CV_JUAN5
+350|Especialista en Seguridad Informática de Aplicaciones Web. |HOF|NONE|CV_JUAN5
+6|Perfil desarrollador de aplicaciones web |HOF|NONE|CV_JUAN5
+96|Software engineer|HOF|NONE|CV_JUAN5
+431|motivador y coatch para proyectos informticos|NOT|NONE|CV_JUAN4
+520|Licenciatura en Ingenieria de Sistemas|NOT|NONE|CV_JUAN4
+590|Jefe de Linea - Comercial en Sodimac Peru|NOT|NONE|CV_JUAN4
+380|Analista de negocios con diplomado en desarrollo.|NOT|NONE|CV_JUAN4
+23|Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
+364|desarrollo de muebles de melanine |NOT|NONE|CV_JUAN4
+432|medidor publico para proyectos informaticos|NOT|NONE|CV_JUAN4
+640|Ingeniero NOC-SOC en Electrodata Group (E-data)|NOT|NONE|CV_JUAN4
+607|Consultor Funcional, Tecnico SAP, Peru|NOT|NONE|CV_JUAN4
+159|Scotiabanks diez analyst|HOF|NONE|CV_JUAN5
+193|Java -Developer, angulo, movimiento movil|HOF|NONE|CV_JUAN5
+477|Analista Funcional Tecnico en Tecnocom S.A.|NOT|NONE|CV_JUAN4
+171|Analista de programadores SystemA en el consorcio de fabrica de software. (GM)|HOF|NONE|CV_JUAN5
+33|Programadores de aplicaciones en linea y analistas de software|HOF|NONE|CV_JUAN5
+472|Analista Funcional CRM|NOT|NONE|CV_JUAN4
+84| Entornos web, analista de software |HOF|NONE|CV_JUAN5
+182|Cimagraf para cumplir ya|HOF|NONE|CV_JUAN5
+121|Desarrollador Backend Semi Senior|HOF|NONE|CV_JUAN5
+396|Diseñar metricas para analisis de programa|NOT|NONE|CV_JUAN4
+409|registrador publico para proyectos informaticos|NOT|NONE|CV_JUAN4
+227|Programador BACK-END en Python con framework Falcon en Abcdroid Solutions S.A.C|HOF|NONE|CV_JUAN5
+543|Jefe de Almacen, Emotion Group Peru S.A.C.|NOT|NONE|CV_JUAN4
+351|Desarrollador FullStack de aplicaciones web y moviles (Python, Django, Flask, Devops). |HOF|NONE|CV_JUAN5
+606|Analista Funcional SAP|NOT|NONE|CV_JUAN4
+230|Analista de Sistemas Senior en Grupo Celima Trebol|HOF|NONE|CV_JUAN5
+98|Net Developer en Softtek|HOF|NONE|CV_JUAN5
+270|Analista de programadores - S.A.C.|HOF|NONE|CV_JUAN5
+526|Analista de Funciones Tecnicas, Tecnocom S.A.|NOT|NONE|CV_JUAN4
+465|Jefe Funcional de Servicios de Gestion de Aplicaciones en Omnia Solution S.A.C.|NOT|NONE|CV_JUAN4
+319| Programacion de aplicaciones móviles con fines educativos y de entretenimiento. |HOF|NONE|CV_JUAN5
+29|Desarrolladores de aplicaciones web y de escritorio|HOF|NONE|CV_JUAN5
+371|Hago analisis y pruebo aplicaciones|NOT|NONE|CV_JUAN4
+581|PLANEADOR Y PROGRAMADOR DE MANTENIMIENTO en YOBEL SCM|NOT|NONE|CV_JUAN4
+97|Analista en Gesnext|HOF|NONE|CV_JUAN5
+342|Desarrollador de aplicaciones web en Municipalidad Provincial de San Martin. |HOF|NONE|CV_JUAN5
+653|Me he desempenado como analista, planificador y programador de gestión de mantenimiento en la empresa Kallpa |NOT|NONE|CV_JUAN4
+267|Analista del programa Mitsui Auto Finance Perus|HOF|NONE|CV_JUAN5
+610|Analista de funciones de procesos (especialista en BPM CAC-IT)|NOT|NONE|CV_JUAN4
+363|contador publico para proyectos informaticos|NOT|NONE|CV_JUAN4
+217|Analista Programador en Impress Professional Outsourcing S.A.C.|HOF|NONE|CV_JUAN5
+367|creo y gestion base de datos desnormalizando|NOT|NONE|CV_JUAN4
+125|Programador BACK-END en Python con framework Falcon en Abcdroid Solutions S.A.C|HOF|NONE|CV_JUAN5
+570|Bachiller de Ingenieria de Sistemas|NOT|NONE|CV_JUAN4
+221|Analista programador en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
+479|Analista Senior de modelos de riesgos en Interbank|NOT|NONE|CV_JUAN4
+112|Analista programador en Mitsui Auto Finance Peru|HOF|NONE|CV_JUAN5
+563|Analista Funcional SAP|NOT|NONE|CV_JUAN4
+532|Ingeniero de Calidad en Automatizacion ISTQB-CTFL ISTQB-CTAL-TAE AZ-900 SFPC|NOT|NONE|CV_JUAN4
+83| Aplicaciones web que aumentan la productividad |HOF|NONE|CV_JUAN5
+62| Aplicaciones web que mejoran la productividad |HOF|NONE|CV_JUAN5
+81| Desarrollo aplicaciones web y de escritorio para mi empresa |HOF|NONE|CV_JUAN5
+116|Analista Programador Senior AS400 en M&M Repuestos y Servicios|HOF|NONE|CV_JUAN5
+254|Una pila completa de programador|HOF|NONE|CV_JUAN5
+109|Analista programador en Freelance|HOF|NONE|CV_JUAN5
+686|Programacion de sistemas de alarmas en domicilios.|NOT|NONE|CV_JUAN4
+183|Canria Full Stack Developer Analyst Group Alist -Programmer,|HOF|NONE|CV_JUAN5
+61| Me ocupo de analisis y aplicaciones web |HOF|NONE|CV_JUAN5
+560|Analista Funcional en Stefanini LATAM|NOT|NONE|CV_JUAN4
+14|Desarrolladores de aplicaciones web y de escritorio|HOF|NONE|CV_JUAN5
+194|Desarrollador integrado de Pragma|HOF|NONE|CV_JUAN5
+490|Administrador de operaciones en FLSmidth|NOT|NONE|CV_JUAN4
+276|Parcialmente --andical back -en -vening -Developmer|HOF|NONE|CV_JUAN5
+298|Desarrolladores web completamente acumulados|HOF|NONE|CV_JUAN5
+104|Freelancer- Analista programador de sistemas de software en Empresa SERVICIOS TECNOLOGICOS ADAPTER |HOF|NONE|CV_JUAN5
+446|Implementar software para curar el importaci|NOT|NONE|CV_JUAN4on
+32|Desarrollador de aplicaciones web y de escritorio|HOF|NONE|CV_JUAN5
+376|Analizo y pruebo la aplicacion|NOT|NONE|CV_JUAN4
+186|Analista de soluciones de servicio de datos NTT|HOF|NONE|CV_JUAN5
+35|Aplicacion de soluciones de red empresarial. Desarrollar aplicaciones a medida para el entorno web|HOF|NONE|CV_JUAN5
+461|Analista Funcional en Stefanini LATAM|NOT|NONE|CV_JUAN4
+106|Analista de TI en Scotiabank|HOF|NONE|CV_JUAN5
+448|Escanear paginas web en indagacion de vulnerabilidades|NOT|NONE|CV_JUAN4
+400|Implementar programa para recuperarse el operacion|NOT|NONE|CV_JUAN4
+355|Desarrollador De Software en TTN Company. |HOF|NONE|CV_JUAN5
+381|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
+233|Analista Programador de Sistemas en FINANCIERA CREDINKA|HOF|NONE|CV_JUAN5
+241|Arquitecto de Soluciones e Integracion en Auna|HOF|NONE|CV_JUAN5
+292|Supervisor del proyecto del financiador Credink|HOF|NONE|CV_JUAN5
+299|Desarrolladores web completamente acumulados|HOF|NONE|CV_JUAN5
+135|Analista Programador Android - Kotlin en OWLTEC|HOF|NONE|CV_JUAN5
+390|creo y gestion cojin de datos desnormalizando|NOT|NONE|CV_JUAN4
+215|Software engineer 1 en Inetum|HOF|NONE|CV_JUAN5
+651|Tengo conocimientos de diseño de estructuras mecánicas y uso de software de simulación |NOT|NONE|CV_JUAN4
+74| Desarrollo aplicaciones web y de escritorio para mi negocio |HOF|NONE|CV_JUAN5
+251|Software de ingenieria|HOF|NONE|CV_JUAN5
+111|Analista Programador Senior en Sonda|HOF|NONE|CV_JUAN5
+500|Gerente de Salud|NOT|NONE|CV_JUAN4
+377|Implementar software para mejorar el negocio|NOT|NONE|CV_JUAN4
+11|Aplicaciones web para incrementar la productividad |HOF|NONE|CV_JUAN5
+660|Dicto clases de control de procesos usando software avanzado. |NOT|NONE|CV_JUAN4
+430|genero documentacion para proyectos informaticos|NOT|NONE|CV_JUAN4
+323| He adquirido vasto conocimiento en programacion de aplicaciones de escritorio y moviles. |HOF|NONE|CV_JUAN5
+676|Tengo certificaciones en el uso de software y aplicaciones avanzadas en metrologia |NOT|NONE|CV_JUAN4
+232|Analista Desarrollador Full Stack en Canvia - -Analista programador para el grupo DISTRILUZ,|HOF|NONE|CV_JUAN5
+308| Una de mis principales funciones es la supervision del equipo de analistas de software. |HOF|NONE|CV_JUAN5
+669|Realizo pruebas de aplicaciones y programas de entretenimiento . |NOT|NONE|CV_JUAN4
+263|Laboratorio Suizo S.A.C. Analista|HOF|NONE|CV_JUAN5
+20|Creo aplicaciones web y de escritorio para mi empresa|HOF|NONE|CV_JUAN5
+223|Desarrollador Backend Semi Senior|HOF|NONE|CV_JUAN5
+8|Desarrollo aplicaciones a medida para entorno web |HOF|NONE|CV_JUAN5
+264|Analista de programas gratuito|HOF|NONE|CV_JUAN5
+403|Analista de negocios con graduado en grana. |NOT|NONE|CV_JUAN4
+346|Desarrollador de aplicaciones de iOS en Yonusa. |HOF|NONE|CV_JUAN5
+388|cirujano para desrrollo motivacional en proyectos de vasto altitud|NOT|NONE|CV_JUAN4
+631|Ingeniero de Calidad en Automatizacion ISTQB-CTFL ISTQB-CTAL-TAE AZ-900 SFPC|NOT|NONE|CV_JUAN4
+475|Ing. de Sistemas, Analista Funcional |NOT|NONE|CV_JUAN4
+253|Desarrollador de redes de Softtek|HOF|NONE|CV_JUAN5
+191|Grupo Educa_D Experto de funcion tecnica|HOF|NONE|CV_JUAN5
+593|Jefe de Almacen en Emotion Group Peru S.A.C|NOT|NONE|CV_JUAN4
+172|Credinka Financial|HOF|NONE|CV_JUAN5
+118|ANALISTA PROGRAMADOR DE SISTEMAS EN CONSORCIO DE FABRICA DE SOFTWARE. (GM)|HOF|NONE|CV_JUAN5
+113|Software engineer 1 en Inetum|HOF|NONE|CV_JUAN5
+445|Analizo y pruebo la ahinco|NOT|NONE|CV_JUAN4
+358|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
+349|Jefe de área de desarrollo de aplicaciones. |HOF|NONE|CV_JUAN5
+467|Product Owner|NOT|NONE|CV_JUAN4
+290|Android -Wltecs Kotlin -Program Analyst|HOF|NONE|CV_JUAN5
+625|Analista de Funciones Tecnicas, Tecnocom S.A.|NOT|NONE|CV_JUAN4
+489|Administrador de Obra|NOT|NONE|CV_JUAN4
+496|Licenciado en administracion|NOT|NONE|CV_JUAN4
+656|He desarrollado proyectos de Up grade en la Subestación Electrica  y actualizacion del software de los reles de proteccion. |NOT|NONE|CV_JUAN4
+273|Analista de programadores SystemA en el consorcio de fabrica de software. (GM)|HOF|NONE|CV_JUAN5
+655|Tengo como responsabilidades el modelamiento y programación de controladores MCP para molinos SAG. |NOT|NONE|CV_JUAN4
+248|Analista Programador en Materia Gris - Consultoria Tecnologica|HOF|NONE|CV_JUAN5
+345|Ingeniero de aplicaciones en INDUSTRIAL COM. |HOF|NONE|CV_JUAN5
+50| Desarrolladores de aplicaciones web y de escritorio |HOF|NONE|CV_JUAN5
+115|Analista Programador en Impress Professional Outsourcing S.A.C.|HOF|NONE|CV_JUAN5
+602|Director de Operaciones, Administrador de Contratos|NOT|NONE|CV_JUAN4
+588|Administrador de Obra|NOT|NONE|CV_JUAN4
+100|Analista de Desarrollo  Web Developer |HOF|NONE|CV_JUAN5
+77| Desarrollo aplicaciones web y de escritorio para mi empresa |HOF|NONE|CV_JUAN5
+10|Hago analisis y aplicaciones web |HOF|NONE|CV_JUAN5
+580|Consultor de sistemas de TI |NOT|NONE|CV_JUAN4
+485|Administrador en Acurio Restaurantes|NOT|NONE|CV_JUAN4
+285|Canria Full Stack Developer Analyst Group Alist -Programmer,|HOF|NONE|CV_JUAN5
+413|creo y gestion saco de datos desnormalizando|NOT|NONE|CV_JUAN4
+451|Analista Funcional en Conxultiva Digital S.A.C.|NOT|NONE|CV_JUAN4
+287|Programadores de la Asociacion Cultural Peruana del Reino Unido (britanicos)|HOF|NONE|CV_JUAN5
+4|Programador para aplicaciones online y analista de software |HOF|NONE|CV_JUAN5
+458|Analista funcional SAP|NOT|NONE|CV_JUAN4
+192|Gerentes de bases de datos y desarrolladores de software|HOF|NONE|CV_JUAN5
+330| Soy disenador y prgramador de sitios Web para colegios y academias. |HOF|NONE|CV_JUAN5
+326| Poseo certificaciones internacionales en diseno y programacion de aplicaciones para la gestion empresarial. |HOF|NONE|CV_JUAN5
+411|prudencial para desrrollo motivacional en proyectos de conspicuo altura|NOT|NONE|CV_JUAN4
+547|Gerente de Operaciones, P&R World Services SAC|NOT|NONE|CV_JUAN4
+466|ANALISTA DE CALIDAD - CANVIA|NOT|NONE|CV_JUAN4
+347|Desarrollador de aplicaciones senior en Metaenlace Sistemas de Información. |HOF|NONE|CV_JUAN5
+89| Desarrolladores de aplicaciones web  y Desarrolladores |HOF|NONE|CV_JUAN5
+453|Jefe de Operacion , Administrador de Contrato|NOT|NONE|CV_JUAN4
+149|Software de ingenieria|HOF|NONE|CV_JUAN5
+514|Jefe de Servicios de Gestion de Aplicaciones, Omnia Solution S.A.C.|NOT|NONE|CV_JUAN4
+7|Aplicaciones de soluciones web para empresas |HOF|NONE|CV_JUAN5
+88| Desarrolladores de aplicaciones web empresariales |HOF|NONE|CV_JUAN5
+692|Gerente de Gestion de Aplicaciones at Banco de Credito BCP. |NOT|NONE|CV_JUAN4
+684|Soy ingeniero de sistemas encargado del curso de Ciencias Informaticas I.|NOT|NONE|CV_JUAN4
+429|representante de base de datos oracle 12c|NOT|NONE|CV_JUAN4
+412|mandatario de ente y proyectos informaticos|NOT|NONE|CV_JUAN4
+459|Consultor Funcional,Tecnico SAP, Peru|NOT|NONE|CV_JUAN4
+167|Analistas, desarrolladores, programadores complementan el ancho|HOF|NONE|CV_JUAN5
+260|Analistas de Coritel Technical Solutions (CORITEL)|HOF|NONE|CV_JUAN5
+58| Aplicaciones web que mejoran la productividad |HOF|NONE|CV_JUAN5
+249|Arquitecto de Soluciones at Canvia|HOF|NONE|CV_JUAN5
+231|Analista Programador en Industria Grafica Cimagraf|HOF|NONE|CV_JUAN5
+43| Desarrollador, qa, analista de software |HOF|NONE|CV_JUAN5
+583|Especialista en Tecnologias Emergentes, CATALYZE Peru, The Palladium Group LLC|NOT|NONE|CV_JUAN4
+599|Gerente de Salud|NOT|NONE|CV_JUAN4
+79| Aplicaciones web de productividad |HOF|NONE|CV_JUAN5
+648|Desarrollo proyectos civiles para entidades privadas y estatales |NOT|NONE|CV_JUAN4
+552|Jefe de Operacion , Administrador de Contrato|NOT|NONE|CV_JUAN4
+1|Analista programador de software para plataforma online |HOF|NONE|CV_JUAN5
+685|Actualmente trabajo como secretaria, cuento con conocimientos en computacion.|NOT|NONE|CV_JUAN4
+558|Consultor Funcional,Tecnico SAP, Peru|NOT|NONE|CV_JUAN4
+250|Programador y Administrador de Servertux.com|HOF|NONE|CV_JUAN5
+391|analista para aplicaciones de grana de programa|NOT|NONE|CV_JUAN4
+695|Programadora de Planificacion y Control de Proyecto en AESA. |NOT|NONE|CV_JUAN4
+402|Escanear paginas web en pesquisa de vulnerabilidades|NOT|NONE|CV_JUAN4
+31|Desarrollador de aplicaciones web para empresas |HOF|NONE|CV_JUAN5
+86| Desarrolladores de aplicaciones web y de escritorio |HOF|NONE|CV_JUAN5
+185|Programadores de la Asociacion Cultural Peruana del Reino Unido (britanicos)|HOF|NONE|CV_JUAN5
+405|soy analista sencillo para pruebas de conspicuo altura|NOT|NONE|CV_JUAN4
+190|Supervisor del proyecto del financiador Credink|HOF|NONE|CV_JUAN5
+661|Soy analista de marketing. |NOT|NONE|CV_JUAN4
+383|delegado de cojin de datos oracle 12c|NOT|NONE|CV_JUAN4
+628|Consultor Senior - DevOps|NOT|NONE|CV_JUAN4
+293|Grupo Educa_D Experto de funcion tecnica|HOF|NONE|CV_JUAN5
+456|ADMINISTRADOR ESTUDIOS TeCNICOS|NOT|NONE|CV_JUAN4
+397|Analizar paginas web con vulnerabilidadas|NOT|NONE|CV_JUAN4
+198|Software engineer|HOF|NONE|CV_JUAN5
+208|Analista de TI en Scotiabank|HOF|NONE|CV_JUAN5
+46| Desarrollo entorno de aplicaciones  web personalizado |HOF|NONE|CV_JUAN5
+427|Terapeuta de rehabilitacion para extremidades altas.|NOT|NONE|CV_JUAN4
+247|Desarrollador Web Full Stack|HOF|NONE|CV_JUAN5
+394|Hago analisis y pruebo aplicaciones|NOT|NONE|CV_JUAN4
+504|El coordinador de tripulacion original de Peruvian Airlines|NOT|NONE|CV_JUAN4
+295|Java -Developer, angulo, movimiento movil|HOF|NONE|CV_JUAN5
+275|MDP Consulting S.A.C Programador|HOF|NONE|CV_JUAN5
+671|Desarrollo de calibraciones segun el programa de mantenimiento |NOT|NONE|CV_JUAN4
+375|Analista de empresas con diplomado en desarrollo|NOT|NONE|CV_JUAN4
+214|Analista programador en Mitsui Auto Finance Peru|HOF|NONE|CV_JUAN5
+359|soy analista funcional para pruebas de alto nivel|NOT|NONE|CV_JUAN4
+697|Consultor de internet Marketing. |NOT|NONE|CV_JUAN4
+473|Analista Funcional en Seidor|NOT|NONE|CV_JUAN4
+421|Analista de empresas con graduado en granazon|NOT|NONE|CV_JUAN4
+133|Analista de Soluciones en NTT DATA Services|HOF|NONE|CV_JUAN5
+505|Importacion y Exportacion EMPERATRIZ S.R.L.TDA. administrador de investigacion tecnica|NOT|NONE|CV_JUAN4
+17|Una introduccion a los desarrolladores de aplicaciones web.|HOF|NONE|CV_JUAN5
+533|Especialista en Nuevas Tecnologias, CATALYZE Peru, The Palladium Group LLC|NOT|NONE|CV_JUAN4
+636|INEI - Administrador de Base de Datos del Instituto Nacional de Informacion Estadistica|NOT|NONE|CV_JUAN4
+689|Economista independiente con certificaciones en sistemas de analisis financieros en aplicaciones de gobierno.  |NOT|NONE|CV_JUAN4
+357|Desarrollador de aplicaciones en OIM. |HOF|NONE|CV_JUAN5
+321| Tengo experiencia como desarrollador de aplicaciones de escritorio. |HOF|NONE|CV_JUAN5
+2|Programador de aplicaciones web para empresas |HOF|NONE|CV_JUAN5
+163|Consultor de TI, software de desarrollador, desarrolladores completos de pila|HOF|NONE|CV_JUAN5
+471|Bachiller de Ingenieria de Sistemas|NOT|NONE|CV_JUAN4
+694|Programadora en Viajes Cubanacan.  |NOT|NONE|CV_JUAN4
+667|Desarrollo de programas de atencion domiciliaria. |NOT|NONE|CV_JUAN4
+540|Gerente Online - Empresa Comercial Sodimac Peru|NOT|NONE|CV_JUAN4
+464|Analista Funcional SAP|NOT|NONE|CV_JUAN4
+80| Desarrollo aplicaciones web personalizadas |HOF|NONE|CV_JUAN5
+480|Consultor Senior - Devops|NOT|NONE|CV_JUAN4
+595|Licenciado en administracion|NOT|NONE|CV_JUAN4
+399|Analizo y pruebo la teson|NOT|NONE|CV_JUAN4
+551|Analista Funcional QA en Stefanini - CSM|NOT|NONE|CV_JUAN4
+52| Desarrolladores Desarrolladores, control de calidad, software Analista |HOF|NONE|CV_JUAN5
+303|Desarrollador Web Front End con énfasis en ReactJs. |HOF|NONE|CV_JUAN5
+373|Diseñar metricas para analisis de software|NOT|NONE|CV_JUAN4
+410|granazon de muebles de melanine|NOT|NONE|CV_JUAN4
+455|EXPORTACIONES E IMPORTACIONES EMPERATRIZ S.R.L.TDA.|NOT|NONE|CV_JUAN4
+513|Analista Funcional SAP|NOT|NONE|CV_JUAN4
+243|Desarrollador Java, Angular , mobile hibrido|HOF|NONE|CV_JUAN5
+555|ADMINISTRADOR ESTUDIOS TeCNICOS|NOT|NONE|CV_JUAN4
+130|Analista Desarrollador Full Stack en Canvia - -Analista programador para el grupo DISTRILUZ,|HOF|NONE|CV_JUAN5
+176|Programadores del Sistema Nacional de Supervision de Inmigracion|HOF|NONE|CV_JUAN5
+620|analista funcional CRM|NOT|NONE|CV_JUAN4
+508|Consultor Funcional, Tecnico SAP, Peru|NOT|NONE|CV_JUAN4
+658|Analista de procesos mineros.  |NOT|NONE|CV_JUAN4
+578|Analista Senior de modelos de riesgos en Interbank|NOT|NONE|CV_JUAN4
+259|Freelancer Software System Program Analyst Adaptador de tecnologia de tecnologia Compania|HOF|NONE|CV_JUAN5
+384|genero documentacion para proyectos informaticos|NOT|NONE|CV_JUAN4
+531|YOBEL SCM Planificador y Despachador de Mantenimiento|NOT|NONE|CV_JUAN4
+175|La tecnologia de consultoria adyl sufre y los analistas programados|HOF|NONE|CV_JUAN5
+637|gerente de construccion|NOT|NONE|CV_JUAN4
+524|ing Analista Funcional de Sistemas|NOT|NONE|CV_JUAN4
+73| Soluciones de redes empresariales de aplicaciones. Desarrollo de aplicaciones  web personalizadas |HOF|NONE|CV_JUAN5
+40| Desarrollador de aplicaciones web para empresas |HOF|NONE|CV_JUAN5
+110|Consultor TI , Software Developer, Full Stack Developer|HOF|NONE|CV_JUAN5
+650|Me desempene como vendedor en una tienda de informatica y dispositivos electronicos  |NOT|NONE|CV_JUAN4
+313| Encargado de la construccion y desarrollo de aplicaciones moviles para finanzas. |HOF|NONE|CV_JUAN5
