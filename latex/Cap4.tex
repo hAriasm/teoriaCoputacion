@@ -77,30 +77,66 @@ Para este experimento, se aplica el algoritmo MDS (\emph{Multidimensional Scalin
 
 Como se mencionó anteriormente, el algoritmo de clasificación utilizado es el \emph{kNN}. Su implementación está basada en una estructura \emph{KD Tree} y se escogió un valor de $k = 7$ para el experimento. De esta forma se seleccionarán los 7 vecinos más cercanos para clasificar los nuevos mensajes.
 
-La figura \ref{fig:knn_train} la distribución de puntos en 2D, diferenciando las clases en color rojo y verde. Para el conjuntos de entrenamiento relacionados a tweets, en inglés, se muestran en color verde los tweets clasificados como no ofensivos y en rojo los ofensivos. Para el conjunto de entrenamiento relacionados a resúmenes de perfil profesional, en verde los textos relacionados a un perfil de Analista Programador o Desarrolladores, y en rojo los que están relacionados a otro perfil.
+La figura \ref{fig:knn_train} la distribución de puntos en 2D, diferenciando las clases en color rojo y verde. Para el conjuntos de entrenamiento relacionados a tweets, en inglés, se muestran en color verde los tweets clasificados como no ofensivos y en rojo los ofensivos. 
 
-Los resultados se muestran en la figura \ref{fig:knn_train_results}. La aplicación del algoritmo sobre el conjunto de prueba es un conjunto de vectores con la posición final de cada punto y la clasificación respectiva, hecha en base a los k vecinos más cercanos ($k = 7$);
+Para el conjunto de entrenamiento relacionados a resúmenes de perfil profesional, en verde los textos relacionados a un perfil de Analista Programador o Desarrolladores, y en rojo los que están relacionados a otro perfil. La distribución de puntos se muestra en la figura \ref{fig:knn_test}. 
 
-Finalmente, cuando se pretende evaluar un mensaje nuevo, se muestra un punto de color negro y el resultado de la clasificación.
+Como se puede ver en ambos casos, hay puntos rojos y verdes que se sobreponen o que están muy cercanos entre sí, luego de aplicar los algoritmos de reducción de dimensionalidad. Esto muestra claramente la relación de ambigüedad que pueden existir entre varios términos. En la siguiente sección se podrá verificar esto de una mejor manera, en base a los resultados esperados en la fase de pruebas. 
+
 
 \begin{figure}[h!]
 	\begin{center}
 	\includegraphics[angle=0,width=9.5cm]{Graficos/knn_train}
-	\caption{Clasificación de mensajes de entrenamiento.}
+	\caption{Representación de características en 2D del conjunto de tweets.}
 	\label{fig:knn_train}
   \end{center}
 \end{figure}
 
+\begin{figure}[h!]
+	\begin{center}
+	\includegraphics[angle=0,width=9.5cm]{Graficos/knn_test}
+	\caption{Representación de características en 2D del conjunto de resùmenes.}
+	\label{fig:knn_test}
+  \end{center}
+\end{figure}
 
 \section{Resultados}
 
-En la figura  \ref{fig:knn_comparacion_a_b}   en la parte (A) mostramos los puntos en negro a ser clasificados por nuestro algoritmo, en la parte (B) mostramos el resultado luego de la clasificación.
+Los resultados de la fase de pruebas se muestran en las figuras \ref{fig:knn_train_merge_a_b} y \ref{fig:knn_test_results_a_b}. La aplicación del algoritmo sobre el conjunto de pruebas da como resultado un conjunto de vectores con la posición final de cada punto y la clasificación respectiva, hecha en base a los k vecinos más cercanos ($k = 7$);
 
+El grado de precisión o $accuracy$ para los casos descritos se muestra en la tabla \ref{table:table_results}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{ |p{4cm}|r|r|  }
+ \hline
+ \multicolumn{3}{|c|}{Grado de precisión (\emph{accuracy})} \\
+ \hline
+ & Resúmenes de CV &Tweets ofensivos\\
+ \hline
+ Total errores   & 44    &17\\
+ Total aciertos&   59  & 83\\
+ Total mensajes &103 & 100\\
+\textbf{ \% de aciertos}    &\textbf{57.3\%} & \textbf{83.0\%}\\
+ \% de error &   42.7\%  & 17.0\%\\
+ \hline
+\end{tabular}
+\caption{Tabla de resultados del experimento para resúmenes de perfiles de CV y para tweets ofensivos y no ofensivos. }
+\label{table:table_results}
+\end{table}
 
 \begin{figure}[h!]
 	\begin{center}
 	\includegraphics[ width=15cm]{Graficos/knn_train_merge_a_b}
-	\caption{Resultado después de la prueba}
-	\label{fig:knn_comparacion_a_b}
+	\caption{Fase de prueba, en azul se muestran los puntos a clasificar (a) y a la derecha los puntos ya clasificados con el color que corresponde}
+	\label{fig:knn_train_merge_a_b}
+  \end{center}
+\end{figure}
+
+\begin{figure}[h!]
+	\begin{center}
+	\includegraphics[ width=15cm]{Graficos/knn_test_results_a_b}
+	\caption{Fase de prueba, en azul se muestran los puntos a clasificar (a) y a la derecha los puntos ya clasificados con el color que corresponde}
+	\label{fig:knn_test_results_a_b}
   \end{center}
 \end{figure}
