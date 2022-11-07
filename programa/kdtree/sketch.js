@@ -89,9 +89,14 @@ function knnClassifier(root, pointY) {
 }
 
 function draw() {
+
+  let factorx = maxx * 5; 
+  let factory = maxy * 5; 
+  
+
   for (let i = 0; i < data_train.length; i++) {
-    let x = data_train[i][1] * 0.75 + (maxx / 2);
-    let y = data_train[i][2] * 0.35 + (maxy / 2);
+    let x = data_train[i][1] * factorx + (maxx / 2);
+    let y = data_train[i][2] * factory + (maxy / 2);
     if (data_train[i][0][0] === "HOF") {
       drawPoint([x, y], 255, 0, 0);
     } else {
@@ -100,8 +105,8 @@ function draw() {
   }
 
   // for (let i = 0; i < data_test.length; i++) {
-  //   let x = data_test[i][1] * 0.75 + (maxx / 2);
-  //   let y = data_test[i][2] * 0.35 + (maxy / 2);
+  //   let x = data_test[i][1] * factorx + (maxx / 2);
+  //   let y = data_test[i][2] * factory + (maxy / 2);
   //   // console.log(x + ", " + y);
   //   drawPoint([x, y], 0, 0, 255);
   //   // if (data_test[i][0][0] === "HOF") {
@@ -111,17 +116,17 @@ function draw() {
   //   // }
   // }
 
-  // for (let i = 0; i < data_test_knn.length; i++) {
-  //   let x = data_test_knn[i][1][0] * 0.75 + (maxx / 2);
-  //   let y = data_test_knn[i][1][1] * 0.35 + (maxy / 2);
+  for (let i = 0; i < data_test_knn.length; i++) {
+    let x = data_test_knn[i][1][0] * factorx + (maxx / 2);
+    let y = data_test_knn[i][1][1] * factory + (maxy / 2);
 
-  //   console.log(data_test_knn[i][0] + " <> " + x + ", " + y);
-  //   if (data_test_knn[i][0][1] === "HOF") {
-  //     drawPoint([x, y], 255, 0, 0);
-  //   } else {
-  //     drawPoint([x, y], 0, 255, 0);
-  //   }
-  // }
+    // console.log(data_test_knn[i][0] + ", " + x + ", " + y);
+    if (data_test_knn[i][0][1] === "HOF") {
+      drawPoint([x, y], 255, 0, 0);
+    } else {
+      drawPoint([x, y], 0, 255, 0);
+    }
+  }
 
 }
 
@@ -131,7 +136,7 @@ function drawPoint(point, r = 255, g = 255, b = 255, size = 7) {
   var y = point[1];
 
   // fill(r, g, b);
-  // textSize(8);
+  // textSize(6);
   // text(Math.round(x) + ", " + Math.round(y), (x * width) / maxx + 3, height - (y * height) / maxy - 3);
 
   noFill();
