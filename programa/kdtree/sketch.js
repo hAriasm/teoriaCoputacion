@@ -22,25 +22,6 @@ function setup() {
     }
   }
 }
-// function graficarKNN() {
-//   crearCanvasPuntos();
-
-//   var cantidadK = document.getElementById("cantidadK").value;
-//   var knn = findKnn(root, pointP, parseInt(cantidadK)).nearestNeighbors;
-//   console.log("PonitN graf: " + pointP);
-
-//   for (let i = 0; i < knn.length; i++) {
-//     fill(0, 0, 255);
-//     circle(
-//       (knn[i].point[0] * width) / maxx,
-//       height - (knn[i].point[1] * height) / maxy,
-//       10
-//     );
-//     console.log(knn[i].point);
-//   }
-
-//   drawPoint(pointP, 0, 255, 0);
-// }
 
 function classifier(data, data_test) {
   console.log("cantidad total de entrenamiento: " + data.length);
@@ -90,8 +71,10 @@ function knnClassifier(root, pointY) {
 
 function draw() {
 
-  let factorx = maxx * 5; 
-  let factory = maxy * 5; 
+  // let factorx = maxx * 5; 
+  // let factory = maxy * 5; 
+  let factorx = 0.6; 
+  let factory = 0.3; 
   
 
   for (let i = 0; i < data_train.length; i++) {
@@ -104,29 +87,29 @@ function draw() {
     }
   }
 
-  // for (let i = 0; i < data_test.length; i++) {
-  //   let x = data_test[i][1] * factorx + (maxx / 2);
-  //   let y = data_test[i][2] * factory + (maxy / 2);
-  //   // console.log(x + ", " + y);
-  //   drawPoint([x, y], 0, 0, 255);
-  //   // if (data_test[i][0][0] === "HOF") {
-  //   //   drawPoint([x, y], 255, 0, 0, 3);
-  //   // } else {
-  //   //   drawPoint([x, y], 0, 255, 0, 3);
-  //   // }
-  // }
-
-  for (let i = 0; i < data_test_knn.length; i++) {
-    let x = data_test_knn[i][1][0] * factorx + (maxx / 2);
-    let y = data_test_knn[i][1][1] * factory + (maxy / 2);
-
-    // console.log(data_test_knn[i][0] + ", " + x + ", " + y);
-    if (data_test_knn[i][0][1] === "HOF") {
-      drawPoint([x, y], 255, 0, 0);
-    } else {
-      drawPoint([x, y], 0, 255, 0);
-    }
+  for (let i = 0; i < data_test.length; i++) {
+    let x = data_test[i][1] * factorx + (maxx / 2);
+    let y = data_test[i][2] * factory + (maxy / 2);
+    // console.log(x + ", " + y);
+    drawPoint([x, y], 0, 0, 255, 2);
+    // if (data_test[i][0][0] === "HOF") {
+    //   drawPoint([x, y], 255, 0, 0, 3);
+    // } else {
+    //   drawPoint([x, y], 0, 255, 0, 3);
+    // }
   }
+
+  // for (let i = 0; i < data_test_knn.length; i++) {
+  //   let x = data_test_knn[i][1][0] * factorx + (maxx / 2);
+  //   let y = data_test_knn[i][1][1] * factory + (maxy / 2);
+
+  //   // console.log(data_test_knn[i][0] + ", " + x + ", " + y);
+  //   if (data_test_knn[i][0][1] === "HOF") {
+  //     drawPoint([x, y], 255, 0, 0);
+  //   } else {
+  //     drawPoint([x, y], 0, 255, 0); 
+  //   }
+  // }
 
 }
 
